@@ -4,13 +4,13 @@ import json
 from tqdm import tqdm
 
 nlp = spacy.load('en')
-file_path = './../outputs/'
+file_path = './../outputs/nerOutputs/'
 
 files = os.listdir(file_path)
 
 for file_name in tqdm(files):
   file = json.load(open(file_path+file_name))
-  for i in tqdm(file):
+  for i in (file):
     doc = nlp(file[i]['text'])
     parsedData = []
     for j in doc:
@@ -44,7 +44,7 @@ for file_name in tqdm(files):
         if marked:
           cleanedUpEnts.append(bigB)
     file[i]['cleanedUpEnts'] = cleanedUpEnts
-  with open('./../cleaned/' + file_name, 'w') as handle:
+  with open('./../outputs/cleaned/' + file_name, 'w') as handle:
     json.dump(file,handle)
 
   

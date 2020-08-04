@@ -4,8 +4,8 @@ import spacy
 
 from tqdm import tqdm
 
-file_path = './../../data/'
-output_file_path = './../outputs/'
+file_path = './../../data/HTML_TO_TEXT_UNCLEANED/'
+output_file_path = './../outputs/nerOutputs/'
 files = os.listdir(file_path)
 
 nlp = spacy.load('./../models/sebi_ib')
