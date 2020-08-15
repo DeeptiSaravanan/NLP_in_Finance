@@ -9,7 +9,7 @@ nlp = en_core_web_sm.load()
 
 file_path = './'
 
-files = ['insid_dump.json']
+files = ['templating.json']
 
 visited = []
 def mergeEntsFromNounChunks(ent, nounChunks, startPos):

@@ -6,7 +6,8 @@ from tqdm import tqdm
 
 file_path = './'
 output_file_path = './'
-files = ['./insider_rule_dump.json']
+files = ['cleaned_insider_rules_for_templating.json']
+
 
 nlp = spacy.load('./../models/sebi_ib')
 
@@ -28,7 +29,7 @@ for file in tqdm(files):
         output[lineNumber]['ents'] = ents
         output[lineNumber]['ent_labels'] = entlabels
         lineNumber += 1
-    file_name = output_file_path + file[:-7] + 'json'
+    file_name = 'templating.json'
     with open(file_name,'w') as handle:
         json.dump(output, handle)
 

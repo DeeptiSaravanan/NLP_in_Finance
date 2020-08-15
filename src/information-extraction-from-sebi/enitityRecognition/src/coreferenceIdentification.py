@@ -2,7 +2,7 @@ import neuralcoref
 import os 
 import spacy 
 
-file_path = "./../../../data/HTML_TO_TEXT_UNCLEANED/"
+file_path = "./../../../../data/HTML_TO_TEXT_UNCLEANED/"
 files = os.listdir(file_path)
 
 nlp = spacy.load('en') 
