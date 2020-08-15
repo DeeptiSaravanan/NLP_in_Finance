@@ -2,7 +2,7 @@ import neuralcoref
 import os 
 import spacy 
 
-file_path = "./../../data/HTML_TO_TEXT_UNCLEANED/"
+file_path = "./../../../data/HTML_TO_TEXT_UNCLEANED/"
 files = os.listdir(file_path)
 
 nlp = spacy.load('en') 
@@ -31,7 +31,7 @@ def getIndexMapping(text):
     indexTrack +=1
   return startIndex
 
-file_path = '/content/cleaned/'
+file_path = './../outputs/cleaned/'
 for file in files:
   data = json.load(open(file_path + file))
   data1 = []

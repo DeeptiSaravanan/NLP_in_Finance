@@ -5,7 +5,7 @@ import spacy
 from tqdm import tqdm
 
 # Load Data 
-file_path = './../../data/HTML_TO_TEXT_UNCLEANED/'
+file_path = './../../../data/HTML_TO_TEXT_UNCLEANED/'
 output_file_path = './../outputs/nerOutputs/'
 files = os.listdir(file_path)
 
