@@ -1,0 +1,318 @@
+act
+board
+compliance officer
+connected person
+generally available information
+immediate relative
+insider
+promoter
+promoter group
+securities
+specified
+takeover regulations
+trading
+trading day
+unpublished price sensitive information
+abridged prospectus
+act
+advertisement
+bank
+board
+book building
+designated stock exchange
+innovative perpetual debt instrument
+issuer
+listing agreement
+non-convertible redeemable preference share
+perpetual non-cumulative preference share
+private placement
+public issue
+offer document
+recognized stock exchange
+schedule
+specified
+wilful defaulter
+act
+board
+body corporate
+bonus issue
+certificate
+company
+completed and revenue generating project
+concession agreement
+concessioning authority
+credit rating agency
+custodian
+debt securities
+designated stock exchange
+eligible infrastructure project
+follow–on offer
+form
+holdco
+holding company
+follow-on offer document
+infrastructure
+infrastructure project
+initial offer
+initial 14 [public] offer
+inspecting officer
+act
+applicant
+associate
+board
+controlling interest
+control
+depositories act
+form
+governing board
+inspecting officer
+public interest director
+regulatory department
+schedule
+shareholder director
+board
+act
+administrator
+advertisement
+auditor
+board
+certificate
+e-auction
+e-auction agency
+investor
+property
+recovery officer
+refund order
+recovery proceedings
+registered valuer
+board
+certificate
+client
+act
+alternative investment fund
+associate
+board
+certificate
+controlling interest
+company
+corpus
+custodian
+debt fund
+equity linked instruments
+form
+goods
+hedge fund
+infrastructure fund
+inspecting authority
+investee company
+investible funds
+manager
+private equity fund
+sme
+sme fund
+social venture
+social venture fund
+sponsor
+trust
+unit
+venture capital fund
+act
+board
+designated securities
+financial year
+global depository receipts
+half year
+half yearly results
+holding company
+insolvency code
+key managerial personnel
+listed entity
+main board
+net worth
+offer document
+promoter
+promoter group
+public
+public shareholding
+quarter
+quarterly results
+related party
+related party transaction
+relative
+schedule
+securities laws
+securitized debt instruments
+security receipts
+servicer
+act
+board
+certificate
+control
+custodian
+designated bank
+designated depository participant
+act
+body corporate
+certificate
+chartered accountant
+discretionary portfolio manager
+eligible fund manager
+eligible investment fund
+form
+goods
+inspecting authority
+act
+asset management company
+associate
+board
+certificate
+control
+fund manager
+independent research analyst
+inspecting authority
+investment adviser
+limited liability partnership
+merchant banking or investment banking or brokerage services
+nbfc
+nism
+price target
+proxy adviser
+public appearance
+public media
+public offer
+relative
+research analyst
+research entity
+research report
+securities
+significant news or event
+subject company
+stock exchange
+third party research report
+act
+authorised officer
+building
+day time
+document
+enterprise
+personal information
+securities laws
+appreciation
+associate company
+board
+control
+emergency
+employee
+employee stock option scheme or esos
+employee stock purchase scheme or esps
+exercise
+act
+advertisement
+anchor investor
+act
+board
+clearing corporation
+clearing member
+control
+governing board
+key management personnel
+netting
+novation
+public
+public interest director
+recognised clearing corporation
+recognised stock exchange
+regulatory department
+rules
+shareholder director
+trading member
+acquirer
+acquisition
+act
+board
+control
+convertible security
+disinvestment
+enterprise value
+financial year
+frequently traded shares
+identified date
+immediate relative
+listing agreement
+listing regulations
+manager to the open offer
+maximum permissible non-public shareholding
+offer period
+persons acting in concert
+postal ballot
+public sector undertaking
+postal ballot
+shares
+specified
+state-level financial institution
+stock exchange
+target company
+tendering period
+volume weighted average market price
+volume weighted average price
+weighted average number of total shares
+wilful defaulter
+working day
+act
+advertisement
+board
+corporate municipal entity
+debt securities
+designated stock exchange
+general obligation bonds
+issuer
+municipality
+national municipal accounts manual
+offer document
+private placement
+institutional investor
+public issue
+revenue bonds
+schedule
+shelf prospectus
+specified
+qualified institutional buyer
+act
+alleged default
+board
+panel of whole time members
+securities laws
+specified proceedings
+tribunal
+act
+board
+body corporate
+certificate
+company
+consideration
+firm
+form
+inspecting authority
+investment advice
+investment adviser
+limited liability partnership
+nbfc
+nism
+partner
+representative
+act
+board
+body corporate
+bonus issue
+certificate
+change in control
+company
+completed property
+credit rating agency
+custodian
+designated stock exchange
+follow–on offer
+form
+initial offer
+follow-on offer document
+inspecting officer

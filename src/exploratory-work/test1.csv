@@ -1,0 +1,818 @@
+,support,itemsets,length
+0,0.08398109361349432,frozenset({'-'}),1
+1,0.03496785466275397,frozenset({'1'}),1
+2,0.005936246947873032,frozenset({'10'}),1
+3,0.005174615263994983,frozenset({'11'}),1
+4,0.005600232969691539,frozenset({'12'}),1
+5,0.004121771465692973,frozenset({'15'}),1
+6,0.033242982908088976,frozenset({'2'}),1
+7,0.008557155977688672,frozenset({'2013'}),1
+8,0.01193969669138236,frozenset({'2016'}),1
+9,0.007705920566295558,frozenset({'2018'}),1
+10,0.007437109383750364,frozenset({'2019'}),1
+11,0.021840908581797002,frozenset({'3'}),1
+12,0.009363589525324253,frozenset({'30112016'}),1
+13,0.015949463497681504,frozenset({'4'}),1
+14,0.01258932371586658,frozenset({'5'}),1
+15,0.009005174615263995,frozenset({'6'}),1
+16,0.00775072243005309,frozenset({'7'}),1
+17,0.005689836697206603,frozenset({'8'}),1
+18,0.005107412468358684,frozenset({'9'}),1
+19,0.019040792096951233,frozenset({'Act'}),1
+20,0.006384265585448355,frozenset({'Alternative'}),1
+21,0.026209090298156403,frozenset({'Amendment'}),1
+22,0.0052418180596312805,frozenset({'B'}),1
+23,0.07699200286731928,frozenset({'Board'}),1
+24,0.005062610604601152,frozenset({'Capital'}),1
+25,0.004054568670056675,frozenset({'Chapter'}),1
+26,0.011290069666898142,frozenset({'Companies'}),1
+27,0.004032167738177908,frozenset({'Date'}),1
+28,0.006473869312963419,frozenset({'Details'}),1
+29,0.00909477834277906,frozenset({'Disclosure'}),1
+30,0.005913846015994265,frozenset({'Estate'}),1
+31,0.02896440491924464,frozenset({'Exchange'}),1
+32,0.004950605945207321,frozenset({'Explanation'}),1
+33,0.006093053471024395,frozenset({'Fund'}),1
+34,0.00483860128581349,frozenset({'II'}),1
+35,0.004480186375753231,frozenset({'III'}),1
+36,0.03474384534396631,frozenset({'India'}),1
+37,0.00716829820120517,frozenset({'Infrastructure'}),1
+38,0.012163706010170023,frozenset({'Inserted'}),1
+39,0.010506037051141328,frozenset({'InvIT'}),1
+40,0.021258484352949084,frozenset({'Investment'}),1
+41,0.008288344795143478,frozenset({'Issue'}),1
+42,0.008198741067628414,frozenset({'Listing'}),1
+43,0.004054568670056675,frozenset({'Obligations'}),1
+44,0.006921887950538742,frozenset({'Page'}),1
+45,0.005465827378418942,frozenset({'Prior'}),1
+46,0.01917519768822383,frozenset({'Provided'}),1
+47,0.008870769023991398,frozenset({'REIT'}),1
+48,0.0059586478797517975,frozenset({'Real'}),1
+49,0.005801841356600434,frozenset({'Regulation'}),1
+50,0.037969579534508635,frozenset({'Regulations'}),1
+51,0.007101095405568872,frozenset({'Requirements'}),1
+52,0.015949463497681504,frozenset({'SEBI'}),1
+53,0.011581281781322103,frozenset({'Schedule'}),1
+54,0.03205573351851437,frozenset({'Securities'}),1
+55,0.00869156156896127,frozenset({'Substituted'}),1
+56,0.012656526511502878,frozenset({'Trusts'}),1
+57,0.009811608162899577,frozenset({'accordance'}),1
+58,0.009520396048475616,frozenset({'account'}),1
+59,0.004099370533814207,frozenset({'accounts'}),1
+60,0.004569790103268296,frozenset({'acquisition'}),1
+61,0.005398624582782644,frozenset({'activities'}),1
+62,0.004592191035147062,frozenset({'address'}),1
+63,0.006854685154902444,frozenset({'agreement'}),1
+64,0.00705629354181134,frozenset({'allotment'}),1
+65,0.012858134898411774,frozenset({'applicable'}),1
+66,0.014246992674895275,frozenset({'applicant'}),1
+67,0.01724871754664994,frozenset({'application'}),1
+68,0.005017808740843619,frozenset({'apply'}),1
+69,0.00810913734011335,frozenset({'approval'}),1
+70,0.0076163168387804936,frozenset({'assets'}),1
+71,0.004973006877086086,frozenset({'authority'}),1
+72,0.004345780784480635,frozenset({'available'}),1
+73,0.0247530297260366,frozenset({'b'}),1
+74,0.004973006877086086,frozenset({'bank'}),1
+75,0.009408391389081786,frozenset({'basis'}),1
+76,0.01043883425550503,frozenset({'board'}),1
+77,0.007437109383750364,frozenset({'business'}),1
+78,0.017741538047982796,frozenset({'c'}),1
+79,0.00956519791223315,frozenset({'capital'}),1
+80,0.025021840908581797,frozenset({'case'}),1
+81,0.01113326314374678,frozenset({'cent'}),1
+82,0.01066284357429269,frozenset({'certificate'}),1
+83,0.005286619923388813,frozenset({'change'}),1
+84,0.009251584865930423,frozenset({'clause'}),1
+85,0.008579556909567437,frozenset({'clearing'}),1
+86,0.004659393830783361,frozenset({'companies'}),1
+87,0.024954638112945498,frozenset({'company'}),1
+88,0.00822114199950718,frozenset({'compliance'}),1
+89,0.008086736408234582,frozenset({'conditions'}),1
+90,0.00542102551466141,frozenset({'control'}),1
+91,0.009632400707869448,frozenset({'convertible'}),1
+92,0.006989090746175041,frozenset({'corporate'}),1
+93,0.0064066665173271205,frozenset({'corporation'}),1
+94,0.012544521852109048,frozenset({'d'}),1
+95,0.02542505768239959,frozenset({'date'}),1
+96,0.011446876190049506,frozenset({'days'}),1
+97,0.011379673394413207,frozenset({'debt'}),1
+98,0.013149347012835735,frozenset({'depository'}),1
+99,0.008198741067628414,frozenset({'designated'}),1
+100,0.011581281781322103,frozenset({'details'}),1
+101,0.004144172397571739,frozenset({'directly'}),1
+102,0.007526713111265428,frozenset({'director'}),1
+103,0.016240675612105463,frozenset({'directors'}),1
+104,0.006697878631751081,frozenset({'disclosed'}),1
+105,0.004233776125086804,frozenset({'disclosure'}),1
+106,0.009318787661566722,frozenset({'disclosures'}),1
+107,0.020519253600949798,frozenset({'document'}),1
+108,0.008489953182052373,frozenset({'documents'}),1
+109,0.009946013754172173,frozenset({'draft'}),1
+110,0.011850092963867296,frozenset({'e'}),1
+111,0.004569790103268296,frozenset({'eligible'}),1
+112,0.004099370533814207,frozenset({'employee'}),1
+113,0.009520396048475616,frozenset({'ensure'}),1
+114,0.020250442418404607,frozenset({'entity'}),1
+115,0.0131717479447145,frozenset({'equity'}),1
+116,0.006921887950538742,frozenset({'etc'}),1
+117,0.01736072220604377,frozenset({'exchange'}),1
+118,0.015277435541318518,frozenset({'exchanges'}),1
+119,0.004032167738177908,frozenset({'exercise'}),1
+120,0.008064335476355817,frozenset({'f'}),1
+121,0.004681794762662127,frozenset({'fees'}),1
+122,0.005197016195873748,frozenset({'filing'}),1
+123,0.016688694249680787,frozenset({'financial'}),1
+124,0.013530162854774758,frozenset({'following'}),1
+125,0.005443426446540176,frozenset({'foreign'}),1
+126,0.007974731748840752,frozenset({'form'}),1
+127,0.004681794762662127,frozenset({'fund'}),1
+128,0.006541072108599718,frozenset({'funds'}),1
+129,0.0047937994220559575,frozenset({'g'}),1
+130,0.005353822719025111,frozenset({'given'}),1
+131,0.00454738917138953,frozenset({'grant'}),1
+132,0.004009766806299142,frozenset({'granted'}),1
+133,0.0052418180596312805,frozenset({'group'}),1
+134,0.004816200353934724,frozenset({'held'}),1
+135,0.009027575547142761,frozenset({'holders'}),1
+136,0.005398624582782644,frozenset({'holding'}),1
+137,0.010595640778656393,frozenset({'ii'}),1
+138,0.0064066665173271205,frozenset({'iii'}),1
+139,0.016195873748347932,frozenset({'including'}),1
+140,0.022288927219372326,frozenset({'information'}),1
+141,0.004144172397571739,frozenset({'initial'}),1
+142,0.00425617705696557,frozenset({'inspection'}),1
+143,0.005913846015994265,frozenset({'instruments'}),1
+144,0.011693286440715933,frozenset({'interest'}),1
+145,0.015031025290652091,frozenset({'investment'}),1
+146,0.007101095405568872,frozenset({'investor'}),1
+147,0.011738088304473466,frozenset({'investors'}),1
+148,0.04545149078201653,frozenset({'issue'}),1
+149,0.011670885508837167,frozenset({'issued'}),1
+150,0.04130731838444479,frozenset({'issuer'}),1
+151,0.004121771465692973,frozenset({'laws'}),1
+152,0.010349230527989965,frozenset({'lead'}),1
+153,0.006630675836114782,frozenset({'letter'}),1
+154,0.02732913689209471,frozenset({'listed'}),1
+155,0.007526713111265428,frozenset({'listing'}),1
+156,0.00483860128581349,frozenset({'making'}),1
+157,0.007190699133083936,frozenset({'management'}),1
+158,0.015008624358773325,frozenset({'manager'}),1
+159,0.008601957841446205,frozenset({'managers'}),1
+160,0.008198741067628414,frozenset({'manner'}),1
+161,0.00851235411393114,frozenset({'market'}),1
+162,0.009475594184718085,frozenset({'material'}),1
+163,0.013843775901077484,frozenset({'means'}),1
+164,0.004054568670056675,frozenset({'meeting'}),1
+165,0.004144172397571739,frozenset({'members'}),1
+166,0.00658587397235725,frozenset({'minimum'}),1
+167,0.00629466185793329,frozenset({'months'}),1
+168,0.0043681817163594,frozenset({'net'}),1
+169,0.009901211890414641,frozenset({'non'}),1
+170,0.004166573329450505,frozenset({'notice'}),1
+171,0.008579556909567437,frozenset({'number'}),1
+172,0.04108330906565713,frozenset({'offer'}),1
+173,0.006630675836114782,frozenset({'officer'}),1
+174,0.006496270244842186,frozenset({'open'}),1
+175,0.004099370533814207,frozenset({'option'}),1
+176,0.004883403149571022,frozenset({'order'}),1
+177,0.006137855334781927,frozenset({'paid'}),1
+178,0.005510629242176475,frozenset({'participant'}),1
+179,0.005353822719025111,frozenset({'payment'}),1
+180,0.01901839116507247,frozenset({'period'}),1
+181,0.0174727268654376,frozenset({'person'}),1
+182,0.008960372751506462,frozenset({'persons'}),1
+183,0.004121771465692973,frozenset({'place'}),1
+184,0.0052418180596312805,frozenset({'placement'}),1
+185,0.009520396048475616,frozenset({'portfolio'}),1
+186,0.004435384511995699,frozenset({'preceding'}),1
+187,0.015143029950045923,frozenset({'price'}),1
+188,0.007033892609932573,frozenset({'prior'}),1
+189,0.00542102551466141,frozenset({'project'}),1
+190,0.006048251607266862,frozenset({'promoter'}),1
+191,0.009453193252839318,frozenset({'promoters'}),1
+192,0.007571514975022961,frozenset({'proposed'}),1
+193,0.004211375193208037,frozenset({'prospectus'}),1
+194,0.005017808740843619,frozenset({'provide'}),1
+195,0.006720279563629847,frozenset({'provided'}),1
+196,0.01270132837526041,frozenset({'provisions'}),1
+197,0.02215452162809973,frozenset({'public'}),1
+198,0.008243542931385945,frozenset({'purpose'}),1
+199,0.004861002217692256,frozenset({'purposes'}),1
+200,0.004390582648238167,frozenset({'pursuant'}),1
+201,0.006765081427387379,frozenset({'read'}),1
+202,0.004233776125086804,frozenset({'receipt'}),1
+203,0.004614591967025829,frozenset({'received'}),1
+204,0.008758764364597568,frozenset({'recognised'}),1
+205,0.007526713111265428,frozenset({'registered'}),1
+206,0.00869156156896127,frozenset({'registration'}),1
+207,0.034027015523845794,frozenset({'regulation'}),1
+208,0.030532470150758273,frozenset({'regulations'}),1
+209,0.0043681817163594,frozenset({'regulatory'}),1
+210,0.005376223650903878,frozenset({'related'}),1
+211,0.004592191035147062,frozenset({'relating'}),1
+212,0.007885128021325688,frozenset({'relevant'}),1
+213,0.00909477834277906,frozenset({'report'}),1
+214,0.007840326157568155,frozenset({'required'}),1
+215,0.0064066665173271205,frozenset({'requirements'}),1
+216,0.005331421787146345,frozenset({'research'}),1
+217,0.0047937994220559575,frozenset({'resolution'}),1
+218,0.011469277121928273,frozenset({'respect'}),1
+219,0.011155664075625547,frozenset({'rights'}),1
+220,0.005510629242176475,frozenset({'rupees'}),1
+221,0.007705920566295558,frozenset({'section'}),1
+222,0.04314419479850362,frozenset({'securities'}),1
+223,0.004928205013328554,frozenset({'services'}),1
+224,0.005062610604601152,frozenset({'settlement'}),1
+225,0.150108644519612,frozenset({'shall'}),1
+226,0.004973006877086086,frozenset({'share'}),1
+227,0.008265943863264711,frozenset({'shareholders'}),1
+228,0.03024125803633431,frozenset({'shares'}),1
+229,0.04480186375753231,frozenset({'specified'}),1
+230,0.006720279563629847,frozenset({'statement'}),1
+231,0.005533030174055241,frozenset({'statements'}),1
+232,0.032615756815483524,frozenset({'stock'}),1
+233,0.022468134674402455,frozenset({'sub'}),1
+234,0.009117179274657826,frozenset({'subject'}),1
+235,0.004861002217692256,frozenset({'subscription'}),1
+236,0.005533030174055241,frozenset({'target'}),1
+237,0.010214824936717368,frozenset({'terms'}),1
+238,0.004166573329450505,frozenset({'thereof'}),1
+239,0.015277435541318518,frozenset({'time'}),1
+240,0.004099370533814207,frozenset({'total'}),1
+241,0.007705920566295558,frozenset({'trading'}),1
+242,0.00542102551466141,frozenset({'trustee'}),1
+243,0.005488228310297708,frozenset({'unit'}),1
+244,0.007302703792477767,frozenset({'units'}),1
+245,0.006742680495508613,frozenset({'value'}),1
+246,0.004592191035147062,frozenset({'voting'}),1
+247,0.004144172397571739,frozenset({'way'}),1
+248,0.023588181268340763,frozenset({'wef'}),1
+249,0.004323379852601868,frozenset({'working'}),1
+250,0.010214824936717368,frozenset({'year'}),1
+251,0.009072377410900294,frozenset({'years'}),1
+252,0.010058018413566005,"frozenset({'-', '1'})",2
+253,0.00909477834277906,"frozenset({'2', '-'})",2
+254,0.0044577854438744655,"frozenset({'-', '3'})",2
+255,0.004009766806299142,"frozenset({'Amendment', '-'})",2
+256,0.005510629242176475,"frozenset({'Regulations', '-'})",2
+257,0.004278577988844336,"frozenset({'e', '-'})",2
+258,0.005017808740843619,"frozenset({'issue', '-'})",2
+259,0.009049976479021527,"frozenset({'non', '-'})",2
+260,0.017517528729195136,"frozenset({'regulation', '-'})",2
+261,0.005017808740843619,"frozenset({'securities', '-'})",2
+262,0.015277435541318518,"frozenset({'shall', '-'})",2
+263,0.004211375193208037,"frozenset({'shares', '-'})",2
+264,0.006944288882417509,"frozenset({'-', 'specified'})",2
+265,0.02186330951367577,"frozenset({'sub', '-'})",2
+266,0.004883403149571022,"frozenset({'wef', '-'})",2
+267,0.004816200353934724,"frozenset({'2', '1'})",2
+268,0.0044577854438744655,"frozenset({'Board', '1'})",2
+269,0.004144172397571739,"frozenset({'issuer', '1'})",2
+270,0.008265943863264711,"frozenset({'regulation', '1'})",2
+271,0.014538204789319236,"frozenset({'shall', '1'})",2
+272,0.008153939203870881,"frozenset({'sub', '1'})",2
+273,0.0076163168387804936,"frozenset({'2', 'regulation'})",2
+274,0.013328554467865864,"frozenset({'shall', '2'})",2
+275,0.00775072243005309,"frozenset({'sub', '2'})",2
+276,0.006518671176720951,"frozenset({'Act', '2013'})",2
+277,0.005936246947873032,"frozenset({'Companies', '2013'})",2
+278,0.008422750386416074,"frozenset({'30112016', '2016'})",2
+279,0.00705629354181134,"frozenset({'2016', 'Amendment'})",2
+280,0.00425617705696557,"frozenset({'2016', 'Investment'})",2
+281,0.010125221209202303,"frozenset({'Regulations', '2016'})",2
+282,0.004278577988844336,"frozenset({'2016', 'Trusts'})",2
+283,0.01084205102932282,"frozenset({'wef', '2016'})",2
+284,0.005757039492842902,"frozenset({'Regulations', '2018'})",2
+285,0.004435384511995699,"frozenset({'wef', '2018'})",2
+286,0.004524988239510763,"frozenset({'2019', 'Amendment'})",2
+287,0.005667435765327838,"frozenset({'Regulations', '2019'})",2
+288,0.004950605945207321,"frozenset({'wef', '2019'})",2
+289,0.008310745727022244,"frozenset({'shall', '3'})",2
+290,0.0043681817163594,"frozenset({'30112016', 'Amendment'})",2
+291,0.00716829820120517,"frozenset({'30112016', 'Regulations'})",2
+292,0.0088035662283551,"frozenset({'30112016', 'wef'})",2
+293,0.006317062789812056,"frozenset({'shall', '4'})",2
+294,0.004278577988844336,"frozenset({'shall', '5'})",2
+295,0.007952330816961986,"frozenset({'Companies', 'Act'})",2
+296,0.005913846015994265,"frozenset({'Alternative', 'Investment'})",2
+297,0.007145897269326404,"frozenset({'Board', 'Amendment'})",2
+298,0.004771398490177191,"frozenset({'Amendment', 'Estate'})",2
+299,0.006944288882417509,"frozenset({'Exchange', 'Amendment'})",2
+300,0.00716829820120517,"frozenset({'Amendment', 'India'})",2
+301,0.0051298134002374495,"frozenset({'Amendment', 'Infrastructure'})",2
+302,0.010774848233686522,"frozenset({'Inserted', 'Amendment'})",2
+303,0.010998857552474183,"frozenset({'Amendment', 'Investment'})",2
+304,0.004748997558298425,"frozenset({'Real', 'Amendment'})",2
+305,0.01939920700701149,"frozenset({'Regulations', 'Amendment'})",2
+306,0.010192424004838602,"frozenset({'SEBI', 'Amendment'})",2
+307,0.007638717770659259,"frozenset({'Amendment', 'Securities'})",2
+308,0.010774848233686522,"frozenset({'Amendment', 'Trusts'})",2
+309,0.011558880849443337,"frozenset({'wef', 'Amendment'})",2
+310,0.02667950986761049,"frozenset({'Board', 'Exchange'})",2
+311,0.027082726641428283,"frozenset({'Board', 'India'})",2
+312,0.006317062789812056,"frozenset({'Board', 'Infrastructure'})",2
+313,0.005443426446540176,"frozenset({'Board', 'Inserted'})",2
+314,0.0073475056562352994,"frozenset({'Board', 'Investment'})",2
+315,0.005465827378418942,"frozenset({'Board', 'Regulations'})",2
+316,0.025021840908581797,"frozenset({'Board', 'Securities'})",2
+317,0.006496270244842186,"frozenset({'Board', 'Trusts'})",2
+318,0.010730046369928989,"frozenset({'shall', 'Board'})",2
+319,0.008265943863264711,"frozenset({'Board', 'specified'})",2
+320,0.004211375193208037,"frozenset({'Disclosure', 'Regulations'})",2
+321,0.0064066665173271205,"frozenset({'Disclosure', 'Requirements'})",2
+322,0.00571223762908537,"frozenset({'Estate', 'Investment'})",2
+323,0.005869044152236733,"frozenset({'Real', 'Estate'})",2
+324,0.004166573329450505,"frozenset({'Regulations', 'Estate'})",2
+325,0.004659393830783361,"frozenset({'SEBI', 'Estate'})",2
+326,0.005398624582782644,"frozenset({'Estate', 'Trusts'})",2
+327,0.02553706234179342,"frozenset({'Exchange', 'India'})",2
+328,0.006249859994175757,"frozenset({'Exchange', 'Infrastructure'})",2
+329,0.005443426446540176,"frozenset({'Exchange', 'Inserted'})",2
+330,0.006944288882417509,"frozenset({'Exchange', 'Investment'})",2
+331,0.004704195694540893,"frozenset({'Exchange', 'Regulations'})",2
+332,0.025940279115611208,"frozenset({'Exchange', 'Securities'})",2
+333,0.004121771465692973,"frozenset({'Exchange', 'Substituted'})",2
+334,0.0064066665173271205,"frozenset({'Exchange', 'Trusts'})",2
+335,0.004009766806299142,"frozenset({'Fund', 'Investment'})",2
+336,0.006361864653569588,"frozenset({'Infrastructure', 'India'})",2
+337,0.005443426446540176,"frozenset({'Inserted', 'India'})",2
+338,0.0071234963374476375,"frozenset({'Investment', 'India'})",2
+339,0.005824242288479201,"frozenset({'Regulations', 'India'})",2
+340,0.02378978965524966,"frozenset({'Securities', 'India'})",2
+341,0.006518671176720951,"frozenset({'Trusts', 'India'})",2
+342,0.006675477699872315,"frozenset({'Infrastructure', 'Investment'})",2
+343,0.006205058130418225,"frozenset({'Securities', 'Infrastructure'})",2
+344,0.006249859994175757,"frozenset({'Infrastructure', 'Trusts'})",2
+345,0.0064514683810846535,"frozenset({'Inserted', 'Investment'})",2
+346,0.007571514975022961,"frozenset({'Inserted', 'Regulations'})",2
+347,0.005891445084115499,"frozenset({'Inserted', 'SEBI'})",2
+348,0.0056226339015703055,"frozenset({'Inserted', 'Securities'})",2
+349,0.006093053471024395,"frozenset({'Inserted', 'Trusts'})",2
+350,0.005667435765327838,"frozenset({'Real', 'Investment'})",2
+351,0.007885128021325688,"frozenset({'Regulations', 'Investment'})",2
+352,0.005757039492842902,"frozenset({'SEBI', 'Investment'})",2
+353,0.00687708608678121,"frozenset({'Securities', 'Investment'})",2
+354,0.012141305078291257,"frozenset({'Trusts', 'Investment'})",2
+355,0.005264218991510047,"frozenset({'wef', 'Investment'})",2
+356,0.008153939203870881,"frozenset({'shall', 'Provided'})",2
+357,0.004144172397571739,"frozenset({'Regulations', 'Real'})",2
+358,0.004659393830783361,"frozenset({'SEBI', 'Real'})",2
+359,0.005376223650903878,"frozenset({'Real', 'Trusts'})",2
+360,0.004771398490177191,"frozenset({'Regulations', 'Requirements'})",2
+361,0.009811608162899577,"frozenset({'SEBI', 'Regulations'})",2
+362,0.004771398490177191,"frozenset({'Regulations', 'Securities'})",2
+363,0.006854685154902444,"frozenset({'Regulations', 'Trusts'})",2
+364,0.017786339911740327,"frozenset({'wef', 'Regulations'})",2
+365,0.004592191035147062,"frozenset({'SEBI', 'Trusts'})",2
+366,0.005577832037812773,"frozenset({'SEBI', 'wef'})",2
+367,0.005689836697206603,"frozenset({'Schedule', 'specified'})",2
+368,0.004188974261329271,"frozenset({'Substituted', 'Securities'})",2
+369,0.006361864653569588,"frozenset({'Securities', 'Trusts'})",2
+370,0.004950605945207321,"frozenset({'wef', 'Trusts'})",2
+371,0.004659393830783361,"frozenset({'shall', 'application'})",2
+372,0.004099370533814207,"frozenset({'shall', 'b'})",2
+373,0.005891445084115499,"frozenset({'directors', 'board'})",2
+374,0.004659393830783361,"frozenset({'shall', 'case'})",2
+375,0.005376223650903878,"frozenset({'corporation', 'clearing'})",2
+376,0.0044129835801169325,"frozenset({'company', 'shall'})",2
+377,0.004861002217692256,"frozenset({'company', 'target'})",2
+378,0.004569790103268296,"frozenset({'convertible', 'debt'})",2
+379,0.004121771465692973,"frozenset({'instruments', 'debt'})",2
+380,0.004816200353934724,"frozenset({'securities', 'debt'})",2
+381,0.004188974261329271,"frozenset({'shall', 'depository'})",2
+382,0.006339463721690823,"frozenset({'document', 'draft'})",2
+383,0.01702470822786228,"frozenset({'document', 'offer'})",2
+384,0.004973006877086086,"frozenset({'shall', 'document'})",2
+385,0.00804193454447705,"frozenset({'draft', 'offer'})",2
+386,0.00705629354181134,"frozenset({'shall', 'ensure'})",2
+387,0.014538204789319236,"frozenset({'entity', 'listed'})",2
+388,0.009587598844111915,"frozenset({'shall', 'entity'})",2
+389,0.009408391389081786,"frozenset({'equity', 'shares'})",2
+390,0.004569790103268296,"frozenset({'recognised', 'exchange'})",2
+391,0.013955780560471316,"frozenset({'stock', 'exchange'})",2
+392,0.013059743285320669,"frozenset({'stock', 'exchanges'})",2
+393,0.0059586478797517975,"frozenset({'shall', 'following'})",2
+394,0.004480186375753231,"frozenset({'shall', 'information'})",2
+395,0.005443426446540176,"frozenset({'issue', 'issuer'})",2
+396,0.004861002217692256,"frozenset({'public', 'issue'})",2
+397,0.004166573329450505,"frozenset({'securities', 'issue'})",2
+398,0.011043659416231715,"frozenset({'shall', 'issue'})",2
+399,0.013194148876593266,"frozenset({'shall', 'issuer'})",2
+400,0.007392307519992832,"frozenset({'lead', 'managers'})",2
+401,0.005600232969691539,"frozenset({'shall', 'lead'})",2
+402,0.005376223650903878,"frozenset({'letter', 'offer'})",2
+403,0.009654801639748214,"frozenset({'shall', 'listed'})",2
+404,0.004816200353934724,"frozenset({'stock', 'listed'})",2
+405,0.004502587307631998,"frozenset({'portfolio', 'manager'})",2
+406,0.006765081427387379,"frozenset({'shall', 'manager'})",2
+407,0.0044129835801169325,"frozenset({'shall', 'managers'})",2
+408,0.004771398490177191,"frozenset({'open', 'offer'})",2
+409,0.005824242288479201,"frozenset({'public', 'offer'})",2
+410,0.010326829596111198,"frozenset({'shall', 'offer'})",2
+411,0.004188974261329271,"frozenset({'shall', 'period'})",2
+412,0.005062610604601152,"frozenset({'public', 'shall'})",2
+413,0.007190699133083936,"frozenset({'stock', 'recognised'})",2
+414,0.009139580206536591,"frozenset({'shall', 'regulation'})",2
+415,0.016733496113438318,"frozenset({'sub', 'regulation'})",2
+416,0.005040209672722385,"frozenset({'shall', 'regulations'})",2
+417,0.008153939203870881,"frozenset({'shall', 'securities'})",2
+418,0.013149347012835735,"frozenset({'securities', 'specified'})",2
+419,0.0052418180596312805,"frozenset({'shall', 'shares'})",2
+420,0.009229183934051657,"frozenset({'shall', 'specified'})",2
+421,0.007593915906901727,"frozenset({'shall', 'stock'})",2
+422,0.0060706525391456285,"frozenset({'shall', 'sub'})",2
+423,0.0068994870186599765,"frozenset({'regulation', '-', '1'})",3
+424,0.007974731748840752,"frozenset({'sub', '-', '1'})",3
+425,0.006317062789812056,"frozenset({'regulation', '2', '-'})",3
+426,0.007526713111265428,"frozenset({'sub', '2', '-'})",3
+427,0.005107412468358684,"frozenset({'shall', 'regulation', '-'})",3
+428,0.01644228399901436,"frozenset({'sub', 'regulation', '-'})",3
+429,0.005824242288479201,"frozenset({'shall', 'sub', '-'})",3
+430,0.006966689814296274,"frozenset({'sub', 'regulation', '1'})",3
+431,0.006361864653569588,"frozenset({'sub', '2', 'regulation'})",3
+432,0.005936246947873032,"frozenset({'Companies', 'Act', '2013'})",3
+433,0.0043681817163594,"frozenset({'2016', 'Amendment', '30112016'})",3
+434,0.00716829820120517,"frozenset({'30112016', 'Regulations', '2016'})",3
+435,0.008422750386416074,"frozenset({'30112016', 'wef', '2016'})",3
+436,0.00425617705696557,"frozenset({'2016', 'Amendment', 'Investment'})",3
+437,0.00705629354181134,"frozenset({'2016', 'Regulations', 'Amendment'})",3
+438,0.004278577988844336,"frozenset({'2016', 'Amendment', 'Trusts'})",3
+439,0.0064066665173271205,"frozenset({'2016', 'wef', 'Amendment'})",3
+440,0.00425617705696557,"frozenset({'Regulations', '2016', 'Investment'})",3
+441,0.004144172397571739,"frozenset({'2016', 'Trusts', 'Investment'})",3
+442,0.004278577988844336,"frozenset({'Regulations', '2016', 'Trusts'})",3
+443,0.009408391389081786,"frozenset({'wef', 'Regulations', '2016'})",3
+444,0.004480186375753231,"frozenset({'2019', 'Regulations', 'Amendment'})",3
+445,0.0043681817163594,"frozenset({'30112016', 'Regulations', 'Amendment'})",3
+446,0.0043681817163594,"frozenset({'30112016', 'wef', 'Amendment'})",3
+447,0.00716829820120517,"frozenset({'30112016', 'wef', 'Regulations'})",3
+448,0.006944288882417509,"frozenset({'Board', 'Exchange', 'Amendment'})",3
+449,0.007101095405568872,"frozenset({'Board', 'Amendment', 'India'})",3
+450,0.004771398490177191,"frozenset({'Board', 'Amendment', 'Infrastructure'})",3
+451,0.004771398490177191,"frozenset({'Board', 'Inserted', 'Amendment'})",3
+452,0.0052418180596312805,"frozenset({'Board', 'Amendment', 'Investment'})",3
+453,0.006966689814296274,"frozenset({'Board', 'Amendment', 'Securities'})",3
+454,0.005219417127752515,"frozenset({'Board', 'Amendment', 'Trusts'})",3
+455,0.004771398490177191,"frozenset({'Amendment', 'Investment', 'Estate'})",3
+456,0.004748997558298425,"frozenset({'Real', 'Amendment', 'Estate'})",3
+457,0.004099370533814207,"frozenset({'Regulations', 'Amendment', 'Estate'})",3
+458,0.004211375193208037,"frozenset({'SEBI', 'Amendment', 'Estate'})",3
+459,0.004771398490177191,"frozenset({'Amendment', 'Trusts', 'Estate'})",3
+460,0.006921887950538742,"frozenset({'Exchange', 'Amendment', 'India'})",3
+461,0.004704195694540893,"frozenset({'Exchange', 'Amendment', 'Infrastructure'})",3
+462,0.004771398490177191,"frozenset({'Exchange', 'Amendment', 'Inserted'})",3
+463,0.005152214332116216,"frozenset({'Exchange', 'Amendment', 'Investment'})",3
+464,0.0068994870186599765,"frozenset({'Exchange', 'Amendment', 'Securities'})",3
+465,0.0051298134002374495,"frozenset({'Exchange', 'Amendment', 'Trusts'})",3
+466,0.0047937994220559575,"frozenset({'Amendment', 'Infrastructure', 'India'})",3
+467,0.004771398490177191,"frozenset({'Inserted', 'Amendment', 'India'})",3
+468,0.005264218991510047,"frozenset({'Amendment', 'Investment', 'India'})",3
+469,0.006944288882417509,"frozenset({'Amendment', 'Securities', 'India'})",3
+470,0.0052418180596312805,"frozenset({'Amendment', 'Trusts', 'India'})",3
+471,0.0051298134002374495,"frozenset({'Amendment', 'Infrastructure', 'Investment'})",3
+472,0.004659393830783361,"frozenset({'Securities', 'Amendment', 'Infrastructure'})",3
+473,0.0051298134002374495,"frozenset({'Infrastructure', 'Amendment', 'Trusts'})",3
+474,0.00629466185793329,"frozenset({'Inserted', 'Amendment', 'Investment'})",3
+475,0.007392307519992832,"frozenset({'Inserted', 'Regulations', 'Amendment'})",3
+476,0.00571223762908537,"frozenset({'Inserted', 'SEBI', 'Amendment'})",3
+477,0.004950605945207321,"frozenset({'Inserted', 'Amendment', 'Securities'})",3
+478,0.0060706525391456285,"frozenset({'Inserted', 'Amendment', 'Trusts'})",3
+479,0.004748997558298425,"frozenset({'Real', 'Amendment', 'Investment'})",3
+480,0.006832284223023678,"frozenset({'Regulations', 'Amendment', 'Investment'})",3
+481,0.004883403149571022,"frozenset({'SEBI', 'Amendment', 'Investment'})",3
+482,0.005107412468358684,"frozenset({'Amendment', 'Securities', 'Investment'})",3
+483,0.010349230527989965,"frozenset({'Amendment', 'Trusts', 'Investment'})",3
+484,0.004748997558298425,"frozenset({'wef', 'Amendment', 'Investment'})",3
+485,0.0040769696019354405,"frozenset({'Regulations', 'Real', 'Amendment'})",3
+486,0.004211375193208037,"frozenset({'SEBI', 'Real', 'Amendment'})",3
+487,0.004748997558298425,"frozenset({'Real', 'Amendment', 'Trusts'})",3
+488,0.008758764364597568,"frozenset({'SEBI', 'Regulations', 'Amendment'})",3
+489,0.006653076767993549,"frozenset({'Regulations', 'Amendment', 'Trusts'})",3
+490,0.011402074326291974,"frozenset({'wef', 'Regulations', 'Amendment'})",3
+491,0.00425617705696557,"frozenset({'SEBI', 'Amendment', 'Trusts'})",3
+492,0.004950605945207321,"frozenset({'SEBI', 'wef', 'Amendment'})",3
+493,0.005085011536479917,"frozenset({'Securities', 'Amendment', 'Trusts'})",3
+494,0.004928205013328554,"frozenset({'wef', 'Amendment', 'Trusts'})",3
+495,0.02546985954615712,"frozenset({'Board', 'Exchange', 'India'})",3
+496,0.006249859994175757,"frozenset({'Board', 'Exchange', 'Infrastructure'})",3
+497,0.005443426446540176,"frozenset({'Board', 'Exchange', 'Inserted'})",3
+498,0.006944288882417509,"frozenset({'Board', 'Exchange', 'Investment'})",3
+499,0.004636992898904594,"frozenset({'Board', 'Exchange', 'Regulations'})",3
+500,0.024797831589794136,"frozenset({'Board', 'Exchange', 'Securities'})",3
+501,0.0064066665173271205,"frozenset({'Board', 'Exchange', 'Trusts'})",3
+502,0.006317062789812056,"frozenset({'Board', 'Infrastructure', 'India'})",3
+503,0.005443426446540176,"frozenset({'Board', 'Inserted', 'India'})",3
+504,0.00705629354181134,"frozenset({'Board', 'Investment', 'India'})",3
+505,0.005152214332116216,"frozenset({'Board', 'Regulations', 'India'})",3
+506,0.023700185927734593,"frozenset({'Board', 'Securities', 'India'})",3
+507,0.006473869312963419,"frozenset({'Board', 'Trusts', 'India'})",3
+508,0.006048251607266862,"frozenset({'Board', 'Infrastructure', 'Investment'})",3
+509,0.006205058130418225,"frozenset({'Board', 'Securities', 'Infrastructure'})",3
+510,0.005757039492842902,"frozenset({'Board', 'Infrastructure', 'Trusts'})",3
+511,0.005443426446540176,"frozenset({'Board', 'Inserted', 'Securities'})",3
+512,0.006854685154902444,"frozenset({'Board', 'Securities', 'Investment'})",3
+513,0.0064514683810846535,"frozenset({'Board', 'Trusts', 'Investment'})",3
+514,0.006361864653569588,"frozenset({'Board', 'Securities', 'Trusts'})",3
+515,0.004144172397571739,"frozenset({'Disclosure', 'Regulations', 'Requirements'})",3
+516,0.005667435765327838,"frozenset({'Real', 'Estate', 'Investment'})",3
+517,0.004166573329450505,"frozenset({'Regulations', 'Estate', 'Investment'})",3
+518,0.004569790103268296,"frozenset({'SEBI', 'Estate', 'Investment'})",3
+519,0.005398624582782644,"frozenset({'Estate', 'Trusts', 'Investment'})",3
+520,0.004144172397571739,"frozenset({'Regulations', 'Real', 'Estate'})",3
+521,0.004659393830783361,"frozenset({'SEBI', 'Real', 'Estate'})",3
+522,0.005376223650903878,"frozenset({'Real', 'Estate', 'Trusts'})",3
+523,0.004166573329450505,"frozenset({'Regulations', 'Estate', 'Trusts'})",3
+524,0.004524988239510763,"frozenset({'SEBI', 'Estate', 'Trusts'})",3
+525,0.006249859994175757,"frozenset({'Exchange', 'Infrastructure', 'India'})",3
+526,0.005443426446540176,"frozenset({'Exchange', 'Inserted', 'India'})",3
+527,0.006944288882417509,"frozenset({'Exchange', 'Investment', 'India'})",3
+528,0.004592191035147062,"frozenset({'Exchange', 'Regulations', 'India'})",3
+529,0.02361058220021953,"frozenset({'Exchange', 'Securities', 'India'})",3
+530,0.0064066665173271205,"frozenset({'Exchange', 'Trusts', 'India'})",3
+531,0.005981048811630564,"frozenset({'Exchange', 'Infrastructure', 'Investment'})",3
+532,0.006205058130418225,"frozenset({'Exchange', 'Securities', 'Infrastructure'})",3
+533,0.005689836697206603,"frozenset({'Exchange', 'Infrastructure', 'Trusts'})",3
+534,0.005443426446540176,"frozenset({'Exchange', 'Securities', 'Inserted'})",3
+535,0.006854685154902444,"frozenset({'Exchange', 'Securities', 'Investment'})",3
+536,0.006361864653569588,"frozenset({'Exchange', 'Trusts', 'Investment'})",3
+537,0.0040769696019354405,"frozenset({'Exchange', 'Securities', 'Substituted'})",3
+538,0.006361864653569588,"frozenset({'Exchange', 'Securities', 'Trusts'})",3
+539,0.0060706525391456285,"frozenset({'India', 'Infrastructure', 'Investment'})",3
+540,0.006205058130418225,"frozenset({'Securities', 'Infrastructure', 'India'})",3
+541,0.005779440424721669,"frozenset({'Infrastructure', 'Trusts', 'India'})",3
+542,0.005443426446540176,"frozenset({'Inserted', 'Securities', 'India'})",3
+543,0.006854685154902444,"frozenset({'Securities', 'Investment', 'India'})",3
+544,0.006473869312963419,"frozenset({'Trusts', 'Investment', 'India'})",3
+545,0.006361864653569588,"frozenset({'Securities', 'Trusts', 'India'})",3
+546,0.005936246947873032,"frozenset({'Securities', 'Infrastructure', 'Investment'})",3
+547,0.006249859994175757,"frozenset({'Infrastructure', 'Trusts', 'Investment'})",3
+548,0.005645034833449071,"frozenset({'Securities', 'Infrastructure', 'Trusts'})",3
+549,0.006093053471024395,"frozenset({'Inserted', 'Trusts', 'Investment'})",3
+550,0.00571223762908537,"frozenset({'Inserted', 'Regulations', 'SEBI'})",3
+551,0.004144172397571739,"frozenset({'Regulations', 'Real', 'Investment'})",3
+552,0.004569790103268296,"frozenset({'SEBI', 'Real', 'Investment'})",3
+553,0.005376223650903878,"frozenset({'Real', 'Trusts', 'Investment'})",3
+554,0.0051298134002374495,"frozenset({'SEBI', 'Regulations', 'Investment'})",3
+555,0.006429067449205887,"frozenset({'Regulations', 'Trusts', 'Investment'})",3
+556,0.005264218991510047,"frozenset({'wef', 'Regulations', 'Investment'})",3
+557,0.004592191035147062,"frozenset({'SEBI', 'Trusts', 'Investment'})",3
+558,0.004188974261329271,"frozenset({'SEBI', 'wef', 'Investment'})",3
+559,0.006317062789812056,"frozenset({'Securities', 'Trusts', 'Investment'})",3
+560,0.004524988239510763,"frozenset({'wef', 'Trusts', 'Investment'})",3
+561,0.004144172397571739,"frozenset({'Regulations', 'Real', 'Trusts'})",3
+562,0.004524988239510763,"frozenset({'SEBI', 'Real', 'Trusts'})",3
+563,0.004032167738177908,"frozenset({'SEBI', 'Regulations', 'Trusts'})",3
+564,0.005398624582782644,"frozenset({'SEBI', 'wef', 'Regulations'})",3
+565,0.004950605945207321,"frozenset({'wef', 'Regulations', 'Trusts'})",3
+566,0.006205058130418225,"frozenset({'document', 'draft', 'offer'})",3
+567,0.0044577854438744655,"frozenset({'shall', 'document', 'offer'})",3
+568,0.007549114043144195,"frozenset({'shall', 'entity', 'listed'})",3
+569,0.0044129835801169325,"frozenset({'stock', 'recognised', 'exchange'})",3
+570,0.004144172397571739,"frozenset({'shall', 'lead', 'managers'})",3
+571,0.005017808740843619,"frozenset({'shall', 'sub', 'regulation'})",3
+572,0.006809883291144911,"frozenset({'sub', 'regulation', '-', '1'})",4
+573,0.0061826571985394594,"frozenset({'sub', 'regulation', '2', '-'})",4
+574,0.004861002217692256,"frozenset({'shall', 'sub', '-', 'regulation'})",4
+575,0.0043681817163594,"frozenset({'2016', 'Regulations', 'Amendment', '30112016'})",4
+576,0.0043681817163594,"frozenset({'2016', 'wef', 'Amendment', '30112016'})",4
+577,0.00716829820120517,"frozenset({'30112016', 'wef', 'Regulations', '2016'})",4
+578,0.00425617705696557,"frozenset({'2016', 'Regulations', 'Amendment', 'Investment'})",4
+579,0.004144172397571739,"frozenset({'2016', 'Amendment', 'Trusts', 'Investment'})",4
+580,0.004278577988844336,"frozenset({'2016', 'Regulations', 'Amendment', 'Trusts'})",4
+581,0.0064066665173271205,"frozenset({'2016', 'wef', 'Regulations', 'Amendment'})",4
+582,0.004144172397571739,"frozenset({'Regulations', '2016', 'Trusts', 'Investment'})",4
+583,0.0043681817163594,"frozenset({'30112016', 'wef', 'Regulations', 'Amendment'})",4
+584,0.006921887950538742,"frozenset({'Board', 'Exchange', 'Amendment', 'India'})",4
+585,0.004704195694540893,"frozenset({'Board', 'Exchange', 'Amendment', 'Infrastructure'})",4
+586,0.004771398490177191,"frozenset({'Board', 'Exchange', 'Amendment', 'Inserted'})",4
+587,0.005152214332116216,"frozenset({'Board', 'Exchange', 'Amendment', 'Investment'})",4
+588,0.0068994870186599765,"frozenset({'Board', 'Exchange', 'Amendment', 'Securities'})",4
+589,0.0051298134002374495,"frozenset({'Board', 'Exchange', 'Amendment', 'Trusts'})",4
+590,0.004771398490177191,"frozenset({'Board', 'Amendment', 'Infrastructure', 'India'})",4
+591,0.004771398490177191,"frozenset({'Board', 'Inserted', 'Amendment', 'India'})",4
+592,0.005219417127752515,"frozenset({'Board', 'Amendment', 'Investment', 'India'})",4
+593,0.006944288882417509,"frozenset({'Board', 'Amendment', 'Securities', 'India'})",4
+594,0.005197016195873748,"frozenset({'Board', 'Amendment', 'Trusts', 'India'})",4
+595,0.004771398490177191,"frozenset({'Board', 'Amendment', 'Infrastructure', 'Investment'})",4
+596,0.004659393830783361,"frozenset({'Board', 'Securities', 'Amendment', 'Infrastructure'})",4
+597,0.004771398490177191,"frozenset({'Board', 'Infrastructure', 'Amendment', 'Trusts'})",4
+598,0.004771398490177191,"frozenset({'Board', 'Inserted', 'Amendment', 'Securities'})",4
+599,0.005107412468358684,"frozenset({'Board', 'Amendment', 'Securities', 'Investment'})",4
+600,0.005219417127752515,"frozenset({'Board', 'Amendment', 'Trusts', 'Investment'})",4
+601,0.005085011536479917,"frozenset({'Board', 'Securities', 'Amendment', 'Trusts'})",4
+602,0.004748997558298425,"frozenset({'Real', 'Amendment', 'Investment', 'Estate'})",4
+603,0.004099370533814207,"frozenset({'Regulations', 'Amendment', 'Investment', 'Estate'})",4
+604,0.004211375193208037,"frozenset({'SEBI', 'Amendment', 'Investment', 'Estate'})",4
+605,0.004771398490177191,"frozenset({'Amendment', 'Trusts', 'Investment', 'Estate'})",4
+606,0.0040769696019354405,"frozenset({'Regulations', 'Real', 'Amendment', 'Estate'})",4
+607,0.004211375193208037,"frozenset({'SEBI', 'Real', 'Amendment', 'Estate'})",4
+608,0.004748997558298425,"frozenset({'Real', 'Amendment', 'Trusts', 'Estate'})",4
+609,0.004099370533814207,"frozenset({'Regulations', 'Amendment', 'Trusts', 'Estate'})",4
+610,0.004211375193208037,"frozenset({'SEBI', 'Amendment', 'Trusts', 'Estate'})",4
+611,0.004704195694540893,"frozenset({'Exchange', 'Amendment', 'Infrastructure', 'India'})",4
+612,0.004771398490177191,"frozenset({'Exchange', 'Amendment', 'Inserted', 'India'})",4
+613,0.005152214332116216,"frozenset({'Exchange', 'Amendment', 'Investment', 'India'})",4
+614,0.00687708608678121,"frozenset({'Exchange', 'Amendment', 'Securities', 'India'})",4
+615,0.0051298134002374495,"frozenset({'Exchange', 'Amendment', 'Trusts', 'India'})",4
+616,0.004704195694540893,"frozenset({'Exchange', 'Amendment', 'Infrastructure', 'Investment'})",4
+617,0.004659393830783361,"frozenset({'Exchange', 'Securities', 'Amendment', 'Infrastructure'})",4
+618,0.004704195694540893,"frozenset({'Exchange', 'Infrastructure', 'Amendment', 'Trusts'})",4
+619,0.004771398490177191,"frozenset({'Exchange', 'Amendment', 'Securities', 'Inserted'})",4
+620,0.005107412468358684,"frozenset({'Exchange', 'Amendment', 'Securities', 'Investment'})",4
+621,0.0051298134002374495,"frozenset({'Exchange', 'Amendment', 'Trusts', 'Investment'})",4
+622,0.005085011536479917,"frozenset({'Exchange', 'Securities', 'Amendment', 'Trusts'})",4
+623,0.0047937994220559575,"frozenset({'India', 'Amendment', 'Infrastructure', 'Investment'})",4
+624,0.004659393830783361,"frozenset({'Securities', 'Amendment', 'Infrastructure', 'India'})",4
+625,0.0047937994220559575,"frozenset({'Infrastructure', 'Amendment', 'Trusts', 'India'})",4
+626,0.004771398490177191,"frozenset({'Inserted', 'Amendment', 'Securities', 'India'})",4
+627,0.005107412468358684,"frozenset({'Amendment', 'Securities', 'Investment', 'India'})",4
+628,0.0052418180596312805,"frozenset({'Amendment', 'Trusts', 'Investment', 'India'})",4
+629,0.005085011536479917,"frozenset({'Securities', 'Amendment', 'Trusts', 'India'})",4
+630,0.004659393830783361,"frozenset({'Securities', 'Amendment', 'Infrastructure', 'Investment'})",4
+631,0.0051298134002374495,"frozenset({'Infrastructure', 'Amendment', 'Trusts', 'Investment'})",4
+632,0.004659393830783361,"frozenset({'Securities', 'Infrastructure', 'Amendment', 'Trusts'})",4
+633,0.0060706525391456285,"frozenset({'Inserted', 'Amendment', 'Trusts', 'Investment'})",4
+634,0.005555431105934007,"frozenset({'Inserted', 'Regulations', 'Amendment', 'SEBI'})",4
+635,0.0040769696019354405,"frozenset({'Regulations', 'Real', 'Amendment', 'Investment'})",4
+636,0.004211375193208037,"frozenset({'SEBI', 'Real', 'Amendment', 'Investment'})",4
+637,0.004748997558298425,"frozenset({'Real', 'Amendment', 'Trusts', 'Investment'})",4
+638,0.004614591967025829,"frozenset({'SEBI', 'Regulations', 'Amendment', 'Investment'})",4
+639,0.006227459062296992,"frozenset({'Regulations', 'Amendment', 'Trusts', 'Investment'})",4
+640,0.004748997558298425,"frozenset({'wef', 'Regulations', 'Amendment', 'Investment'})",4
+641,0.00425617705696557,"frozenset({'SEBI', 'Amendment', 'Trusts', 'Investment'})",4
+642,0.005085011536479917,"frozenset({'Securities', 'Amendment', 'Trusts', 'Investment'})",4
+643,0.004502587307631998,"frozenset({'wef', 'Amendment', 'Trusts', 'Investment'})",4
+644,0.0040769696019354405,"frozenset({'Regulations', 'Real', 'Amendment', 'Trusts'})",4
+645,0.004211375193208037,"frozenset({'SEBI', 'Real', 'Amendment', 'Trusts'})",4
+646,0.004009766806299142,"frozenset({'SEBI', 'Regulations', 'Amendment', 'Trusts'})",4
+647,0.004816200353934724,"frozenset({'SEBI', 'wef', 'Regulations', 'Amendment'})",4
+648,0.004928205013328554,"frozenset({'wef', 'Regulations', 'Amendment', 'Trusts'})",4
+649,0.006249859994175757,"frozenset({'Board', 'Exchange', 'Infrastructure', 'India'})",4
+650,0.005443426446540176,"frozenset({'Board', 'Exchange', 'Inserted', 'India'})",4
+651,0.006944288882417509,"frozenset({'Board', 'Exchange', 'Investment', 'India'})",4
+652,0.004569790103268296,"frozenset({'Board', 'Exchange', 'Regulations', 'India'})",4
+653,0.02361058220021953,"frozenset({'Board', 'Exchange', 'Securities', 'India'})",4
+654,0.0064066665173271205,"frozenset({'Board', 'Exchange', 'Trusts', 'India'})",4
+655,0.005981048811630564,"frozenset({'Board', 'Exchange', 'Infrastructure', 'Investment'})",4
+656,0.006205058130418225,"frozenset({'Board', 'Exchange', 'Securities', 'Infrastructure'})",4
+657,0.005689836697206603,"frozenset({'Board', 'Exchange', 'Infrastructure', 'Trusts'})",4
+658,0.005443426446540176,"frozenset({'Board', 'Exchange', 'Securities', 'Inserted'})",4
+659,0.006854685154902444,"frozenset({'Board', 'Exchange', 'Securities', 'Investment'})",4
+660,0.006361864653569588,"frozenset({'Board', 'Exchange', 'Trusts', 'Investment'})",4
+661,0.006361864653569588,"frozenset({'Board', 'Exchange', 'Securities', 'Trusts'})",4
+662,0.006048251607266862,"frozenset({'Board', 'India', 'Infrastructure', 'Investment'})",4
+663,0.006205058130418225,"frozenset({'Board', 'Securities', 'Infrastructure', 'India'})",4
+664,0.005757039492842902,"frozenset({'Board', 'Infrastructure', 'Trusts', 'India'})",4
+665,0.005443426446540176,"frozenset({'Board', 'Inserted', 'Securities', 'India'})",4
+666,0.006854685154902444,"frozenset({'Board', 'Securities', 'Investment', 'India'})",4
+667,0.006429067449205887,"frozenset({'Board', 'Trusts', 'Investment', 'India'})",4
+668,0.006361864653569588,"frozenset({'Board', 'Securities', 'Trusts', 'India'})",4
+669,0.005936246947873032,"frozenset({'Board', 'Securities', 'Infrastructure', 'Investment'})",4
+670,0.005757039492842902,"frozenset({'Board', 'Infrastructure', 'Trusts', 'Investment'})",4
+671,0.005645034833449071,"frozenset({'Board', 'Infrastructure', 'Trusts', 'Securities'})",4
+672,0.006317062789812056,"frozenset({'Board', 'Securities', 'Trusts', 'Investment'})",4
+673,0.004144172397571739,"frozenset({'Regulations', 'Real', 'Estate', 'Investment'})",4
+674,0.004569790103268296,"frozenset({'SEBI', 'Real', 'Estate', 'Investment'})",4
+675,0.005376223650903878,"frozenset({'Real', 'Estate', 'Trusts', 'Investment'})",4
+676,0.004166573329450505,"frozenset({'Regulations', 'Estate', 'Trusts', 'Investment'})",4
+677,0.004524988239510763,"frozenset({'SEBI', 'Estate', 'Trusts', 'Investment'})",4
+678,0.004144172397571739,"frozenset({'Regulations', 'Real', 'Estate', 'Trusts'})",4
+679,0.004524988239510763,"frozenset({'SEBI', 'Real', 'Estate', 'Trusts'})",4
+680,0.005981048811630564,"frozenset({'Exchange', 'India', 'Infrastructure', 'Investment'})",4
+681,0.006205058130418225,"frozenset({'Exchange', 'Securities', 'Infrastructure', 'India'})",4
+682,0.005689836697206603,"frozenset({'Exchange', 'Infrastructure', 'Trusts', 'India'})",4
+683,0.005443426446540176,"frozenset({'Exchange', 'Securities', 'Inserted', 'India'})",4
+684,0.006854685154902444,"frozenset({'Exchange', 'Securities', 'Investment', 'India'})",4
+685,0.006361864653569588,"frozenset({'Exchange', 'Trusts', 'Investment', 'India'})",4
+686,0.006361864653569588,"frozenset({'Exchange', 'Securities', 'Trusts', 'India'})",4
+687,0.005936246947873032,"frozenset({'Exchange', 'Securities', 'Infrastructure', 'Investment'})",4
+688,0.005689836697206603,"frozenset({'Exchange', 'Infrastructure', 'Trusts', 'Investment'})",4
+689,0.005645034833449071,"frozenset({'Securities', 'Exchange', 'Infrastructure', 'Trusts'})",4
+690,0.006317062789812056,"frozenset({'Exchange', 'Securities', 'Trusts', 'Investment'})",4
+691,0.005936246947873032,"frozenset({'Securities', 'India', 'Infrastructure', 'Investment'})",4
+692,0.005779440424721669,"frozenset({'Infrastructure', 'India', 'Trusts', 'Investment'})",4
+693,0.005645034833449071,"frozenset({'Securities', 'Infrastructure', 'Trusts', 'India'})",4
+694,0.006317062789812056,"frozenset({'Securities', 'Trusts', 'Investment', 'India'})",4
+695,0.005645034833449071,"frozenset({'Securities', 'Infrastructure', 'Trusts', 'Investment'})",4
+696,0.004144172397571739,"frozenset({'Regulations', 'Real', 'Trusts', 'Investment'})",4
+697,0.004524988239510763,"frozenset({'SEBI', 'Real', 'Trusts', 'Investment'})",4
+698,0.004032167738177908,"frozenset({'SEBI', 'Regulations', 'Trusts', 'Investment'})",4
+699,0.004188974261329271,"frozenset({'SEBI', 'wef', 'Regulations', 'Investment'})",4
+700,0.004524988239510763,"frozenset({'wef', 'Regulations', 'Trusts', 'Investment'})",4
+701,0.0043681817163594,"frozenset({'30112016', 'wef', 'Regulations', 'Amendment', '2016'})",5
+702,0.004144172397571739,"frozenset({'Investment', 'Regulations', 'Amendment', '2016', 'Trusts'})",5
+703,0.004704195694540893,"frozenset({'Board', 'Exchange', 'Amendment', 'India', 'Infrastructure'})",5
+704,0.004771398490177191,"frozenset({'Board', 'Exchange', 'Amendment', 'Inserted', 'India'})",5
+705,0.005152214332116216,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'India'})",5
+706,0.00687708608678121,"frozenset({'Board', 'Exchange', 'Amendment', 'India', 'Securities'})",5
+707,0.0051298134002374495,"frozenset({'Board', 'Exchange', 'Amendment', 'Trusts', 'India'})",5
+708,0.004704195694540893,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'Infrastructure'})",5
+709,0.004659393830783361,"frozenset({'Board', 'Exchange', 'Infrastructure', 'Amendment', 'Securities'})",5
+710,0.004704195694540893,"frozenset({'Board', 'Exchange', 'Amendment', 'Trusts', 'Infrastructure'})",5
+711,0.004771398490177191,"frozenset({'Board', 'Exchange', 'Amendment', 'Inserted', 'Securities'})",5
+712,0.005107412468358684,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'Securities'})",5
+713,0.0051298134002374495,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'Trusts'})",5
+714,0.005085011536479917,"frozenset({'Board', 'Exchange', 'Amendment', 'Trusts', 'Securities'})",5
+715,0.004771398490177191,"frozenset({'Board', 'Investment', 'Amendment', 'India', 'Infrastructure'})",5
+716,0.004659393830783361,"frozenset({'Board', 'Infrastructure', 'Amendment', 'India', 'Securities'})",5
+717,0.004771398490177191,"frozenset({'Board', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",5
+718,0.004771398490177191,"frozenset({'Board', 'Amendment', 'Inserted', 'India', 'Securities'})",5
+719,0.005107412468358684,"frozenset({'Board', 'Investment', 'Amendment', 'India', 'Securities'})",5
+720,0.005197016195873748,"frozenset({'Board', 'Investment', 'Amendment', 'Trusts', 'India'})",5
+721,0.005085011536479917,"frozenset({'Board', 'Amendment', 'Trusts', 'India', 'Securities'})",5
+722,0.004659393830783361,"frozenset({'Board', 'Investment', 'Infrastructure', 'Amendment', 'Securities'})",5
+723,0.004771398490177191,"frozenset({'Board', 'Investment', 'Amendment', 'Trusts', 'Infrastructure'})",5
+724,0.004659393830783361,"frozenset({'Board', 'Securities', 'Amendment', 'Trusts', 'Infrastructure'})",5
+725,0.005085011536479917,"frozenset({'Board', 'Investment', 'Amendment', 'Trusts', 'Securities'})",5
+726,0.0040769696019354405,"frozenset({'Real', 'Investment', 'Regulations', 'Amendment', 'Estate'})",5
+727,0.004211375193208037,"frozenset({'Real', 'Investment', 'Amendment', 'SEBI', 'Estate'})",5
+728,0.004748997558298425,"frozenset({'Real', 'Investment', 'Amendment', 'Trusts', 'Estate'})",5
+729,0.004099370533814207,"frozenset({'Investment', 'Regulations', 'Amendment', 'Trusts', 'Estate'})",5
+730,0.004211375193208037,"frozenset({'Investment', 'Amendment', 'Trusts', 'SEBI', 'Estate'})",5
+731,0.0040769696019354405,"frozenset({'Real', 'Regulations', 'Amendment', 'Trusts', 'Estate'})",5
+732,0.004211375193208037,"frozenset({'Real', 'Amendment', 'Trusts', 'SEBI', 'Estate'})",5
+733,0.004704195694540893,"frozenset({'Investment', 'Exchange', 'Amendment', 'India', 'Infrastructure'})",5
+734,0.004659393830783361,"frozenset({'Exchange', 'Infrastructure', 'Amendment', 'India', 'Securities'})",5
+735,0.004704195694540893,"frozenset({'Exchange', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",5
+736,0.004771398490177191,"frozenset({'Exchange', 'Amendment', 'Inserted', 'India', 'Securities'})",5
+737,0.005107412468358684,"frozenset({'Investment', 'Exchange', 'Amendment', 'India', 'Securities'})",5
+738,0.0051298134002374495,"frozenset({'Investment', 'Exchange', 'Amendment', 'Trusts', 'India'})",5
+739,0.005085011536479917,"frozenset({'Exchange', 'Amendment', 'Trusts', 'India', 'Securities'})",5
+740,0.004659393830783361,"frozenset({'Investment', 'Exchange', 'Infrastructure', 'Amendment', 'Securities'})",5
+741,0.004704195694540893,"frozenset({'Investment', 'Exchange', 'Amendment', 'Trusts', 'Infrastructure'})",5
+742,0.004659393830783361,"frozenset({'Exchange', 'Infrastructure', 'Amendment', 'Trusts', 'Securities'})",5
+743,0.005085011536479917,"frozenset({'Investment', 'Exchange', 'Amendment', 'Trusts', 'Securities'})",5
+744,0.004659393830783361,"frozenset({'Investment', 'Infrastructure', 'Amendment', 'India', 'Securities'})",5
+745,0.0047937994220559575,"frozenset({'Investment', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",5
+746,0.004659393830783361,"frozenset({'Infrastructure', 'Amendment', 'Trusts', 'India', 'Securities'})",5
+747,0.005085011536479917,"frozenset({'Investment', 'Amendment', 'Trusts', 'India', 'Securities'})",5
+748,0.004659393830783361,"frozenset({'Investment', 'Infrastructure', 'Amendment', 'Trusts', 'Securities'})",5
+749,0.0040769696019354405,"frozenset({'Real', 'Investment', 'Regulations', 'Amendment', 'Trusts'})",5
+750,0.004211375193208037,"frozenset({'Real', 'Investment', 'Amendment', 'Trusts', 'SEBI'})",5
+751,0.004009766806299142,"frozenset({'Investment', 'Regulations', 'Amendment', 'Trusts', 'SEBI'})",5
+752,0.004502587307631998,"frozenset({'Investment', 'wef', 'Regulations', 'Amendment', 'Trusts'})",5
+753,0.005981048811630564,"frozenset({'Board', 'Investment', 'Exchange', 'India', 'Infrastructure'})",5
+754,0.006205058130418225,"frozenset({'Board', 'Exchange', 'Infrastructure', 'India', 'Securities'})",5
+755,0.005689836697206603,"frozenset({'Board', 'Exchange', 'Trusts', 'India', 'Infrastructure'})",5
+756,0.005443426446540176,"frozenset({'Board', 'Exchange', 'Inserted', 'India', 'Securities'})",5
+757,0.006854685154902444,"frozenset({'Board', 'Investment', 'Exchange', 'India', 'Securities'})",5
+758,0.006361864653569588,"frozenset({'Board', 'Investment', 'Exchange', 'Trusts', 'India'})",5
+759,0.006361864653569588,"frozenset({'Board', 'Exchange', 'Trusts', 'India', 'Securities'})",5
+760,0.005936246947873032,"frozenset({'Board', 'Investment', 'Exchange', 'Infrastructure', 'Securities'})",5
+761,0.005689836697206603,"frozenset({'Board', 'Investment', 'Exchange', 'Trusts', 'Infrastructure'})",5
+762,0.005645034833449071,"frozenset({'Board', 'Securities', 'Exchange', 'Trusts', 'Infrastructure'})",5
+763,0.006317062789812056,"frozenset({'Board', 'Investment', 'Exchange', 'Trusts', 'Securities'})",5
+764,0.005936246947873032,"frozenset({'Board', 'Investment', 'Infrastructure', 'India', 'Securities'})",5
+765,0.005757039492842902,"frozenset({'Board', 'Investment', 'Trusts', 'India', 'Infrastructure'})",5
+766,0.005645034833449071,"frozenset({'Board', 'Securities', 'Trusts', 'India', 'Infrastructure'})",5
+767,0.006317062789812056,"frozenset({'Board', 'Investment', 'Trusts', 'India', 'Securities'})",5
+768,0.005645034833449071,"frozenset({'Board', 'Securities', 'Investment', 'Trusts', 'Infrastructure'})",5
+769,0.004144172397571739,"frozenset({'Real', 'Investment', 'Regulations', 'Trusts', 'Estate'})",5
+770,0.004524988239510763,"frozenset({'Real', 'Investment', 'Trusts', 'SEBI', 'Estate'})",5
+771,0.005936246947873032,"frozenset({'Investment', 'Exchange', 'Infrastructure', 'India', 'Securities'})",5
+772,0.005689836697206603,"frozenset({'Investment', 'Exchange', 'Trusts', 'India', 'Infrastructure'})",5
+773,0.005645034833449071,"frozenset({'Exchange', 'Infrastructure', 'Trusts', 'India', 'Securities'})",5
+774,0.006317062789812056,"frozenset({'Investment', 'Exchange', 'Trusts', 'India', 'Securities'})",5
+775,0.005645034833449071,"frozenset({'Investment', 'Exchange', 'Infrastructure', 'Trusts', 'Securities'})",5
+776,0.005645034833449071,"frozenset({'Investment', 'Infrastructure', 'Trusts', 'India', 'Securities'})",5
+777,0.004704195694540893,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'India', 'Infrastructure'})",6
+778,0.004659393830783361,"frozenset({'Board', 'Securities', 'Exchange', 'Amendment', 'India', 'Infrastructure'})",6
+779,0.004704195694540893,"frozenset({'Board', 'Exchange', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",6
+780,0.004771398490177191,"frozenset({'Board', 'Exchange', 'Amendment', 'Inserted', 'India', 'Securities'})",6
+781,0.005107412468358684,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'India', 'Securities'})",6
+782,0.0051298134002374495,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'India'})",6
+783,0.005085011536479917,"frozenset({'Board', 'Exchange', 'Amendment', 'Trusts', 'India', 'Securities'})",6
+784,0.004659393830783361,"frozenset({'Board', 'Securities', 'Investment', 'Exchange', 'Amendment', 'Infrastructure'})",6
+785,0.004704195694540893,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'Infrastructure'})",6
+786,0.004659393830783361,"frozenset({'Board', 'Securities', 'Exchange', 'Amendment', 'Trusts', 'Infrastructure'})",6
+787,0.005085011536479917,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'Securities'})",6
+788,0.004659393830783361,"frozenset({'Board', 'Securities', 'Investment', 'Amendment', 'India', 'Infrastructure'})",6
+789,0.004771398490177191,"frozenset({'Board', 'Investment', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",6
+790,0.004659393830783361,"frozenset({'Board', 'Securities', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",6
+791,0.005085011536479917,"frozenset({'Board', 'Investment', 'Amendment', 'Trusts', 'India', 'Securities'})",6
+792,0.004659393830783361,"frozenset({'Board', 'Securities', 'Investment', 'Amendment', 'Trusts', 'Infrastructure'})",6
+793,0.0040769696019354405,"frozenset({'Real', 'Investment', 'Regulations', 'Amendment', 'Trusts', 'Estate'})",6
+794,0.004211375193208037,"frozenset({'Real', 'Investment', 'Amendment', 'Trusts', 'SEBI', 'Estate'})",6
+795,0.004659393830783361,"frozenset({'Securities', 'Investment', 'Exchange', 'Amendment', 'India', 'Infrastructure'})",6
+796,0.004704195694540893,"frozenset({'Investment', 'Exchange', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",6
+797,0.004659393830783361,"frozenset({'Securities', 'Exchange', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",6
+798,0.005085011536479917,"frozenset({'Investment', 'Exchange', 'Amendment', 'Trusts', 'India', 'Securities'})",6
+799,0.004659393830783361,"frozenset({'Securities', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'Infrastructure'})",6
+800,0.004659393830783361,"frozenset({'Securities', 'Investment', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",6
+801,0.005936246947873032,"frozenset({'Board', 'Securities', 'Investment', 'Exchange', 'India', 'Infrastructure'})",6
+802,0.005689836697206603,"frozenset({'Board', 'Investment', 'Exchange', 'Trusts', 'India', 'Infrastructure'})",6
+803,0.005645034833449071,"frozenset({'Board', 'Securities', 'Exchange', 'Trusts', 'India', 'Infrastructure'})",6
+804,0.006317062789812056,"frozenset({'Board', 'Investment', 'Exchange', 'Trusts', 'India', 'Securities'})",6
+805,0.005645034833449071,"frozenset({'Board', 'Securities', 'Investment', 'Exchange', 'Trusts', 'Infrastructure'})",6
+806,0.005645034833449071,"frozenset({'Board', 'Securities', 'Investment', 'Trusts', 'India', 'Infrastructure'})",6
+807,0.005645034833449071,"frozenset({'Securities', 'Investment', 'Exchange', 'Trusts', 'India', 'Infrastructure'})",6
+808,0.004659393830783361,"frozenset({'Board', 'Securities', 'Investment', 'Exchange', 'Amendment', 'India', 'Infrastructure'})",7
+809,0.004704195694540893,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",7
+810,0.004659393830783361,"frozenset({'Board', 'Securities', 'Exchange', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",7
+811,0.005085011536479917,"frozenset({'Board', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'India', 'Securities'})",7
+812,0.004659393830783361,"frozenset({'Board', 'Securities', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'Infrastructure'})",7
+813,0.004659393830783361,"frozenset({'Board', 'Securities', 'Investment', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",7
+814,0.004659393830783361,"frozenset({'Securities', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",7
+815,0.005645034833449071,"frozenset({'Board', 'Securities', 'Investment', 'Exchange', 'Trusts', 'India', 'Infrastructure'})",7
+816,0.004659393830783361,"frozenset({'Board', 'Securities', 'Investment', 'Exchange', 'Amendment', 'Trusts', 'India', 'Infrastructure'})",8
