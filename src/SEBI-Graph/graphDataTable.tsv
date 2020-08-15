@@ -1,0 +1,173 @@
+Term1	Term2	Frequency
+acquisition	public	1
+acquisition	securities	1
+acquisition	shares	1
+acquisition	trading	1
+act	client	1
+act	representative	1
+applicant	compliance officer	2
+asset management company	board	1
+asset management company	company	2
+asset management company	employee	2
+associate company	company	1
+board	asset management company	1
+board	company	9
+board	compliance officer	4
+board	employee	1
+board	form	1
+board	public	2
+board	quarter	1
+board	rules	1
+board	securities	4
+board	takeover regulations	3
+board	trading	3
+board	unpublished price sensitive information	7
+client	act	1
+company	asset management company	2
+company	associate company	1
+company	board	9
+company	compliance officer	1
+company	connected person	3
+company	employee	3
+company	form	2
+company	immediate relative	1
+company	insider	2
+company	key managerial personnel	2
+company	promoter	3
+company	public	2
+company	recognised stock exchange	1
+company	relative	1
+company	rules	1
+company	securities	15
+company	takeover regulations	2
+company	trading	8
+company	unpublished price sensitive information	6
+compliance officer	applicant	2
+compliance officer	board	4
+compliance officer	company	1
+compliance officer	connected person	1
+compliance officer	insider	3
+compliance officer	public	1
+compliance officer	securities	6
+compliance officer	shares	1
+compliance officer	trading	7
+compliance officer	unpublished price sensitive information	5
+connected person	company	3
+connected person	compliance officer	1
+connected person	form	1
+connected person	securities	2
+connected person	trading	1
+document	securities laws	2
+employee	asset management company	2
+employee	board	1
+employee	company	3
+exercise	insider	1
+exercise	securities	1
+exercise	trading	1
+form	board	1
+form	company	2
+form	connected person	1
+form	public	1
+form	securities	1
+form	takeover regulations	1
+form	trading	2
+form	unpublished price sensitive information	1
+generally available information	unpublished price sensitive information	2
+immediate relative	company	1
+immediate relative	relative	3
+immediate relative	trading	1
+immediate relative	unpublished price sensitive information	1
+insider	company	2
+insider	compliance officer	3
+insider	exercise	1
+insider	public	2
+insider	securities	7
+insider	trading	17
+insider	unpublished price sensitive information	9
+key managerial personnel	company	2
+key managerial personnel	promoter	2
+key managerial personnel	recognised stock exchange	1
+key managerial personnel	securities	2
+promoter	company	3
+promoter	key managerial personnel	2
+promoter	recognised stock exchange	1
+promoter	securities	3
+promoter	trading	1
+public	acquisition	1
+public	board	2
+public	company	2
+public	compliance officer	1
+public	form	1
+public	insider	2
+public	securities	1
+public	shares	1
+public	takeover regulations	1
+public	trading	3
+public	unpublished price sensitive information	3
+quarter	board	1
+recognised stock exchange	company	1
+recognised stock exchange	key managerial personnel	1
+recognised stock exchange	promoter	1
+recognised stock exchange	securities	1
+relative	company	1
+relative	immediate relative	3
+relative	trading	1
+relative	unpublished price sensitive information	1
+representative	act	1
+representative	securities	1
+rules	board	1
+rules	company	1
+securities	acquisition	1
+securities	board	4
+securities	company	15
+securities	compliance officer	6
+securities	connected person	2
+securities	exercise	1
+securities	form	1
+securities	insider	7
+securities	key managerial personnel	2
+securities	promoter	3
+securities	public	1
+securities	recognised stock exchange	1
+securities	representative	1
+securities	trading	20
+securities	trading day	1
+securities	unpublished price sensitive information	7
+securities laws	document	2
+shares	acquisition	1
+shares	compliance officer	1
+shares	public	1
+takeover regulations	board	3
+takeover regulations	company	2
+takeover regulations	form	1
+takeover regulations	public	1
+takeover regulations	trading	1
+takeover regulations	unpublished price sensitive information	2
+trading	acquisition	1
+trading	board	3
+trading	company	8
+trading	compliance officer	7
+trading	connected person	1
+trading	exercise	1
+trading	form	2
+trading	immediate relative	1
+trading	insider	17
+trading	promoter	1
+trading	public	3
+trading	relative	1
+trading	securities	20
+trading	takeover regulations	1
+trading	unpublished price sensitive information	19
+trading day	securities	1
+unpublished price sensitive information	board	7
+unpublished price sensitive information	company	6
+unpublished price sensitive information	compliance officer	5
+unpublished price sensitive information	form	1
+unpublished price sensitive information	generally available information	2
+unpublished price sensitive information	immediate relative	1
+unpublished price sensitive information	insider	9
+unpublished price sensitive information	public	3
+unpublished price sensitive information	relative	1
+unpublished price sensitive information	securities	7
+unpublished price sensitive information	takeover regulations	2
+unpublished price sensitive information	trading	19
