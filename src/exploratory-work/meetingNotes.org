@@ -1,8 +1,0 @@
-* MoM
-- TF-IDF phrase wise 
-
-- Neo4j 
-- What rules worked what didnt, the challenges
-- Progress update 
-
- 
