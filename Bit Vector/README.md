@@ -1,0 +1,3 @@
+BIT VECTOR CONCEPT FOR INFORMATION RETRIEVAL
+
+Pipleline for execution
