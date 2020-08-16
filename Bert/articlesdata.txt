@@ -1,0 +1,21 @@
+1.Investopedia 13
+2.Economictimes 100
+3.Bloomberg - not SEBI specific
+4.Marketwatch - not for India
+5.FinancialTimes (Paid) - no free articles
+6.Seekingalpha 10(in each page) - (news+articles)
+7.The Financial Express 10+(English+Hindi)
+8.newshour.com 10
+9.investing.com - 5news + 5analysis
+10.kiplinger Nan
+11.CNN Markets 3(no links)
+12.Livemint 100+
+13.Business-Standard 10
+14.MoneyControl 25
+15.TheHinduBusinessLine 19
+16.vccircle 10(in each page)
+17.mondaq.com 
+18.india.com
+19.iifl
+20.moneylife
+21.business today
