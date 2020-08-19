@@ -1,7 +1,7 @@
 import spacy
 import json
 from tqdm import tqdm
-
+from spacy import displacy
 # Load Spacy NER model 
 # nlp = spacy.load('models/sebi_ib')
 
@@ -23,14 +23,25 @@ with open('insider_rule_dump.json') as f:
 #     output[lineNumber]['ent_labels'] = entlabels
 #     lineNumber += 1
 
-
+result = []
 nlp = spacy.load("en_core_web_sm")
 for line in data:
-	print(line)
+	# print(line)
 	doc = nlp(line)
-	for token in doc:
-		print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)
+	for token in doc.ents:
+		# print(token.text, token.lemma_, token.pos_)
+		result.append((token.text, token.label_))
+		print((token.text, token.label_))
+
+		# displacy.serve(doc, style="dep")
 	print('***************************************************************************************************************************************')
+
+# for token in result:
+# 	if((token[0] == 'shall') or (token[0] == 'may') or (token[0] == 'would')):
+# 		result.remove(token) 
+# for token in result:
+# 	if token[2] == 'VERB':
+# 		print(token[0])
 # # Write data to file 
 # file_name = output_file_path + 'output'
 # with open(file_name,'w') as handle:
