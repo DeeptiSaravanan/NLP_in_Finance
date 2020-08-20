@@ -14,6 +14,7 @@ for file in tqdm(files):
       res = requests.post(url, data=payload)
       data[i]['time-raw'] = res.json()
     except:
+      # print(data[i])
       data[i]['time-raw'] = []
   with open(output_file_path + file,'w') as handle:
     json.dump(data,handle)
