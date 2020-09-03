@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+
+
+Securities Appellate Tribunal
+S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+Equivalent citations: 2005 59 SCL 521 SAT
+Bench: K Rajaratnam, N Lakhanpal
+ORDER Kumar Rajaratnam, J. (Presiding Officer)
+
+1. Appeal is taken up with consent of both parties.
+
+2. These two appeals, appeal no. 165/03 and appeal 163/03 are taken up together and a common
+order is passed since it arises out of a common order. In appeal 165/03, the appellant is Asis
+Bhaumik, executive director of Sahney Paris Rhone Ltd. (hereinafter referred to as SPRL). The
+allegation against him was that he had purchased 1300 shares of SPRL on behalf of his son Rana
+Bhaumik and Raja Bhaumik. The shares were purchased at Rs. 75 per share in the month of August
+1997 and they were tendered in the open offer in November 1997 and Bhaumik family received a
+price of Rs. 117.40 per share. It was further alleged that the public did not have access to
+information about the offer price of Rs. 117.40 being offered by RIH Co. to SPRL. The public came to
+know of the offer only on 11.11.1997. It was further alleged that the Bhaumik family had purchased
+2600 shares on the basis of the unpublished price sensitive information which was not known to the
+general public but was known to Asis Bhaumik because he was in employment with SPRL. Before we
+deal with the legal aspect of the matter, it would be necessary to understand the nature of the
+transaction and the profit that enured to the Bhaumik family, according to the adjudicating officer
+appointed by SEBI, and reads as follows.
+
+-----------------------------------------------------------------------------------
+
+               Date of     No. of  Rate   Value of    No. of shares      Profit
+               Purchase    Shares  (Rs.)  the Shares  offered in the  (Rs. in lacs)
+                           Purch          purchased   Open offer at
+                           -ased          (Rs.)       Rs. 117.40
+-----------------------------------------------------------------------------------
+Rana Bhaumik  7.8.1997 to
+              14.8.1997    1300    79.00  1,02,700/-     1300            0.50
+
+Raja Bhaumik  7.8.1997 to
+              14.8.1997    1300    79.00  1,02,700/-     1300            0.50
+-----------------------------------------------------------------------------------
+
+3. By this it was alleged that the Bhaumik family had made unjust gain of Rs. 1 lakh. The
+adjudicating officer found Bhaumik guilty of the misconduct of inside trading and imposed a penalty
+of Rs. 2 lakhs.
+
+4. In appeal 163/03, the appellant is Ramesh and his wife Padmalata. Shri Ramesh was the
+Company Secretary of SPRL and he purchased on behalf of his wife Padmalata 1400 shares of SPRL
+at the rate of Rs. 79/- and sold at the rate of Rs. 117.40 on an open offer and made a profit of Rs.
+
+S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+
+Indian Kanoon - http://indiankanoon.org/doc/1338605/ 1
+
+
+
+50,000/-.
+
+5. It is not in dispute that both Bhaumik and Ramesh were insiders. Bhaumik was the executive
+director and Ramesh was the Company Secretary of SPRL. The respondent Board's reasoning
+cannot be faulted and in its succinct order on the issue of insider trader the respondent stated as
+follows.
+
+"The issue relates to the alleged insider trading by Shri S. Ramesh and Shri Ashish Bhaumik who
+was the Company Secretary and Executive Director of SPRL when the shares of SPRL were acquired
+by them through their close relatives in August 1997. It is alleged that the said acquisition at a price
+of Rs. 79/- was made on the basis of unpublished price sensitive information regarding the open
+offer price of Rs. 117.40 made by the acquirer on 11.11.1997 and that the shares so acquired were
+tendered in the open offer and received a price of Rs. 117.40 per share and thereby deriving an
+unjust enrichment at the expense of other shareholders who were unaware of the price at which the
+acquirer would acquire the shares in the public announcement.
+
+There was a press report in the Economic Times dated March 11, 1996 regarding the offer of Delco
+Remy America (DRA) to acquire 37% equity stake in SPRL and to enter into technical collaboration
+agreement with the company. Approvals from FIPB and SIA vide letters dated September 6,1996
+and July 17, 1997 for 37% equity participation in the company by the Delco Group were received.
+
+Delco Remy America Inc. (DRA) a wholly owned subsidiary of Delco Remy International, USA,
+(DRI) had entered into a license Agreement dated July 24, 1997 with SPRL pursuant to which DRA
+had granted SPRL the exclusive right to use DRA technology and technical know-how to
+manufacture, market, sell and distribute specified DRA products in India. DRA had also entered
+into a Distribution Agreement dated July 24, 1997 with SPRL appointing SPRL as the exclusive
+distributor for DRA, in India. DRA and DRI had also entered into a Trademark Sublicense
+Agreement dated July 24, 1997 with SPRL, granting SPRL a limited, exclusive, nontransferable and
+non-assignable right to use specified DRA and DRI trademarks in connection with the manufacture
+and sale of DRA products pursuant to the License Agreement.
+
+Remy India Holdings, Inc. (RIH) is a company incorporated on June 11, 1997 under the laws of the
+State of Delaware, USA. RIH is a wholly owned subsidiary of Remy International, Inc. which in turn
+is a wholly owned subsidiary of DRI. RIH entered into a share purchase agreement dated Nov. 11,
+1997 with Shri Bhupendra Singh Sahney, Smt. Brijween Kaur Sahney, Smt. Jasmine Sahney Pillai,
+Smt. Anjana Sahney Thakker, Ms. Ambita Kaur Sahney, Ms. Deepika Kaur Sahney and Bhupinder
+Investment Co. Pvt. Ltd., for purchase of 1163650 shares of the company representing 37% of the
+paid up capital of the company at a price of Rs. 117.40 per share. Application was made to SEBI vide
+letter dated March 26, 1996 for exemption under Regulation 4 of SEBI (Substantial Acquisition of
+shares and Takeovers) Regulations. SEBI considered the company's application and refused to grant
+exemption and the company was advised by SEBI vide letter dated December 24, 1996 to ensure
+compliance with the provisions of the Regulations for the proposed acquisitions of shares by Delco
+Remy, America. The refusal of SEBI to grant exemption to the acquirer from the open offer was
+communicated to the applicant and not generally known to the public at large.
+
+S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+
+Indian Kanoon - http://indiankanoon.org/doc/1338605/ 2
+
+
+
+On November 11, 1997 RIH made a public announcement about the open offer to acquire an
+aggregate of 629000 fully paid up equity shares of Rs. 10/- each of SPRL at an offer of Rs. 117.40 per
+share."
+
+6. Shri Ramesh and Asis Bhaumik being company secretary and executive director of SPRL
+respectively at the relevant time are undoubtedly connected persons in terms of Regulation 2C of
+SEBI "Insider Trading" Regulation, 1992. They are also insider in terms of Regulation 2E of SEBI
+Insider Trading Regulation, 1992.
+
+7. By the purchase of these shares both Mr. Ramesh and through him his wife and Mr. Bhaumik and
+through him his family members had unfairly gained enrichment by buying the shares in and
+around August 1997 at Rs. 79 and later tendering the shares in the open offer announced by RIH on
+behalf of Delco Remi Ltd. in November 1997 at as Rs. 117.40 per share and they made unlawful gain.
+The relevant provisions have been extracted in the impugned order and we feel it appropriate to
+reiterate the relevant provisions.
+
+"The prohibition on Insider Trading is contained in SEBI (Insider Trading) Regulations, 1992
+Regulation 3(i) of the said Regulations reads as under:-
+
+No insider shall
+
+(i) either on his own behalf or on behalf of any other person, deal in securities of a company listed
+on any stock exchange on the basis of any unpublished price sensitive information.
+
+Thus the sub-regulation prohibits,
+
+(a) an insider
+
+(b) from dealing in securities of a listed company
+
+(c) on the basis of unpublished price sensitive information Further, the term "insider" used in
+Regulation 3(i) has been defined in Regulation 2(e) as under: -
+
+"Insider" means any person who is or was connected with the company or is deemed to have been
+connected with the company and who is reasonably expected to have access by virtue of such
+connection to unpublished price sensitive information in respect of securities of the company or who
+has received or has had access to such unpublished price sensitive information.
+
+11. On an analysis of the above definition it can be concluded that the term "insider" has the
+following three essential ingredients:
+
+(a) insider is a person; and
+
+(b) who is connected or deemed to have been connected with the company; and
+
+S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+
+Indian Kanoon - http://indiankanoon.org/doc/1338605/ 3
+
+
+
+(c) who is reasonably expected to have access by virtue of such connection, to unpublished price
+sensitive information or who has received or has had access to unpublished price sensitive
+information.
+
+12. Regulation 2(c) defines "connected person'. It reads as under:
+
+"Connected person" means any person who -
+
+(i) is a director, as defined in clause (13) of Section 2 of the Companies Act, 1956 (1 of 1956) of a
+company, or is deemed to be a director of that company by virtue of sub-clause (10) of Section 307
+of that Act; or
+
+(ii) occupies the position as an officer or an employee of the company or holds a position involving a
+professional or business relationship between himself and the company and who may reasonably be
+expected to have an access to unpublished price sensitive information n relation to that company.
+
+3. prohibition on dealing communication or counseling on matters relating to insider trading. No
+insider shall -
+
+(i) either on his own behalf or on behalf of any other person deal in securities of a company listed on
+any stock exchange on the basis of an unpublished price sensitive information.
+
+(ii) Communicate any unpublished price sensitive information to any person, with or without his
+request for such information, except as required in the ordinary course of business or under any law,
+or
+
+(iii) Counsel or procure any other person to deal in securities of any company on the basis of
+unpublished price sensitive information."
+
+8. Regulation 2K reads as follows:
+
+"Unpublished Price sensitive information" means any information which relates to the following
+matters or is of concern directly or indirectly to a company and is not generally known or published
+by such company for general information but which if published or known is likely to materially
+affect the price of securities of that company in the markets : -
+
+(i) financial results (both half yearly and annual of the company
+
+(ii) intended declaration of dividends (both interim and final)
+
+(iii) issue of shares by way of public right bonus etc.
+
+(iv) any major expansion plans or execution of new projects
+
+S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+
+Indian Kanoon - http://indiankanoon.org/doc/1338605/ 4
+
+
+
+(v) amalgamation, mergers and takeovers
+
+(vi) disposal of whole or substantially the whole of the undertaking
+
+(vii) such other information as may affect the earnings of the company
+
+(viii) any changes in policies, plans or operations of the company Price agreed to be paid by the
+acquirer to the shareholders of the target company for substantial acquisition of shares and
+takeovers is undoubtedly "price sensitive information".
+
+9. Any violation of the provision relating to inside trading will make a person guilty of being an
+inside trader. It was submitted rather feebly by the counsel for the appellants that the wife of
+Ramesh or the family members of that Bhaumik are not insiders. Mr. Kumar Desai submitted that
+any person who receives sensitive information not available to the public will come within the
+bouquet of an insider trader. Mr. Desai took us though Section 15G of SEBI Act which reads as
+follows.
+
+"Section 15G of SEBI Act, 1992 provides that penalty for insider trading and reads as under "If any
+insider who, -
+
+(i) either on his own behalf or on behalf of any other person, deals in securities of a body corporate
+listed on any stock exchange on the basis of any unpublished price sensitive information; or
+
+(ii) communities any unpublished price sensitive information of any person, with or without his
+request for such information except as required in the ordinary course of business or under law; or
+
+(iii) counsels or procures for any other person deals in any securities of any body corporate on the
+basis of unpublished price sensitive information."
+
+shall be liable to a penalty not exceeding twenty-five crore rupees or three times the amount of
+profits made out of insider rading, whichever is higher."
+
+10. Mr. Desai, learned counsel for the respondent relied on American judgment in SEC v. Texas Gulf
+Sulphur Company (401 F 2d at 848) The court held that one need not be strictly termed as an
+insider but must posses inside information and if so must either disclose it or abstain from trading.
+The Court further pronounced that "anyone in possession of material inside information must either
+disclose it to the investing public or, if he is disabled from disclosing it in order to protect a
+corporate confidentiality, or if he chooses not to do so, must, abstain from trading in or
+recommending the securities concerned while such inside information remains undisclosed." In
+Shapiro v. Merrill Lynch (495 5 F 2d.235), the US Court has enforced the "disclose or abstain"
+theory by stating that this "is to protect the investing public in securities to secure fair dealing in the
+securities market by promoting full disclosure of insider information so that an informed judgment
+can be made by all the investors."
+
+S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+
+Indian Kanoon - http://indiankanoon.org/doc/1338605/ 5
+
+
+
+11. We have carefully considered the matter. As far as Mr. Bhaumik is concerned his submission has
+been one of regret and apology. In fact it is common ground that as soon as he came to know of the
+alleged violations he approached SEBI and offered to pay back the profit which he earned by the sale
+of the shares. It is also submitted that he is an elderly person and has college going children. As far
+as Mr. Ramesh is concerned, Ramesh himself appeared and submitted that he was in dire financial
+difficulty and is without proper employment. He also submitted that he was willing to pay back the
+profit. It is also submitted that Bhaumik and Ramesh are also facing criminal proceedings on the
+very same allegations and the ordeal is still continuing and for the same allegations both the
+appellants are before the criminal court.
+
+12. It is not clear as to why criminal proceedings have been commenced inspite of the fact that both
+Bhaumik and Ramesh admitted that they have made a mistake and are willing to pay back the
+ill-gotten gain. However, these are not within the domain of this Tribunal and it is for SEBI to catch
+hold of the bigger violators some of whom act to the detriment of economy of this country.
+
+13. Section 15J requires an adjudicating officer to take into account with due regard to the following
+factors
+
+a) the amount of disproportionate gain
+
+b) the amount of loss caused to the investor]
+
+c) repetitive nature of the default.
+
+We have applied these principles as enunciated in Section 15J.
+
+14. Taking into account the sad financial situation of both the parties and their admission, it would
+be appropriate to consider reducing the penalty.
+
+15. The unjust enrichment of the Bhaumik family was Rs. 1 lakh. The adjudicating authority has
+imposed a penalty of Rs. 2 lakhs. We feel it appropriate to reduce the penalty to Rs. 1.25 lakhs. With
+respect to Ramesh and wife Padmalata the unjust enrichment was approx. Rs. 50,000/-. We feel it
+appropriate taking into account the dire financial situation of Ramesh and family and to reduce it to
+Rs. 60,000/-. Accordingly, the penalty on Bhaumik is reduced from Rs. 2 lakhs to Rs. 1.25 lakhs and
+on Ramesh is reduced Rs. 1,08,000/- to Rs. 60,000/-. With the above modification, the appeals are
+disposed of. Any amount deposited in excess of the amount stipulated by us by virtue of the interim
+order shall be refunded by the respondent within 4 weeks from the date of the date. The appeal is
+disposed of accordingly. No order as to costs. Time granted for compliance of this order if the
+amount is not already paid shall be four weeks.
+
+S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+
+Indian Kanoon - http://indiankanoon.org/doc/1338605/ 6
+
+
+	S. Ramesh, S. Padmalata And Asis ... vs Securities And Exchange Board Of ... on 22 June, 2004
+

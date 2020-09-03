@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+
+Securities Appellate Tribunal
+Utsav Pathak vs Sebi on 12 June, 2020
+  BEFORE THE SECURITIES APPELLATE TRIBUNAL
+                    MUMBAI
+
+                         Order Reserved on: 05.06.2020
+
+                         Date of Decision : 12.06.2020
+
+                         Misc. Application No.138 of 2020
+                         And
+                         Appeal No.430 of 2019
+
+Utsav Pathak
+C-27/28, Patel Park Society,
+Opp. P&T Quarters,
+Santacruz (East),
+Mumbai - 400 029.                            ...Appellant
+
+           Versus
+
+Securities and Exchange Board of India
+SEBI Bhavan, Plot No. C-4A, G Block,
+Bandra Kurla Complex, Bandra (East),
+Mumbai - 400 051.                            ... Respondent
+
+Mr. Somasekhar Sundaresan, Advocate a/w Ms. Shruti Rajan and
+Mr. Rohan Banerjee, Advocates i/b Cyril Amarchand Mangaldas
+for the Appellant.
+
+Mr. Gaurav Joshi, Sr. Advocate a/w Mr. Abhiraj Arora, Mr. Vivek
+Shah, Advocates i/b ELP for the Respondent.
+
+CORAM : Justice Tarun Agarwala, Presiding Officer
+
+Dr. C. K. G. Nair, Member Justice M.T. Joshi, Judicial Member Per : Justice Tarun Agarwala,
+Presiding Officer
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+Indian Kanoon - http://indiankanoon.org/doc/199140252/ 1
+
+
+
+1. The appeal was listed for hearing on 16th April, 2020, but, on account of the lockdown declared by
+the Government on account of the COVID-19 pandemic, the case was adjourned to 24th June, 2020.
+An Application No.138/2020 was filed by the appellant praying that the appeal may be heard
+through video conference on any date convenient to the Tribunal. The said application was
+considered and accordingly we preponed the matter and heard the appeal on 3rd June and 5th June,
+2020 whereafter the judgment was reserved and the Application No.138/2020 is accordingly
+disposed of.
+
+2. The present appeal has been filed against the order dated 30th August, 2019 passed by the
+Adjudicating Officer (AO for short) of Securities and Exchange Board of India (SEBI for short)
+holding that the appellant was guilty of insider trading. The AO, however, did not impose any
+penalty.
+
+3. The facts leading to the filing of the appeal is, that a Confidentiality Agreement between the
+McGraw Hill Asian Holdings and Morgan Stanley was executed on 4th April, 2013. Based on this
+agreement, Morgan Stanley was engaged on 1st May 2013 by McGraw Hill Asian Holdings to work
+on the open offer assignment for acquisition of the shares of CRISIL Ltd. This open offer was
+considered as a sensitive information under the SEBI (Prohibition of Insider Trading) Regulations,
+1992 (PIT Regulations for short). The appellant was an employee of Morgan Stanley and, during the
+relevant period, was directly involved with the activities pertaining to the said offer.
+
+4. CRISIL is a credit rating agency and is registered with SEBI and its shares are listed on the
+Bombay Stock Exchange (BSE) and National Stock Exchange (NSE).
+
+5. On 3rd June, 2013 McGraw Hill Asian Holdings along with persons acting in concert(PAC)
+namely, McGraw Hill Financial Inc. S&P India LLC and Standard & Poor International LLC made an
+announcement of an open offer to acquire up to 1,56,70,372 equity shares of CRISIL which
+amounted to 22.23% of the total shareholding of CRISIL. The open offer was made @ Rs.1210/- per
+share even though the price of the share on that date on the stock exchange was Rs.1129.90 ps. per
+share. The announcement of the public offer led to an increase in the price of the shares by almost
+20%.
+
+6. SEBI made an investigation on the trading activities in the scrip of CRISIL and submitted an
+investigation report. Based on the said investigation report, a show-cause notice dated 9th August,
+2017 was issued which was supplanted by another show- cause notice dated 27th April 2018
+directing the appellant to show-cause as to why penalty should not be imposed. The charge against
+the appellant was that he was privy to unpublished price sensitive information(UPSI), namely,
+impending open offer and was also privy to the probable pricing of the open offer. The show-cause
+notice alleged that the appellant is the Tipper and had passed on the price sensitive information to
+his sister (Tippee-1) and to the mother-in-law of his sister (Tippee-2) and to the brother-in-law i.e.,
+the husband of sister (Tippee-3), and father-in-law of sister (Tippee-4). The show-cause notice
+further alleged that Tippee-1 and Tippee-2 traded in the shares of CRISIL and made a profit of
+Rs.37,98,969/-. The trading pattern of the Tippees indicated that they had inside information since
+the Tippees only traded in the shares of CRISIL and did not trade in any other shares. It was alleged
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+Indian Kanoon - http://indiankanoon.org/doc/199140252/ 2
+
+
+
+that the appellant was not only a connected person but also an insider under the PIT Regulations.
+
+7. The appellant denied the allegations and pointed out that even though Tippee-1 was his sister, he
+did not maintain any close relationship and, that his sister and Tippees-1, 3 & 4 were independent
+persons and were professionals in their own right to trade in the securities market. The appellant
+further contended that there is no evidence in the investigation report to suggest that the appellant
+had passed on any information to the Tippees.
+
+8. The AO after considering the material evidence on record and after giving an opportunity of
+hearing to the appellant, found that the appellant was a 'connected person' under Regulation 2(c)(ii)
+of the PIT Regulations. The AO also found that the appellant was an insider'' as per Regulation 2(e)
+and that the Tippees were persons deemed to be connected as per Regulation 2(h)(viii) of the PIT
+Regulations. The AO further came to the conclusion on the basis of circumstantial evidence that the
+appellant tipped the Tippees with regard to the price sensitive information and, therefore violated
+Regulation 3(ii) read with Clause 2.0 and 2.1 of Schedule I Part B of Model Code of Conduct for
+Prevention of Insider Trading for Other Entities. The AO found that on the basis of the information
+supplied by the appellant, the Tippees purchased large quantities of shares of CRISIL during
+unpublished price sensitive information (UPSI) period and sold the said shares immediately after
+the open offer was announced. The AO also found that the Tippees' trading record indicates that
+earlier they had never traded in large quantities. The AO after holding the appellant guilty of insider
+trading, however, did not impose any penalty.
+
+9. The appellant being aggrieved by the findings of the AO on the charge of 'insider trading' has filed
+the present appeal.
+
+10. We have heard Mr. Somasekhar Sundaresan, learned counsel along with Ms. Shruti Rajan and
+Mr. Rohan Banerjee, learned counsel for the appellant, and Mr. Gaurav Joshi, learned Senior
+Counsel along with Mr. Abhiraj Arora and Mr. Vivek Shah, learned counsel for the respondent.
+
+11. Mr. Somasekhar Sundaresan, learned counsel for the appellant contended that the case of the
+appellant was not considered by the AO. It was urged that the statements given by his sister and by
+his brother-in-law and father-in-law of his sister were not considered. If the said statements were
+considered, one would find that the Tippees were all independent professional persons who could
+take their own decisions logically. Further, their statements would adequately prove that the
+appellant was not having good terms with his sister and the family. The learned counsel further
+submitted that the finding of the AO that the appellant had tipped the Tippees was based on
+surmises and conjectures and was not based on any foundational facts. It was contended that it was
+based on no evidence. The learned counsel submitted that merely because the appellant was closely
+related to the Tippees could not lead to a finding of guilt without considering the second part of
+Regulation 2(e)(i) of the PIT Regulations which defines an 'insider'. The learned counsel further
+submitted that SEBI in its investigation report investigated one Ajay Bhalla and his firm Kotak
+Premier Investment and found that they had traded far more than the Tippees in question and made
+a profit of more than Rs.5 crores. The learned counsel submitted that whereas Ajay Bhalla, etc. has
+been let off, the appellant has been found guilty merely on the ground that he had close relationship
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+Indian Kanoon - http://indiankanoon.org/doc/199140252/ 3
+
+
+
+with the Tippees. The learned counsel contended that merely having a close relationship with the
+Tippees by itself would not hold him to be guilty unless there was some further material to draw an
+inference from the foundational facts. In this regard, the learned counsel relied upon a decision of
+the Supreme Court in Chintalapati Srinivasa Raju v. SEBI, (2018) 7 SCC 443. Reliance was also
+made of a decision passed by the Whole Time Member of SEBI in the matter of A.Vellayan & A R
+Murugappan dated 12.05.2016 in which the Whole Time Member held that the finding of guilt on
+the basis of family relationship was not proper. Similar view was taken in the matter of Sanjay Gala
+decided by the AO on 02.12.2016. The learned counsel also contended that the decision relied on by
+the AO was not applicable and was distinguishable, especially the decision of the Supreme court in
+SEBI vs. Kishore R Ajmera (2016) 6 SCC 368 which has no application to the present facts and
+circumstances of the case as the said decision was based on circumstantial evidence.
+
+12. Mr. Gaurav Joshi, learned senior counsel for the respondent defended the order of AO and
+contended that in a case of insider trading, there is hardly any direct evidence and that from the
+foundational facts one can infer on a preponderance of probability or can infer from a circumstantial
+evidence as to whether a person is guilty of insider trading. The learned counsel contended that in
+the instant case the appellant was a connected person; was an insider and was privy to the price
+sensitive information and, based on these foundational facts the AO rightly came to a conclusion
+that the appellant had tipped the Tippees. The learned senior counsel further contended that the
+appellant had access to the price sensitive information. There was a close relationship between the
+appellant and the Tippees. Further, the appellant tried to conceal his relationship with the Tippees
+before SEBI and the pattern of trading by the Tippees leads to an irresistible inference that the
+appellant had passed on the information to the Tippees and, therefore, the appellant had violated
+Regulation 3(ii) of the PIT Regulations read with Clause 2.20, 2.1 Schedule I of Part B of the Model
+Code of Conduct and Regulation 12(1) of the PIT Regulations. In support of his submission, the
+learned senior counsel placed reliance on the decision in USA vs. Raj Ratnam,09Cr.1184 (RJH), V.K.
+Kaul vs SEBI in Appeal No.55/2012 decided on 08.10.2012, Chintalapati Srinivasa Raju vs SEBI
+(2018) 7 SCC 443, Rajiv Gandhi v. SEBI in Appeal No.50/2007 decided on 09.05.2008,SEBI vs
+Kishore R Ajmera(2016) 6 SCC 368,SEBI vs Kanaiya Lal Baldevbhai Patel (2017) 15 SCC 753and
+SEBI vs Rakhi Trading Pvt. Ltd. (2018) 13 SCC 753.
+
+13. Having heard the learned counsel for the parties at length, we find that the appellant before us
+has not denied the fact that he was privy to the price sensitive information during the UPSI period.
+The appellant has also not denied the fact that he was a connected person as per Regulation 2(c)(ii)
+of the PIT Regulations. The appellant has also not denied the fact that he was an insider as defined
+under Regulation 2(e) of the PIT Regulations. The appellant has also not denied the fact that he had
+close relationship with the Tippees and therefore, the Tippees were persons deemed to be connected
+as defined under Regulation 2(h)(viii) of the PIT Regulations. In the light of the aforesaid admitted
+position which has not been disputed, it is not relevant for us to dwell on these aspects.
+
+14. The crux of the assertion is, that the appellant has been found guilty of imparting price sensitive
+information to the Tippees based only on proximity of his relationship with the Tippees. The
+contention is, that this by itself is not sufficient and no adverse inference could be drawn only on the
+basis of proximity of relationship between the Tipper and the Tippee.
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+Indian Kanoon - http://indiankanoon.org/doc/199140252/ 4
+
+
+
+15. In order to appreciate the aforesaid submissions, it would be appropriate to refer to Regulation
+2(e)(i) of the PIT Regulations which defines insider as under:-
+
+"2(e) "insider" means any person who,
+
+(i) is or was connected with the company or is deemed to have been connected with
+the company and is reasonably expected to have access to unpublished price sensitive
+information in respect of securities of a company.."
+
+16. The aforesaid regulation 2(e)(i) is in two parts. The first part has reference to any person which
+is connected with the company or is deemed to be connected with the company. In the instant case,
+the fact that the appellant is a connected person has not been denied nor can there be any doubt that
+the definition of a connected person contained in regulation 2(c) would rope in the appellant under
+sub-clause (i) thereof, as the appellant was employed by the Merchant Banker, i.e., Morgan Stanley,
+and was deputed to work on the open offer and including it's pricing was thus privy to the price
+sensitive information, being directly involved with the activities pertaining to the open offer. The
+second part of the Regulation 2(e)(i) is also required to be satisfied, namely, that such person must
+reasonably be expected to have access to unpublished price sensitive information by virtue of such
+connection in respect of securities of a company.
+
+17. According to the appellant, there is no finding of the AO with regard to the second part of the
+definition of insider in Regulation 2(e)(i), and thus, according to the appellant, the inference drawn
+only on the strength of proximity of relationship with the Tippees could not be made the basis of a
+finding of guilt under Regulation 3.
+
+18. The submission of the appellant in this regard is patently erroneous. Both parts of Regulation
+2(e)(i) are fully applicable upon the appellant namely, that he is a connected person which is
+admitted by the appellant and that he was in possession and had access to the unpublished price
+sensitive information. In this regard, there is ample evidence on record, namely, the statement of
+the Managing Director of Morgan Stanley who stated that the appellant was one of the employees
+who was working on the open offer assignment of CRISIL and was privy to the price sensitive
+information. Thus, in our view, both parts of the definition clause of insider as defined under
+Regulation 2(e)(i) are fully applicable upon the appellant.
+
+19. The contention of the learned counsel for the appellant that the inference of providing sensitive
+information by the appellant to the Tippees was not inferred from any foundational facts is patently
+erroneous. In this regard, we may note that it is a fundamental principle of law that proving of an
+allegation levelled against a person can be derived either from direct substantive evidence or can be
+inferred by a logical process of reasoning from the totality of attending facts and circumstances
+surrounding the allegations made and levelled. The Supreme Court in SEBI vs. Kishore Ajmera(
+2016) 6 SCC 368 held that in the absence of direct evidence, the court cannot become helpless and
+that the court can take notice of immediate and proximate facts and circumstances surrounding the
+events and reach to a reasonable conclusion. The Supreme Court held that the test would always be
+as to what inferential process that a reasonable/prudent man would adopt to arrive at a conclusion.
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+Indian Kanoon - http://indiankanoon.org/doc/199140252/ 5
+
+
+
+20. In this regard, the decision in Raj Ratnam's case is relevant wherein the relevance of
+circumstantial evidence relating to an insider has been culled out as under:-
+
+"...Moreover, several other Courts of Appeals have sustained insider trading
+convictions based on circumstantial evidence in considering such factors as "(1)
+access to information; (2) relationship between the tipper and the tippee; (3) timing
+of contact between the tipper and the tippee; (4) timing of the trades; (5) pattern of
+the trades; and (6) attempts to conceal either the trades or the relationship between
+the tipper and the tippee." United States v. Larrabee, 240 F.3d 18, 21-22 (1st Cir.
+2001)..."
+
+21. Taking a cue from the decision in Ajmera's case and Raj Ratnam's case, we find the foundational
+facts as under:-
+
+A. The appellant was a connected person and was an insider as per the PIT
+Regulations and was privy to the price sensitive information and was directly
+involved with the activities pertaining to the open offer.
+
+B. The appellant had close relationship with the Tippees. C. During the investigation,
+the appellant made attempts to conceal his relationship with the Tippees, as well as
+tried to dilute his role in the open offer process. D. The trading pattern of the Tippees
+makes it apparently clear that the Tippees had prior information with regard to the
+open offer. To elaborate, we find that the Tippee-1 i.e., the sister of the appellant
+purchased 4000 shares of CRISIL on 31/5/2013 and sold it on the day when the open
+offer announcement was made on 3/6/2013. Similarly, Tippee-2 purchased 15000
+shares on 14/5/2013, 20/5/2013, 21/5/2013 and 24/5/2013 and sold it on 4/6/2013.
+
+E. The Tippees only traded in the shares of CRISIL and did not trade in any other
+shares.
+
+F. Tippee 2 had borrowed large amount [Rs. 1 cr] and sold off existing holdings etc to
+finance the buy orders of CRISIL shares thereby effectively putting all her eggs in one
+basket which is a highly abnormal investment behavior.
+
+G. Purchase of large chunks of shares and selling it immediately after announcement
+of the open offer without any plausible cause is suspicious. H. The Tippees were also
+charged for insider trading and violation of the PIT Regulations. The Tippees filed a
+Settlement Application which was allowed on payment of an amount.
+
+22. From the aforesaid foundational facts, the circumstantial evidence or on a preponderance of
+probability by a logical process of reasoning from the totality of the attending facts and
+circumstances as stated aforesaid, an irresistible inference can be drawn that the appellant had
+passed on the price sensitive information regarding the open offer to the Tippees. Such inference
+taken from the immediate and proximate facts and circumstances surrounding the events is
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+Indian Kanoon - http://indiankanoon.org/doc/199140252/ 6
+
+
+
+reasonable and logical which any prudent man would arrive at such a conclusion. The Supreme
+Court in Kanhaiyalal Patel (supra) held that an inferential conclusion from proved and admitted
+facts would be permissible and legally justified so long as the same is reasonable.
+
+23. In the light of the aforesaid, the decisions cited by the learned counsel for the appellant on the
+issue that a person cannot be held guilty only on the strength of proximity of relationship with the
+Tippee are distinguishable on facts and are not applicable in the instant case. We find from the
+record that there is ample evidence to draw a reasonable inference that the appellant had passed on
+the price sensitive information to the Tippees and, consequently, we are of the opinion that the
+order of the AO does not suffer from an error of law.
+
+24. The appeal fails and is dismissed with no order as to costs.
+
+25. The present matter was heard through video conference due to Covid-19 pandemic. At this stage
+it is not possible to sign a copy of this order nor a certified copy of this order could be issued by the
+Registry. In these circumstances, this order will be digitally signed by the Presiding Officer on behalf
+of the bench and all concerned parties are directed to act on the digitally signed copy of this order.
+Parties will act on production of a digitally signed copy sent by fax and/or email.
+
+              Digitally signed by TARUN
+
+  TARUN
+              AGARWAL
+              DN: c=IN, st=Uttar Pradesh,
+              2.5.4.20=a0e08b2d80e9d23c2c          Sd/-
+              2aa3e16780d684adad6bc9e81
+              0de2d7b0c28efd35557c9,
+                                             Justice Tarun Agarwala
+  AGAR        postalCode=211001, street=B/
+              A,NYAYA MARG ALLAHABAD,
+              serialNumber=095f8b286bb0b
+              1cd07ff676611f4f5e7999727d4    Presiding Officer
+  WAL
+              04aa38ca422f9d3529bdb8a3,
+              o=Personal, cn=TARUN
+              AGARWAL
+              Date: 2020.06.12 12:14:57
+              +05'30'
+                                                   Sd/-
+                                             Dr. C.K.G. Nair
+                                             Member
+
+                                                   Sd/-
+                                             Justice M.T. Joshi
+                                             Judicial Member
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+Indian Kanoon - http://indiankanoon.org/doc/199140252/ 7
+
+
+
+12.06.2020
+dg
+
+Utsav Pathak vs Sebi on 12 June, 2020
+
+Indian Kanoon - http://indiankanoon.org/doc/199140252/ 8
+
+
+	Utsav Pathak vs Sebi on 12 June, 2020
+

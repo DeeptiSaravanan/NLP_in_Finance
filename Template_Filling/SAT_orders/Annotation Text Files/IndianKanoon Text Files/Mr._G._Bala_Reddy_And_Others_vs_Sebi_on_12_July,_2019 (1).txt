@@ -1,0 +1,625 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+
+Securities Appellate Tribunal
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+BEFORE THE SECURITIES APPELLATE TRIBUNAL
+                 MUMBAI
+
+                            Order Reserved On: 13.06.2019
+                            Date of Decision : 12.07.2019
+
+                    Appeal No. 509 of 2015
+
+1. Mr. G. Bala Reddy
+   Plot No. 139, Vivekanadnagar Colony,
+   Kukatpally,
+   Hyderabad- 500 072
+
+2. Mrs. G. Velangini Mary
+   Plot No. 139, Vivekanadnagar Colony,
+   Kukatpally,
+   Hyderabad- 500 072
+
+3. Mrs. Mary Ashwini
+   H. No. 12-2-790/53
+   Ayodhya Nagar Colony
+   Mehdipatnam,
+   Hyderabad- 500 028
+
+4. Mrs. Sravanthi Yakkanti
+   Plot No. 595, Vivekananda Nagar Colony,
+   Kakatpally,
+   Hyderabad- 500 072
+
+5. Sahasra Investments Pvt. Ltd.
+   Plot No. 838, Vivekanadnagar Colony,
+   Kukatpally,
+   Hyderabad- 500 072
+
+6. BRG Energy Ltd.
+   Plot No. 838, Vivekanadnagar Colony,
+   Kukatpally,
+   Hyderabad- 500 072
+
+7. Mr. Anthony Pratap Reddy Gali
+   H. No. 12-2-790/53
+   Ayodhya Nagar Colony Mehdipatnam,
+   Hyderabad- 500 028                        ...Appellants
+                               2
+
+Versus
+
+Securities and Exchange Board of India,
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 1
+
+
+
+SEBI Bhavan, Plot No. C-4A, G-Block,
+Bandra-Kurla Complex, Bandra (East),
+Mumbai - 400 051                              ...Respondent
+
+Mr. Darius J. Khambatta, Senior Advocate with Mr. Pesi Modi,
+Senior Advocate, Mr. Joby Mathew, Mr. Neville Lashkari,
+Mr. Nikhil Shah and Mr. Tushar Hathiramani, Advocates i/b
+Joby Mathew & Associates for the Appellants.
+
+Mr. Gaurav Joshi, Senior Advocate with Mr. Saurabh Pakale,
+Mr. Anubhav Ghosh and Ms. Rashi Dalmia, Advocates i/b The
+Law Point for the Respondent.
+
+CORAM: Justice Tarun Agarwala, Presiding Officer
+
+Dr. C.K.G. Nair, Member Justice M. T. Joshi, Judicial Member Per: Justice Tarun Agarwala
+
+1. Appellants being aggrieved by the order of the Adjudicating Officer ("AO" for short) of the
+Securities and Exchange Board of India ("SEBI" for short) dated October 15, 2015 have filed the
+present appeal wherein the following penalties were imposed namely:-
+
+"a) Shri G. Bala Reddy, G Velangini Mary, Mary Ashwini and Sravanthi Yakkanti
+violated Regulation 3 and 4 of the PIT Regulations, 1992 read with sections 12A(d)
+and 12A(e) of the SEBI Act. Further, Sahasra Investments Pvt. Ltd. and BRG Energy
+Ltd. violated Regulation 3, 3A and 4 of the PIT Regulations, 1992 and sections 12A(d)
+and section 12A(e) of the SEBI Act, 1992. In addition to the same, Shri G Bala Reddy,
+G Velangini Mary, APRG, Sravanthi, Mary Ashwini and BRG have violated
+Regulations 3(c) and (d) of the PFUTP Regulations read alongside section 12A(b) and
+(c) of the SEBI Act.  For the aforesaid violations, I  impose a penalty of `
+40,00,00,000/- (Rupees Forty Crore Only) under section 15G and 15HA of the SEBI
+Act, 1992 on the aforenamed noticees, to be paid jointly and severally by them.
+
+b) Further, Bala Reddy, Mary Ashwini and Sravanthi Yakkanti submitted misleading information to
+SEBI regarding their relationship with certain entities, and for the same I impose a penalty of `
+20,00,000/-
+
+(Rupees Twenty Lakh Only) on Bala Reddy, Mary Ashwini and Sravanthi Yakkanti each, under
+section 15A(a) of the SEBI Act.
+
+c) Shri G. Bala Reddy and G Velangini Mary also violated Regulation 8A(1) and (2) of the Takeover
+Regulations, 1997, Regulations, which attracts penalty under section 15HB of the SEBI Act. For the
+same, I impose a penalty of ` 26,00,000/- (Rupees Twenty Six Lakh Only) on Bala Reddy and `
+12,00,000/-
+
+(Rupees Twelve Lakh Only) on G Velangini Mary."
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 2
+
+
+
+2. The facts leading to the filing of the appeal is, that on March 18, 2009 ICSA (India) Limited
+(hereinafter referred to as "the Company") made a corporate announcement at National Stock
+Exchange of India Limited ("NSE") and BSE Limited ("BSE") to the effect that the company had
+secured work orders for a total contract value of ` 464.17 crore from Bihar State Electricity Board
+(hereinafter referred to as "BSEB"), Maharashtra State Electricity Distribution Co. Ltd.
+("Mahavitaran" and M.P. Poorva Kshetra Vidyut Vitaran Co. Ltd. (hereinafter referred to as
+"MPPKVVCL"). Investigation made by SEBI indicated that certain entities bought a large number of
+shares in February 2009 a few days prior to the announcement made by the company. It was found
+that Sravanthi Yakkanti (hereinafter referred to as "Sravanthi"), Appellant No. 4 and Mary Ashwini
+(hereinafter referred to as "Mary") Appellant No. 3 had bought 3,93,683 shares at the rate of ` 74.99
+paisa per share and 11,92,000 shares at the rate of ` 75 per share respectively. Investigation further
+revealed that all the appellants were somehow related in one way or the other and indulged in
+insider trading based on the unpublished price sensitive information ("UPSI"). Accordingly, a show
+cause notice was issued to show cause as to why a penalty should not be imposed for utilizing the
+UPSI under Regulation 2(ha) read with Regulation 2(k) of SEBI (Prohibition of Insider Trading)
+Regulations, 1992 ("PIT Regulations" for short). The show cause notice further indicated that the
+appellants gave misleading information with regard to the relationship between the appellants.
+Further, some of the appellants did not declare the shares pledged by them. In short, the show cause
+notice stated:-
+
+"i) You have funded the purchase of shares by Sravanthi and Mary who are connected
+to you and trade while in possession of price sensitive information. Thus act of yours
+are alleged to be violation of sections 12A(d) and 12A(e) of the SEBI Act, 1992 read
+with Regulation 3 and 4 of the PIT Regulations, 1992. Further you were the
+beneficiary of the funds received from the sale proceeds of the shares acquired
+through insider trading. Such act of you are alleged to be in violation of sections
+12(A)(b) and 12A(c) of the SEBI Act read with Regulation 3(c) and (d) of the SEBI
+(Prohibition of Fraudulent and Unfair Trade Practice relating to Securities Market)
+Regulations, 2003 ("PFUTP Regulations" for short).
+
+ii) You gave misleading information with regard to the relationship with the entities who traded in
+the scrip and those who were the beneficiaries of the funds received from the sale proceeds of the
+shares acquired through alleged insider trading.
+
+iii) You have given misleading declaration with regard to shares pledged by you and thus violated
+Regulation 8A(1) and (2) of the SEBI (Substantial Acquisition of Shares and Takeovers),
+Regulations, 1997 ("Takeover Regulations, 1997" for short)."
+
+3. The appellants contested the show cause notice and submitted their replies denying the
+allegations and contended that they have not violated any provisions of the SEBI Act, the Takeover
+Regulations, the PIT Regulations, etc. The AO after considering the replies of the appellants and,
+after giving them an opportunity of hearing found that the appellants were guilty of insider trading,
+etc. and consequently, imposed a penalty which is reflected in the preceding paragraphs.
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 3
+
+
+
+4. We have heard Shri D. J. Khambatta alongwith Shri Pesi Modi, learned senior counsels assisted
+by Shri Joby Mathew advocate for the appellants and Shri Gaurav Joshi the learned senior counsel
+assisted by Shri Saurabh Pakale advocate on behalf of the respondent at length.
+
+5. The basic point which has been urged before this Tribunal is, that the appellants have not violated
+the provisions of the PIT Regulations, 1992 read with section 12A of the SEBI Act. It was contended
+that the work orders which the company had procured was in the ordinary course of business and,
+in any case, when the shares were purchased, the company had not bagged the contract and was
+only found to be the lowest price bidder (L1). It was thus contended, that being the lowest price
+bidder did not mean that the contract was issued in favour of the company nor being (L1) could be
+considered as a price sensitive information.
+
+6. In order to understand the import of the submissions it would be necessary to give a few facts and
+the findings given by the AO.
+
+7. Appellant No. 1 is the Promoter, Chairman and Managing Director of the company as well as the
+Promoter, Chairman and Director of Appellant Nos. 5 and 6. Appellant No. 2 is a Promoter of the
+company and wife of Appellant No. 1 and is Promoter and Managing director in Appellant No. 6 and
+Promoter and Director in Appellant No. 5. Appellant No. 3 is the wife of Appellant No. 7. Appellant
+No. 4 is an employee of the company, Appellant Nos. 5 and 6 are companies promoted by Appellant
+No. 1 in which Appellant Nos. 1 & 2 are also Directors. Appellant No. 7 is the husband of Appellant
+No. 3 and is also a cousin of Appellant No. 2.
+
+8. The AO after considering the evidence have found that the aforesaid appellants are connected
+persons and are a homogeneous group. The AO further found that a non-resident investor Jeff
+Fineberg had 16,00,000 shares of the company which amounted to 3.42% of the paid up capital of
+the company and had contacted Appellant No. 1 for sale of his shares. Appellant No. 1 instead of
+buying the shares directly from this non-resident investor purchased these shares through a
+circuitous route. The Appellant No. 1 arranged for a bulk purchase of 15,85,683 shares through
+Appellant Nos. 3 and 4. Appellant No. 1 provided funds to Appellant Nos. 3 and 4 to purchase the
+shares. The funds were given from Appellant Nos. 5 and 6 in which Appellant No. 1 is a Promoter
+and Director.
+
+9. Appellant No. 3 after purchasing the shares pledged these shares in favour of Cholamandalam
+DBS from whom the Appellant No. 1 had availed corporate finance facility. By pledging these shares,
+Appellant No. 3 stood as a guarantor to the facility availed by Appellant No. 1. Similarly, shares
+purchased by Appellant No. 4 were transferred to Appellant No. 7 who pledged these shares to IDBI
+Bank Ltd. but subsequently transferred a large portion of the shares in off-market in favour of
+Appellant No. 2. Appellant No. 3 also transferred the shares to her husband Appellant No. 7 in
+off-market and later on Appellant No. 7 sold it in the off-market. The proceeds eventually came in
+the hands of Appellant Nos. 1 & 2.
+
+10. The AO found that Appellant Nos. 3 and 4 traded in large quantities of the shares of the
+company simply on the request of Appellant No. 1. The AO further found that the Appellant Nos. 3
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 4
+
+
+
+and 4 had bought the shares from the funds arranged by Appellant No. 1 and, on the sale of the
+shares, the proceeds were transferred by them to the entities connected to Appellant No. 1. The AO
+found that Appellant No. 7 acted as a conduit for routing the funds arising out of the sale of the
+shares of the company and that Appellant Nos. 1 and 2 were the ultimate beneficiaries of the sale
+proceeds.
+
+11. The AO consequently found that the appellants are connected persons as per section 2(c) of the
+PIT Regulations, 1992. It was further found that the appellants were insiders within the meaning of
+2(e) of the PIT Regulations, 1992. The AO further found that the company's lowest price bid was a
+price sensitive information as per Regulation 2(ha)(iv) of the PIT Regulations, 1992 and was also a
+price sensitive information as per Regulation 2(a) of the PIT Regulations, 1992. The AO found that
+the appellants have violated Regulations 3 and 4 of the PIT Regulations, 1992 and section 12A(d),
+12A(e) of the SEBI Act as well as Regulations 3(c) and
+
+(d) of the PFUTP Regulations, 2003.
+
+12. The aforesaid findings have not been disputed by the leaned senior counsel appearing for the
+appellants. What was contested is, that being the lowest bidder of a contract in the usual course of
+business does not amount to a price sensitive information and, in any case, the lowest price bid
+being in the public domain cannot be an unpublished price sensitive information under the PIT
+Regulations, 1992.
+
+13. In order to examine this aspect we need to consider what is "price sensitive information" and
+what is "unpublished" price sensitive information. In this regard, Regulation 2(ha) defines price
+sensitive information as:
+
+"2(ha) "price sensitive information" means any information which relates directly or
+indirectly to a company and which if published is likely to materially affect the price
+of securities of company.
+
+Explanation.--The following shall be deemed to be price sensitive information :--
+
+                 (i)     ......
+                 (ii)    ......
+                 (iii)
+                 (iv)    any major expansion plans or execution
+                         of new projects.
+                 (v)     ......
+                 (vi) ......
+                 (vii) ......"
+
+A perusal of the aforesaid definition indicates that any information which relates
+directly or indirectly to a company and which if published is likely to affect the price
+of the securities then such information would be deemed to be a price sensitive
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 5
+
+
+
+information. Further clause (iv) of the explanation to Regulation 2(ha) of the PIT
+Regulations, 1992 provides that execution of new projects would be deemed to be a
+price sensitive information.
+
+14. Regulations 2(k) defines "unpublished" as:
+
+"2(k) "unpublished" means information which is not published by the company or its
+agents and is not specific in nature."
+
+A perusal of the aforesaid definition clearly indicates that an information which is not published by
+the company or its agents is an unpublished price sensitive information.
+
+15. In Shri E. Sudhir Reddy v/s SEBI in Appeal No. 138 of 2011 decided on 16.12.2011 this Tribunal
+held that tendering process is a long drawn procedure involving various stages and it would be
+difficult to lay down any parameter namely, at what stage the information in a tendering process
+would become price sensitive for the purpose of Insider Trading Regulations and that such
+information would depend on the facts and circumstances of each case.
+
+16. In Gujarat NRE Mineral Resources Ltd. v/s SEBI in Appeal No. 207 of 2010 decided on
+18.11.2011 this Tribunal held that a decision taken by a listed investment company to dispose of a
+part of its investment was not a price sensitive information in the facts and circumstances of that
+case.
+
+17. In Anil Harish v/s SEBI in Appeal No. 217 of 2011 decided on 22.06.2012 this Tribunal held that
+a company which is in the business of infrastructure projects, bags an order in the normal course of
+its business, such information was not necessarily a price sensitive information. The Tribunal
+further held that whether the information is price sensitive or not and on what date it became price
+sensitive would depend on the facts and circumstances of the case.
+
+18. In Piramal Enterprises Limited in Appeal No. 466 of 2016 decided on 15.05.2019 it was held by
+this Tribunal that in the absence of any direct or clinching evidence a reasonable benefit of doubt
+should be extended to the company instead of mechanically imposing a penalty.
+
+19. It was urged that L1 became known on various dates and, such information came in the public
+domain. It was thus urged that it was not an unpublished price sensitive information. In our
+opinion, this contention is patently misconceived and cannot be accepted. The definition of
+"unpublished" as defined under Regulation 2(k) has a definite connotation under Insider Trading
+Regulations and has to be construed strictly. Regulation 2(k) defines "unpublished" to mean
+information which has not been published by the company or its agent and is not specific in nature.
+Admittedly, the bagging of the contract was announced by the company only on the stock exchange
+platform on March 18, 2019. Prior to that the company had not published nor made any corporate
+announcements of this information. The opening of the bids by a third party does not amount to an
+information being published by the company or its agent under Regulation 2(k). Thus, the
+contention that the opening of the bids in which the company was found to be the lowest bidder
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 6
+
+
+
+came in the public domain is incorrect and cannot be construed as being published.
+
+20. The Appellant No. 1 had specific information about the company's bid being the lowest. Being
+L1, the company through Appellant No. 1 was called for further negotiation. It has come on record
+that in two out of three contracts, the Board approved the L1 after negotiation around the time when
+the shares were purchased. Thus, being L1 coupled with the fact that the bids were approved by the
+Board was a price sensitive information in so far as Appellant No. 1 is concerned in relation to its
+shareholders and investors and it was thus incumbent upon him not to deal in the scrips of the
+company and not to purchase the shares of the company given by a non-resident investor. The
+Appellant No. 1 admits that he purchased the shares through a circuitous measure by funding the
+amount to Appellant Nos. 3 and 4 from the Appellant Nos. 5 and 6 in which he was a Promoter. The
+Appellant No. 1 eventually benefitted from the sale of these shares. The Appellant No. 1 was thus an
+insider and it was incumbent upon him not to deal in the scrip of the company so long as the
+information about the contract remained unpublished. Thus, in the facts and circumstances of this
+case, even though the contract was not awarded nor the letter of intent was given at the time of
+purchase of the shares, nonetheless, being L1, the same was a price sensitive information in so far as
+the Appellant No. 1 was concerned. Since the Appellant No. 1 traded in these scrips through
+Appellant Nos. 3 and 4 he is guilty of insider trading. Similarly, in the same fashion, the other
+appellants are also guilty of insider trading.
+
+21. The learned senior counsel submitted that a tenderer does not have any right for award of a
+contract even where he is found to be L1. In support of his submission, he has placed reliance on the
+decision of the Supreme Court in Air India Ltd. v/s Cochin International Airport Ltd. and Ors.
+(2000) 2 SCC 617, Food Corporation of India v/s M/s Kamdhenu Cattle Feed Industries (1993) 1
+SCC 71 and Trilochan Mishra, Etc. v/s State of Orissa and Ors. (1971) 3 SCC 153.
+
+22. There is no quarrel with the aforesaid proposition of law but the same is not applicable in the
+instant case. An L1 may not get the contract. The contract specifically says so. However, in the
+instant case, we find that L1 became a price sensitive information and therefore the Appellant No. 1
+could not have traded in the scrips of the company through a circuitous method.
+
+23. The learned senior counsel contended that Appellant Nos. 3 and 4 are not promoters of the
+company nor were part of the promoter group of the company and therefore the shares pledged by
+them as collateral for the loans availed by them could not have been disclosed under Regulation 8A
+of the Takeover Regulations, 1997. It was contended that the requirement of disclosure under
+Regulation 8A of the Takeover Regulations, 1997 is on the promoter or the promoter group. The
+learned senior counsel urged that in the light of the aforesaid the imposition of penalty for non
+disclosure under Regulation 8A was wholly illegal and without any authority of law.
+
+24. Regulation 8A(1) and (2) of the Takeover Regulations, 1997 provides as under:
+
+"8A. Disclosure of pledged shares. (1) A promoter or every person forming part of the
+promoter group of any company shall, within seven working days of commencement
+of Securities and Exchange Board of India (Substantial Acquisition of Shares and
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 7
+
+
+
+Takeovers) (Amendment) Regulations, 2009, disclose details of shares of that
+company pledged by him, if any, to that company.
+
+(2) A promoter or every person forming part of the promoter group of any company
+shall, within 7 working days from the date of creation of pledge on shares of that
+company held by him, inform the details of such pledge of shares to that company."
+
+Promoter and promoter group is defined under Regulation 2(h) of the Takeover Regulations as
+under:
+
+2.(h) promoter means--
+
+(a) any person who is in control of the target company;
+
+(b) any person named as promoter in any offer document of the target company or any shareholding
+pattern filed by the target company with the stock exchanges pursuant to the Listing Agreement,
+whichever is later; and includes any person belonging to the promoter group as mentioned in
+Explanation I: Provided that a director or officer of the target company or any other person shall not
+be a promoter, if he is acting as such merely in his professional capacity.
+
+Explanation I. For the purpose of this clause, "promoter group" shall include:
+
+(a) in case promoter is a body corporate-
+
+(i) a subsidiary or holding company of that body corporate;
+
+(ii) any company in which the promoter holds 10 % or more of the equity capital or which holds 10
+% or more of the equity capital of the promoter;
+
+(iii) any company in which a group of individuals or companies or combinations thereof who holds
+20 % or more of the equity capital in that company also holds 20 % or more of the equity capital of
+the target company; and
+
+(b) in case the promoter is an individual-
+
+(i) the spouse of that person, or any parent, brother, sister or child of that person or of his spouse;
+
+(ii) any company in which 10 % or more of the share capital is held by the promoter or an immediate
+relative of the promoter or a firm or HUF in which the promoter or any one or more of his
+immediate relative is a member;
+
+(iii) any company in which a company specified in (i) above, holds 10 % or more, of the share
+capital; and Page 9 of 75
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 8
+
+
+
+(iv) any HUF or firm in which the aggregate share of the promoter and his immediate relatives is
+equal to or more than 10 per cent of the total.
+
+Explanation II-
+
+Financial Institutions, Scheduled Banks, Foreign Institutional Investors (FIIs) and Mutual Funds
+shall not be deemed to be a promoter or promoter group merely by virtue of their shareholding:
+
+Provided that the Financial Institutions, Scheduled Banks and Foreign Institutional Investors (FIIs)
+shall be treated as promoters or promoter group for the subsidiaries or companies promoted by
+them or mutual funds sponsored by them;]"
+
+From a perusal of the definition of promoter and promoter group it is apparently clear that
+Appellant Nos. 3 and 4 do not fall in the category of promoter or promoter group. Regulation 8A
+specifically requires a promoter or every person forming part of the promoter group of the company
+to disclose the details of the pledging of their shares of the company. The mandate under Regulation
+8A for disclosure is upon the promoter or every person forming part of the promoter group. Since
+the Appellant Nos. 3 and 4 admittedly are not promoters of the company nor are part of the
+promoter group, they cannot be held liable for violation of Regulation 8A of the Takeover
+Regulations.
+
+25. However, in the instant case, Appellant Nos. 1 and 2 who are admittedly promoters of the
+company have been held liable for non-disclosure under Regulation 8A of the Takeover Regulations
+on the ground that Appellant Nos. 3 & 4 had traded on the instructions of Appellant No. 1 and that
+Appellant No. 1 had funded the said trades through his other companies coupled with the fact that
+eventually the sale proceeds of these shares were eventually received by Appellant No. 1. Be that as it
+may. The fact remains that the shares which were purchased were not in the name of Appellant Nos.
+1 and 2. If the shares were purchased in the name of Appellant Nos. 1 and 2 then it would have
+become the responsibility of Appellant Nos. 1 and 2, as promoters of the company, to make the
+necessary disclosures under Regulation 8A. Since the shares were initially purchased by Appellant
+Nos. 3 and 4 inspite of the instructions from Appellant No. 1 and inspite of the funding of the
+purchase of shares by Appellant No. 1, nonetheless, the requirement of law is, that only a promoter
+or every person forming part of the promoters group of the company is required to make necessary
+disclosure under Regulation 8A. There cannot be any deemed promoter or "related to the
+promoter". Since Appellant Nos. 3 and 4 were not promoters and were not part of the promoter
+group the imposition of penalty under Regulation 8A upon the Appellant Nos. 1 and 2 cannot be
+sustained.
+
+26. Appellant No. 1 has been charged for providing misleading information in respect of his
+relationship with the other entities, namely, the appellants. The information provided by Appellant
+No. 1 was that he does not have any relationship with Appellant Nos. 3 and 4 and was not covered
+within the list of "relatives" set out in Scheduled 1A of the Companies Act, 1956. The AO found that
+Appellant No. 1 gave misleading information to SEBI in respect of his connection with other entities
+and thereby imposed a penalty for submitting misleading information to SEBI under section 15A(a)
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 9
+
+
+
+of the SEBI Act.
+
+27. In this regard, the learned senior counsel submitted that the information sought by SEBI by
+letter dated September 15, 2010 was duly supplied by Appellant No. 1 vide its letter dated September
+24, 2010. The learned senior counsel asserted that the relationship of Appellant No. 1 with the other
+entities as depicted in the letter dated September 15, 2010 was given, taking into consideration the
+provisions of "relatives" set out in Scheduled 1A of the Companies Act, 1956. It was asserted that no
+false or misleading information was supplied and that the information supplied was in accordance
+with the Companies Act, 1956.
+
+28. Having perused the letter dated September 15, 2010 given by SEBI and the reply dated
+September 24, 2010 given by the appellant we find that the information sought was the relationship
+of the appellant with the other entities. A perusal of the said letter would indicate that the
+information sought was as to what was the relationship of the appellant with other entities, namely,
+whether they were relatives or not. Information was supplied by the appellant in accordance with
+the provisions of the Companies Act, 1956. The letter of SEBI does not explicitly states that the
+appellant was required to furnish the information with regard to his professional or working
+relationship with the other entities. Thus, even though the Appellant No. 1 may have professional or
+working relationship with the other entities, we are of the opinion that since there was no explicit
+clarity in the information sought the reply given by the appellant, being in accordance with the
+provisions of the Companies Act, 1956, was not misleading. SEBI ought to have been more
+professional and should have asked clear cut information which is explicit and is not vague.
+Consequently, we are of the opinion that the imposition of penalty in so far as providing misleading
+information cannot be sustained.
+
+29. A penalty of ` 40,00,00,000/- (Rupees Forty Crore Only) has been imposed upon the appellants
+for insider trading violating Regulations 3 and 4 of the PIT Regulations, 1992 read with section
+12A(d) and (e) of the SEBI Act, 1992. Further direction is that the said penalty would be paid by the
+appellants jointly and severally.
+
+30. It was urged by the learned senior counsel that the quantum of penalty is arbitrary in as much as
+there is no discussion by the AO as to how this figure of ` 40,00,00,000/- (Rupees Forty Crore
+Only) has been arrived at.
+
+31. There is no doubt that the mechanics of imposition of penalty of ` 40,00,00,000/- (Rupees Forty
+Crore Only) has not been disclosed in the impugned order but we find that on this ground the
+amount of penalty cannot be set aside for the following reasons:
+
+(i) The AO has found that Appellant No. 3 had made a profit of ` 11,23,88,739/- and
+Appellant No. 7 made a profit of ` 2,81,16,267/-. The total profit thus comes to `
+14,05,05,006/-. Under section 15G and 15HA of the SEBI Act, 1992 a penalty upto a
+maximum of twenty five crore rupees or three times the amount of profits whichever
+is higher can be imposed.
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 10
+
+
+
+(ii) For facility, section 15G and 15HA as it stood at the relevant point is extracted
+hereunder:
+
+"15G Penalty for insider trading. -If any insider who,--
+
+(i) either on his own behalf or on behalf of any other person, deals in securities of a
+body corporate listed on any stock exchange on the basis of any unpublished
+price-sensitive information; or
+
+(ii) communicates any unpublished price-
+
+sensitive information to any person, with or without his request for such information
+except as required in the ordinary course of business or under any law; or
+
+(iii) counsels, or procures for any other person to deal in any securities of any body
+corporate on the basis of unpublished price-sensitive information, shall be liable to a
+penalty [which shall not be less than ten lakh rupees but which may extend to
+twenty-five crore rupees or three times the amount of profits made out of insider
+trading, whichever is higher.]"
+
+"15HA. Penalty for fraudulent and unfair trade practices:-
+
+If any person indulges in fraudulent and unfair trade practices relating to securities, he shall be
+liable to a penalty [which shall not be less than five lakh rupees but which may extend to twenty-
+
+five crore rupees or three times the amount of profits made out of such practices, whichever is
+higher]."
+
+(iii) In the instant case, the profits earned through insider trading was `
+14,05,05,006/-. Three times the profit amounts to ` 42,15,15,018 which is more than
+the penalty awarded by the AO. Thus, we do not find any error in the quantum of
+penalty imposed by the AO.
+
+32. It was urged that the direction to pay penalty jointly and severally by the appellants is arbitrary.
+It was urged that if the Appellant No. 7 had only made a profit of ` 2,81,16,267/- then the penalty
+should be accordingly quantified to a maximum of three times the profit instead of directing the said
+appellant to pay the entire amount of penalty of ` 40,00,00,000/- (Rupees Forty Crore Only).
+
+33. The submission of the learned senior counsel appears to be attractive in the first instance but on
+a closer scrutiny we find that the contention cannot be accepted. Admittedly, the appellants have
+been found to be connected persons under section 2(c) of the PIT Regulations and were also found
+to be deemed to be connected persons under section 2(h). The appellants were also found to be
+insiders under section 2(e) of the PIT Regulations and were found to have traded in the shares
+having knowledge of the price sensitive information. Consequently, all the appellants being
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 11
+
+
+
+connected persons have been held to be equally liable to pay the amount of penalty jointly and
+severally. We thus do not find any error in this regard.
+
+34. For the reasons stated aforesaid the appeal is partly allowed. The order of the AO imposing a
+penalty of ` 40,00,00,000/- (Rupees Forty Crore Only) under section 15G and section 15HA of the
+SEBI Act against the appellants for violation of Regulation 3 and 4 of the PIT Regulations read with
+section 12A(d) and (e) of the SEBI Act is affirmed. The imposition of penalty of ` 20 lakhs (Rupees
+Twenty Lakhs Only) under section 15A(a) of the SEBI Act for submitting misleading information to
+SEBI and penalty of ` 38 lakhs (Rupees Thirty Eight Lakhs Only) upon Appellant Nos. 1 and 2 for
+violation of Regulation 8A(1) and (2) of the Takeover Regulations, 1997 are quashed. In view of the
+partial success, parties shall bear their own costs.
+
+Sd/-
+
+Justice Tarun Agarwala Presiding Officer Sd/-
+
+Dr. C.K.G. Nair Member Sd/-
+
+Justice M. T. Joshi Judicial Member 12.07.2019 Prepared & Compared By: PK
+
+Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
+Indian Kanoon - http://indiankanoon.org/doc/15453775/ 12
+
+
+	Mr. G. Bala Reddy And Others vs Sebi on 12 July, 2019
+
