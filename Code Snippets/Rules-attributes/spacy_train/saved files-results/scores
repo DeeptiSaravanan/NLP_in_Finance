@@ -1,0 +1,51 @@
+exact match with tags
+training accuracy
+1526
+1784
+0.8553811659192825
+
+testing accuracy
+403
+468
+0.8611111111111112
+
+exact match of words without tags
+training accuracy
+1545
+1784
+0.8660313901345291
+
+testing accuracy
+409
+468
+0.8739316239316239
+
+partial match with tags - ngrams
+training accuracy
+1589
+1784
+0.890695067264574
+testing data
+414
+468
+0.8846153846153846
+partial match of words without tags - ngrams
+training accuracy
+1622
+1784
+0.9091928251121076
+testing accuracy
+422	
+468
+0.9017094017094017
+
+
+
+
+
+
+
+
+
+
+The entity type includes person, place and orga-nization. After removing the named entities, they POS tagthe remaining words and only keep the meaningful words,consisting of nouns, verbs, adjectives and adverbs
