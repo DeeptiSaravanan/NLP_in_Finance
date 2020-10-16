@@ -3,24 +3,24 @@
 ** Instructions
 *** Packages Required 
 - spacy 
-``` pip install spacy```
+~ pip install spacy~
 Make sure the english bin file is available. 
 - simpletransformers
-  ```pip install simpletransformers```
+  ~ pip install simpletransformers~
 *** Steps
 - Clone the repository
-  ```git clone 
+  ~ git clone ~ 
 - Run the train file
-  ```python train.py```
+  ~ python train.py~
 
-The model is available at `./outputs/`
+The model is available at =./outputs/=
 
   
 
 *** MISC
 - The bert cased version is ~1GB in size and the final trained model is around ~2.5 GB in size. So do ensure that you have that memory available.
 - The PDF parsed version of IndiaKanoon is all in one line, thus sentence segmentation becomes necessary. Due to the large size of this line, the spacy buffer is extended to accommodate this. Since we are not parsing or doing other memory intensive tasks this should not be an issue. But if spacy does give any errors, decreasing this might resolve it.
-- Training is exponentially faster with a GPU, so I'd recommend training with a GPU (say Colab). All the data files needed for this can be found at the `data/sebi-bert-data` folder.  Modify the required file paths in the `train.py` file accordingly. 
+- Training is exponentially faster with a GPU, so I'd recommend training with a GPU (say Colab). All the data files needed for this can be found at the =data/sebi-bert-data= folder.  Modify the required file paths in the =train.py= file accordingly. 
 
 ** Data Statistics
 There are three main sources of data for this model.
