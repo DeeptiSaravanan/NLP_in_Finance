@@ -3,15 +3,15 @@
 ** Instructions
 *** Packages Required 
 - spacy 
-~ pip install spacy~
+~pip install spacy~
 Make sure the english bin file is available. 
 - simpletransformers
-  ~ pip install simpletransformers~
+  ~pip install simpletransformers~
 *** Steps
 - Clone the repository
-  ~ git clone ~ 
+  ~git clone https://github.com/ujwal-narayan/JPMorgan.git~ 
 - Run the train file
-  ~ python train.py~
+  ~python train.py~
 
 The model is available at =./outputs/=
 
