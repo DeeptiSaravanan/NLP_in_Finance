@@ -27,6 +27,7 @@ model_args.dataset_type = "simple"
 
 # Some files are parsed as a single line, thus inorder to process them we will need to increase
 # the size of the spacy buffer. 
+nlp = spacy.load('en')
 nlp.max_length = 100000000
 
 

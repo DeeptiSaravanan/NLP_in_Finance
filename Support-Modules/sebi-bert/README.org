@@ -1,4 +1,3 @@
-
 * SEBI BERT
 ** Instructions
 *** Packages Required 
@@ -21,8 +20,6 @@ Make sure the english bin file is available.
 
 The model is available at =./outputs/=
 
-  
-
 *** MISC
 - The bert cased version is ~1GB in size and the final trained model is around ~2.5 GB in size. So do ensure that you have that memory available.
 - The PDF parsed version of IndiaKanoon is all in one line, thus sentence segmentation becomes necessary. Due to the large size of this line, the spacy buffer is extended to accommodate this. Since we are not parsing or doing other memory intensive tasks this should not be an issue. But if spacy does give any errors, decreasing this might resolve it.
@@ -40,12 +37,12 @@ There are three main sources of data for this model.
 
   All the Indian Kanoon case files collected by Swati are concatenated.
 
-| Type                     | Number of lines |
-|--------------------------+-----------------|
-| SEBI Regulations         |           32559 |
-| SEBI Orders              |             839 |
-| Indian Kanoon case files |            6759 |
-| Total                    |           40157 |
+| Type                     | Number of sentences |
+|--------------------------+---------------------|
+| SEBI Regulations         |               32559 |
+| SEBI Orders              |                 839 |
+| Indian Kanoon case files |                6759 |
+| Total                    |               40157 |
 
 The only preprocessing done on the data other than sentence segmentation was white space normalization as there was a lot of white space arising from the formatting of the document. 
 This data (especially the Indian Kanoon case files) is noisy and I'd estimate a minimum of 10% of these lines are junk. 
@@ -59,8 +56,8 @@ This data (especially the Indian Kanoon case files) is noisy and I'd estimate a 
   
 - There are two models available [[https://iiitaphyd-my.sharepoint.com/:f:/g/personal/ujwal_narayan_research_iiit_ac_in/Ekp7ldm_wt1FtUbib7e2FycBe86Cuyl9xdAkkgPwHvvtGA?e=psr8Xo][here]]. 
   - SEBI-PLAIN
-
       This model was only trained on the SEBI regulations. 
   - SEBI-ALL
-
     This model was trained on all of the above data. 
+    
+
