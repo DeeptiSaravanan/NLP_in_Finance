@@ -1,0 +1,47 @@
+home/buggi/.pyenv/versions/3.8.3/envs/three_eight/lib/python3.8/site-packages/pandas/compat/__init__.py:120: UserWarning: Could not import the lzma module. Your installed Python is incomplete. Attempting to use lzma compression will result in a RuntimeError.
+  warnings.warn(msg)
+9it [00:07,  1.65it/s]list index out of range https://www.sebi.gov.in/enforcement/informal-guidance/jul-2020/in-the-matter-of-way-to-wealth-brokers-pvt-ltd-under-sebi-sbeb-regulations-2014_47099.html
+69it [00:35,  2.39it/s]list index out of range https://www.sebi.gov.in/enforcement/informal-guidance/dec-2017/informal-guidance-issued-to-capstocks-and-securities-india-private-limited_36826.html
+70it [00:36,  2.45it/s]list index out of range https://www.sebi.gov.in/enforcement/informal-guidance/dec-2017/informal-guidance-in-the-matter-of-pnb-housing-finance-limited_36806.html
+73it [00:37,  1.92it/s]list index out of range https://www.sebi.gov.in/enforcement/informal-guidance/oct-2017/informal-guidance-filed-by-m-s-linde-india-limited-in-relation-to-sebi-substantial-acquisition-of-shares-and-takeovers-regulations-2011_36368.html
+184it [01:36,  1.74it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/aug-2011/informal-guidance-of-nj-india-invest-pvt-limited_20857.html
+185it [01:36,  1.70it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/jul-2011/informal-guidance-in-the-matter-of-c-and-c-constructions-limited_20858.html
+188it [01:38,  1.94it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/may-2011/request-for-interpretive-letter-under-the-sebi-informal-guidance-scheme-2003-in-the-matter-of-vulcan-engineers-ltd_19847.html
+203it [01:46,  2.37it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/apr-2010/request-for-no-action-letter-under-para-5-i-of-sebi-informal-guidance-scheme-2003-by-fullerton-securities-and-wealth-advisors-ltd_14188.html
+205it [01:47,  2.43it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/apr-2010/request-for-interpretative-letter-under-the-securities-and-exchange-board-of-india-informal-guidance-scheme-2003-by-ksk-energy-limited-in-the-matter-of-ksk-energy-ventures-limited-on-applicability-_1923.html
+206it [01:47,  2.19it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/mar-2010/request-for-interpretive-letter-under-the-sebi-informal-guidance-scheme-2003-sebi-substantial-acquisition-of-shares-and-takeovers-regulations-1997-regulations-eastern-investments-limited_1847.html
+319it [02:31,  3.57it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/aug-2004/request-for-interpretive-letter-under-sebi-informal-guidance-scheme-2003-in-relation-to-the-need-for-compulsory-listing-of-the-entire-share-capital-of-ramsarup-engineering-industries-limited-in-ca-_10020.html
+334it [02:35,  3.97it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/jun-2004/interpretive-letter-under-securities-and-exchange-board-of-india-informal-guidance-scheme-2003-in-respect-of-issuance-of-shares-on-preferential-basis_9949.html
+347it [02:39,  3.21it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/apr-2004/request-for-no-action-letter-tcs-ltd_9914.html
+351it [02:41,  3.20it/s]Message: no such element: Unable to locate element: {"method":"tag name","selector":"a"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 5.3.0-64-generic x86_64)
+ https://www.sebi.gov.in/enforcement/informal-guidance/mar-2004/request-under-securities-and-exchange-board-of-india-informal-guidance-scheme-2003-icici-bank-limited_9901.html
+366it [02:45,  2.21it/s]
