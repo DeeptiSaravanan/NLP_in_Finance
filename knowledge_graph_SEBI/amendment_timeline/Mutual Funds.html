@@ -1,0 +1,140 @@
+<html>
+<head>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js" type="text/javascript"> </script>
+<center>
+<h1>Layer 2 - Amendment Timeline of Mutual Funds</h1>
+</center>
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+        #config {
+            float: left;
+            width: 400px;
+            height: 600px;
+        }
+        
+
+        
+</style>
+</head>
+<body>
+<div id="mynetwork"></div>
+<div id="config"></div>
+<script type="text/javascript">  
+  
+      // initialize global variables.
+      var edges;
+      var nodes;
+      var network; 
+      var container;
+      var options, data;
+  
+      
+      // This method is responsible for drawing the graph, returns the drawn network
+      function drawGraph() {
+          var container = document.getElementById('mynetwork');
+          
+          
+  
+          // parsing and collecting nodes and edges from the python
+          nodes = new vis.DataSet([{"color": "blue", "id": "Oct29_2020", "label": "Oct29_2020", "shape": "dot", "title": "Oct29_2020"}, {"color": "blue", "id": "Mar 06, 2020\tSecurities and Exchange Board of India (Mutual Funds) Regulations, 1996 [Last amended on October 29, 2020]", "label": "Mar 06, 2020\tSecurities and Exchange Board of India (Mutual Funds) Regulations, 1996 [Last amended on October 29, 2020]", "shape": "dot", "title": "Mar 06, 2020\tSecurities and Exchange Board of India (Mutual Funds) Regulations, 1996 [Last amended on October 29, 2020]"}, {"color": "blue", "id": "Mar6_2020", "label": "Mar6_2020", "shape": "dot", "title": "Mar6_2020"}, {"color": "blue", "id": "Sep23_2019", "label": "Sep23_2019", "shape": "dot", "title": "Sep23_2019"}, {"color": "blue", "id": "Dec13_2018", "label": "Dec13_2018", "shape": "dot", "title": "Dec13_2018"}, {"color": "blue", "id": "Dec6_2018", "label": "Dec6_2018", "shape": "dot", "title": "Dec6_2018"}, {"color": "blue", "id": "Mar13_2018", "label": "Mar13_2018", "shape": "dot", "title": "Mar13_2018"}, {"color": "blue", "id": "May15_2015", "label": "May15_2015", "shape": "dot", "title": "May15_2015"}, {"color": "blue", "id": "Dec30_2014", "label": "Dec30_2014", "shape": "dot", "title": "Dec30_2014"}, {"color": "blue", "id": "May6_2014", "label": "May6_2014", "shape": "dot", "title": "May6_2014"}, {"color": "blue", "id": "Aug19_2013", "label": "Aug19_2013", "shape": "dot", "title": "Aug19_2013"}, {"color": "blue", "id": "Jun19_2013", "label": "Jun19_2013", "shape": "dot", "title": "Jun19_2013"}, {"color": "blue", "id": "Apr16_2013", "label": "Apr16_2013", "shape": "dot", "title": "Apr16_2013"}, {"color": "blue", "id": "Sep26_2012", "label": "Sep26_2012", "shape": "dot", "title": "Sep26_2012"}, {"color": "blue", "id": "Feb21_2012", "label": "Feb21_2012", "shape": "dot", "title": "Feb21_2012"}, {"color": "blue", "id": "Aug30_2011", "label": "Aug30_2011", "shape": "dot", "title": "Aug30_2011"}, {"color": "blue", "id": "Apr8_2009", "label": "Apr8_2009", "shape": "dot", "title": "Apr8_2009"}, {"color": "blue", "id": "Apr16_2008", "label": "Apr16_2008", "shape": "dot", "title": "Apr16_2008"}, {"color": "blue", "id": "Oct31_2007", "label": "Oct31_2007", "shape": "dot", "title": "Oct31_2007"}, {"color": "blue", "id": "Aug3_2006", "label": "Aug3_2006", "shape": "dot", "title": "Aug3_2006"}, {"color": "blue", "id": "Dec 09, 1996\tSEBI (Mutual Funds) Regulations, 1996", "label": "Dec 09, 1996\tSEBI (Mutual Funds) Regulations, 1996", "shape": "dot", "title": "Dec 09, 1996\tSEBI (Mutual Funds) Regulations, 1996"}, {"color": "red", "id": "1415184470668.txt", "label": "1415184470668.txt", "shape": "dot", "title": "1415184470668.txt", "url": "file:///home/deepti-saravanan/Documents/reports_for_public_comments/1415184470668.pdf"}, {"color": "red", "id": "1453278327759.txt", "label": "1453278327759.txt", "shape": "dot", "title": "1453278327759.txt", "url": "file:///home/deepti-saravanan/Documents/reports_for_public_comments/1453278327759.pdf"}, {"color": "red", "id": "1405596795567.txt", "label": "1405596795567.txt", "shape": "dot", "title": "1405596795567.txt", "url": "file:///home/deepti-saravanan/Documents/reports_for_public_comments/1405596795567.pdf"}, {"color": "red", "id": "1399005613495.txt", "label": "1399005613495.txt", "shape": "dot", "title": "1399005613495.txt", "url": "file:///home/deepti-saravanan/Documents/reports_for_public_comments/1399005613495.pdf"}]);
+          edges = new vis.DataSet([{"color": "#000000", "from": "Oct29_2020", "length": 700, "title": "amendment", "to": "Mar 06, 2020\tSecurities and Exchange Board of India (Mutual Funds) Regulations, 1996 [Last amended on October 29, 2020]"}, {"color": "#000000", "from": "Mar6_2020", "length": 700, "title": "amendment", "to": "Oct29_2020"}, {"color": "#000000", "from": "Sep23_2019", "length": 700, "title": "amendment", "to": "Mar6_2020"}, {"color": "#000000", "from": "Dec13_2018", "length": 700, "title": "amendment", "to": "Sep23_2019"}, {"color": "#000000", "from": "Dec6_2018", "length": 700, "title": "amendment", "to": "Dec13_2018"}, {"color": "#000000", "from": "Mar13_2018", "length": 700, "title": "amendment", "to": "Dec6_2018"}, {"color": "#000000", "from": "May15_2015", "length": 700, "title": "amendment", "to": "Mar13_2018"}, {"color": "#000000", "from": "Dec30_2014", "length": 700, "title": "amendment", "to": "May15_2015"}, {"color": "#000000", "from": "May6_2014", "length": 700, "title": "amendment", "to": "Dec30_2014"}, {"color": "#000000", "from": "Aug19_2013", "length": 700, "title": "amendment", "to": "May6_2014"}, {"color": "#000000", "from": "Jun19_2013", "length": 700, "title": "amendment", "to": "Aug19_2013"}, {"color": "#000000", "from": "Apr16_2013", "length": 700, "title": "amendment", "to": "Jun19_2013"}, {"color": "#000000", "from": "Sep26_2012", "length": 700, "title": "amendment", "to": "Apr16_2013"}, {"color": "#000000", "from": "Feb21_2012", "length": 700, "title": "amendment", "to": "Sep26_2012"}, {"color": "#000000", "from": "Aug30_2011", "length": 700, "title": "amendment", "to": "Feb21_2012"}, {"color": "#000000", "from": "Apr8_2009", "length": 700, "title": "amendment", "to": "Aug30_2011"}, {"color": "#000000", "from": "Apr16_2008", "length": 700, "title": "amendment", "to": "Apr8_2009"}, {"color": "#000000", "from": "Oct31_2007", "length": 700, "title": "amendment", "to": "Apr16_2008"}, {"color": "#000000", "from": "Aug3_2006", "length": 700, "title": "amendment", "to": "Oct31_2007"}, {"color": "#000000", "from": "Dec 09, 1996\tSEBI (Mutual Funds) Regulations, 1996", "length": 700, "title": "amendment", "to": "Aug3_2006"}, {"color": "#000000", "from": "Sep26_2012", "length": 700, "title": " CONSULTATIVE PAPER ON AMENDMENTS TO FVCI REGULATIONS FOR PUBLIC COMMENTS", "to": "1415184470668.txt"}, {"color": "#000000", "from": "Apr8_2009", "length": 700, "title": " Report submitted by Alternative Investment Policy Advisory Committee", "to": "1453278327759.txt"}, {"color": "#000000", "from": "Dec30_2014", "length": 700, "title": " Draft SEBI (Infrastructure Investment Trusts) Regulations, 2014", "to": "1405596795567.txt"}, {"color": "#000000", "from": "Mar 06, 2020\tSecurities and Exchange Board of India (Mutual Funds) Regulations, 1996 [Last amended on October 29, 2020]", "length": 700, "title": " Report of the Working Group on Resolution Regime for Financial", "to": "1399005613495.txt"}]);
+  
+          // adding nodes and edges to the graph
+          data = {nodes: nodes, edges: edges};
+  
+          var options = {
+      "configure": {
+          "enabled": true
+      },
+      "nodes": {
+         "font": {
+             "size": 100,
+             "face": "fontFace"
+         }
+     },
+      "edges": {
+          "color": {
+              "inherit": true
+          },
+          "smooth": {
+              "enabled": false,
+              "type": "continuous"
+          }
+      },
+      "interaction": {
+          "dragNodes": true,
+          "hideEdgesOnDrag": false,
+          "hideNodesOnDrag": false
+      },
+      "physics": {
+          "enabled": true,
+          "hierarchicalRepulsion": {
+              "centralGravity": 0.0,
+              "damping": 0.09,
+              "nodeDistance": 120,
+              "springConstant": 0.01,
+              "springLength": 100
+          },
+          "solver": "hierarchicalRepulsion",
+          "stabilization": {
+              "enabled": true,
+              "fit": true,
+              "iterations": 1000,
+              "onlyDynamicEdges": false,
+              "updateInterval": 50
+          }
+      }
+  };
+          
+          
+  
+          
+          // if this network requires displaying the configure window,
+          // put it in its div
+          options.configure["container"] = document.getElementById("config");
+          
+  
+          network = new vis.Network(container, data, options);
+  
+          
+  
+  
+          
+  
+  network.on("selectEdge", function (params) {
+         if (params.edges.length === 1) {
+             var edge = edges.get(params.edges[0]);
+             window.open(edge.url, '_tab');
+         }
+     });
+     
+ network.on("selectNode", function (params) {
+         if (params.nodes.length === 1) {
+             var node = nodes.get(params.nodes[0]);
+             window.open(node.url, '_tab');
+         }
+     });
+          return network;
+  
+      }
+  
+      drawGraph();
+  
+</script>
+</body>
+</html>

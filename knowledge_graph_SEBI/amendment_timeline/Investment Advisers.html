@@ -1,0 +1,140 @@
+<html>
+<head>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js" type="text/javascript"> </script>
+<center>
+<h1>Layer 2 - Amendment Timeline of Investment Advisers</h1>
+</center>
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+        #config {
+            float: left;
+            width: 400px;
+            height: 600px;
+        }
+        
+
+        
+</style>
+</head>
+<body>
+<div id="mynetwork"></div>
+<div id="config"></div>
+<script type="text/javascript">  
+  
+      // initialize global variables.
+      var edges;
+      var nodes;
+      var network; 
+      var container;
+      var options, data;
+  
+      
+      // This method is responsible for drawing the graph, returns the drawn network
+      function drawGraph() {
+          var container = document.getElementById('mynetwork');
+          
+          
+  
+          // parsing and collecting nodes and edges from the python
+          nodes = new vis.DataSet([{"color": "blue", "id": "Sept2_2003", "label": "Sept2_2003", "shape": "dot", "title": "Sept2_2003"}, {"color": "blue", "id": "June10_2004", "label": "June10_2004", "shape": "dot", "title": "June10_2004"}, {"color": "blue", "id": "Oct10_2007", "label": "Oct10_2007", "shape": "dot", "title": "Oct10_2007"}, {"color": "blue", "id": "Mar17_2008", "label": "Mar17_2008", "shape": "dot", "title": "Mar17_2008"}, {"color": "blue", "id": "Aug8_2008", "label": "Aug8_2008", "shape": "dot", "title": "Aug8_2008"}, {"color": "blue", "id": "July5_2011", "label": "July5_2011", "shape": "dot", "title": "July5_2011"}, {"color": "blue", "id": "Sept11_2012", "label": "Sept11_2012", "shape": "dot", "title": "Sept11_2012"}, {"color": "blue", "id": "May17_2013", "label": "May17_2013", "shape": "dot", "title": "May17_2013"}, {"color": "blue", "id": "Dec24_2014", "label": "Dec24_2014", "shape": "dot", "title": "Dec24_2014"}, {"color": "blue", "id": "Mar7_2016", "label": "Mar7_2016", "shape": "dot", "title": "Mar7_2016"}, {"color": "blue", "id": "May27_2016", "label": "May27_2016", "shape": "dot", "title": "May27_2016"}, {"color": "blue", "id": "Feb15_2017", "label": "Feb15_2017", "shape": "dot", "title": "Feb15_2017"}, {"color": "blue", "id": "Jul25_2017", "label": "Jul25_2017", "shape": "dot", "title": "Jul25_2017"}, {"color": "red", "id": "1514889591391.txt", "label": "1514889591391.txt", "shape": "dot", "title": "1514889591391.txt", "url": "file:///home/deepti-saravanan/Documents/reports_for_public_comments/1514889591391.pdf"}]);
+          edges = new vis.DataSet([{"color": "#000000", "from": "Sept2_2003", "title": "amendment", "to": "June10_2004"}, {"color": "#000000", "from": "June10_2004", "title": "amendment", "to": "Oct10_2007"}, {"color": "#000000", "from": "Oct10_2007", "title": "amendment", "to": "Mar17_2008"}, {"color": "#000000", "from": "Mar17_2008", "title": "amendment", "to": "Aug8_2008"}, {"color": "#000000", "from": "Aug8_2008", "title": "amendment", "to": "July5_2011"}, {"color": "#000000", "from": "July5_2011", "title": "amendment", "to": "Sept11_2012"}, {"color": "#000000", "from": "Sept11_2012", "title": "amendment", "to": "May17_2013"}, {"color": "#000000", "from": "May17_2013", "title": "amendment", "to": "Dec24_2014"}, {"color": "#000000", "from": "Dec24_2014", "title": "amendment", "to": "Mar7_2016"}, {"color": "#000000", "from": "Mar7_2016", "title": "amendment", "to": "May27_2016"}, {"color": "#000000", "from": "May27_2016", "title": "amendment", "to": "Feb15_2017"}, {"color": "#000000", "from": "Feb15_2017", "title": "amendment", "to": "Jul25_2017"}, {"color": "#000000", "from": "May17_2013", "title": " Consultation Paper on Amendments to the SEBI (Investment Advisers) Regulations, 2013", "to": "1514889591391.txt"}]);
+  
+          // adding nodes and edges to the graph
+          data = {nodes: nodes, edges: edges};
+  
+          var options = {
+      "configure": {
+          "enabled": true
+      },
+      "nodes": {
+         "font": {
+             "size": 100,
+             "face": "fontFace"
+         }
+     },
+      "edges": {
+          "color": {
+              "inherit": true
+          },
+          "smooth": {
+              "enabled": false,
+              "type": "continuous"
+          }
+      },
+      "interaction": {
+          "dragNodes": true,
+          "hideEdgesOnDrag": false,
+          "hideNodesOnDrag": false
+      },
+      "physics": {
+          "enabled": true,
+          "hierarchicalRepulsion": {
+              "centralGravity": 0.0,
+              "damping": 0.09,
+              "nodeDistance": 120,
+              "springConstant": 0.01,
+              "springLength": 100
+          },
+          "solver": "hierarchicalRepulsion",
+          "stabilization": {
+              "enabled": true,
+              "fit": true,
+              "iterations": 1000,
+              "onlyDynamicEdges": false,
+              "updateInterval": 50
+          }
+      }
+  };
+          
+          
+  
+          
+          // if this network requires displaying the configure window,
+          // put it in its div
+          options.configure["container"] = document.getElementById("config");
+          
+  
+          network = new vis.Network(container, data, options);
+  
+          
+  
+  
+          
+  
+  network.on("selectEdge", function (params) {
+         if (params.edges.length === 1) {
+             var edge = edges.get(params.edges[0]);
+             window.open(edge.url, '_tab');
+         }
+     });
+     
+ network.on("selectNode", function (params) {
+         if (params.nodes.length === 1) {
+             var node = nodes.get(params.nodes[0]);
+             window.open(node.url, '_tab');
+         }
+     });
+          return network;
+  
+      }
+  
+      drawGraph();
+  
+</script>
+</body>
+</html>
