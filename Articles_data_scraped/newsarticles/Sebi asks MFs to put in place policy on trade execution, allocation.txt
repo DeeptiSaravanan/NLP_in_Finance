@@ -1,0 +1,59 @@
+Sebi asks MFs to put in place policy on trade execution, allocation
+
+regulator on Thursday asked mutual fund houses to put in place a policy specifying role of several teams engaged in fund management and back office with regard toexecution of order and allocation of trade among various schemes.
+
+The policy will ensure that all the schemes and its investors are treated in a fair and equitable manner, the (Sebi) said in a circular.
+
+The circular will be applicable with effect from January 1, 2021, it added.
+
+In addition, the regulator has come out with framework for uniformity in applicability of net asset value (NAV) across various schemes on realisation of funds.
+
+In respect of purchase of units of mutual fund schemes (except liquid and overnight schemes), said closing NAV of the day will be applicable on which the funds are available for utilisation irrespective of the size and time of receipt of such application.
+
+Currently, subscription in equity and debt schemes, if aggregate value per PAN is less than Rs 2 lakh then NAV of the transaction date, was given and not based upon the actual realisation of funds for these transactions.
+
+"With these changes, all transactions will now be treated equally under or over Rs 2 lakh as same and the NAV applicable will be based on the realisation of subscription money and not based upon the date of the transaction," saidOmkeshwar Singh, head, RankMF, Samco Group.
+
+has asked asset management companies (AMCs) to put in place a written down policy such as specific activities, role and responsibilities of various teams engaged in fund management, compliance, risk management and back-office, among others, with regard to order placement, execution of order, trade allocation among various schemes and other related matters.
+
+Further, the policy will be approved by the board of asset management company(AMC) and the trustees.
+
+Also, they need to ensure compliance with the requirement fororders pertaining to equity and equity-related instruments andrequirements with respect to investments in all instruments.
+
+With regards to orders pertaining to equity and equity-related instruments, Sebi said AMCs will use an automated order management system (OMS), wherein the orders for equity and equity-related instruments of each scheme will be placed by the fund managers of the respective schemes.
+
+In case a fund manager is managing multiple schemes, the fund manager willnecessarily place scheme-wise order.
+
+According to Sebi, regulatory limits and allocation limits as specified in scheme information document (SID) will be in-built in the OMS to ensure that orders in breach of such limits are not accepted by the OMS.
+
+AMCs may further place soft limits for internal control and risk management based on its internal policy.
+
+Further, any change in limits specified in OMS will be subject to the approval of Compliance and risk officer.
+
+All orders of fund managers will be received by dedicated dealers responsible for order placement and execution.
+
+Further, the internal policy of AMC may also provide certain scenarios within the regulatory limits, wherein prior approval of compliance or risk officer would be required through OMS before the order is received by the dealer.
+
+Spelling out requirements with respect to investments in all instruments, Sebi said AMC will ensure that the dealing desk is suitably staffed and comply with certain conditions.
+
+Among the conditions are all conversations of the dealer will be only through the dedicated recorded telephone lines, and no mobile phones or any other communication devices other than the recorded telephone lines will be allowed inside the dealing room.
+
+Also, AMCs need to ensure restricted access to internet facilities on computers and other devices inside the dealing room.
+
+The trade allocation policy of the AMCs will detail specific situations (not generic), wherein the orders by dealers will be placed for each scheme individually or pooled from multiple schemes and the timeline to be considered for pooling of orders in case of multiple schemes.
+
+"In case of pooled orders, post allocation of trades shall be on pro-rata basis as per the size of the order placed. The said allocation shall be based on weighted average price," Sebi said.
+
+The policy will clearly include situations in which deviation from the allotment of units on pro-rata basis would be permissible, if at all.
+
+It, further, said the deviations will be on account of exigency only and require prior written approval of chief investment officer, risk officer and the compliance officer with detailed rationale for such deviation.
+
+In case of scenarios, wherein the are required to place certain margins or collaterals in order to execute certain transactions, Sebi said the policy will include details on how such margins or collaterals will be segregated from various schemes, without affecting the interest of investors of any scheme.
+
+With regard to monitoring of compliance, Sebi asked AMCs to have a system-based monitoring mechanism. Besides, audit trail of activities related to order placement, trade execution and allocation will be available in the system.
+
+Further, there should be time stamping with respect to order placed by fund manager, order placed by dealer, order execution and trade allocation.
+
+Any non-compliance and all material information in this regard will be reported to trustees on quarterly basis and trustees will inform the same to Sebi in their half yearly trustee report.
+
+(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)

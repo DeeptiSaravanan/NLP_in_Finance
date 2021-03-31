@@ -1,0 +1,15 @@
+Sebi comes up with guidelines on order-to-trade ratio for algo trading
+
+regulator on Wednesday put in place new framework on order-to-trade ratio (OTR) of algo orders placed by stock brokers.
+
+Algorithmic trading or 'algo' in market parlance refers to orders generated at a super-fast speed by the use of advanced mathematical models that involve automated execution of trade, and it is mostly used by large institutional investors.
+
+In a circular, the (Sebi) said it has decided to modify existing OTR framework after receiving requests from the stock exchanges.
+
+Under the framework, stock exchanges may be permitted to introduce additional slabs up to an OTR of 2,000 (from existing OTR of 500), and for OTR more than 2,000, such slabs can be introduced with deterrent incremental penalty, which stock exchanges may decide jointly.
+
+On the third instance of OTR being 2,000 or more, in the last 30 days (rolling basis), the concerned member will not be permitted to place any orders for the first 15 minutes on the next trading day as a cooling off action.
+
+has asked recognised stock exchanges to make necessary amendment to their existing rules wherever required.
+
+Earlier in April 2018, had advised stock exchanges to put in place effective economic disincentives for high daily order-to-trade ratio of algo orders placed by trading members.

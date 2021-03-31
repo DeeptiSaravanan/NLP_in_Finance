@@ -1,0 +1,21 @@
+Sebi amends insider trading norms; entities to maintain database on UPSI
+
+regulator has amended norms, wherein listed entities will have to maintain a structured digital database containing nature of unpublished price-sensitive information.
+
+This comes after the board of approved a proposal in this regard last month.
+
+The amendments include providing for maintaining a structured digital database containing nature of unpublished price-sensitive information (UPSI), the names of persons who have shared the information, automation of the process of filing disclosures to stock exchanges, and restriction on trading window.
+
+Further, entities would have to file the non-compliance of code of conduct with the stock exchanges, and the amounts if any collected for such non-compliances would be credited to the Investor Protection Education Fund administered by
+
+In a notification dated July 17, Sebi said, "The board of directors or head(s) of the organisation of every person required to handle UPSI shall ensure that a structured digital database is maintained containing the nature of UPSI and the names of such persons who have shared the information..."
+
+The database should also contain the names of such persons with whom information is shared under the new norm along with the PAN or any other identifier authorised by law where PAN is not available, as per the notification.
+
+It, further, said such database will not be outsourced and will be maintained internally with adequate internal controls and checks such as time stamping and audit trails to ensure non-tampering of the database.
+
+Further, the structured digital database will be preserved for a period of at least eight years after completion of the relevant transactions.
+
+In case of receipt of any information from the regulator regarding any investigation or enforcement proceedings, Sebi said the relevant information in the structured digital database will be preserved till the completion of such proceedings.
+
+The new regulations have become effective from July 17, 2020.

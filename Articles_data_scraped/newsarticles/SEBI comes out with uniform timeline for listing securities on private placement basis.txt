@@ -1,0 +1,29 @@
+SEBI comes out with uniform timeline for listing securities on private placement basis
+
+Markets regulator SEBI on Monday came out with a uniform time period for listing securities, including municipal bonds, issued on private placement basis.
+
+The timeline will be applicable for non-convertible redeemable preference shares, debt securities, securitised debt instruments and security receipts and municipal bonds, SEBI said in a circular.
+
+The move comes after the regulator received several requests from various market participants for clarification on the time period within which such securities need to be listed after completion of allotment.
+
+After taking feedback from market participants, SEBI has decided that allotment of securities will be completed by T+2 trading days after receiving funds.
+
+T day refers to closure of the issue. It further said issuer needs to make listing application to stock exchanges and obtain approval from the bourses by T+4 trading day.
+
+It further said issuer needs to make listing application to stock exchanges and obtain approval from the bourses by T+4 trading day.
+
+In case of delay in listing of securities issued on private placement basis beyond the timeline, the issuer will pay penal interest of 1 percent per annum over the coupon rate for the period of delay to the investor (i.e. from date of allotment to the date of listing), SEBI said.
+
+In addition, issuer will be permitted to utilise the issue proceeds of its two subsequent privately placed issuances of securities only after receiving final listing approval from stock exchanges, it added.
+
+According to the regulator, depositories will activate the ISINs (International Securities Identification Numbers) of debt securities issued on private placement basis only after the stock exchanges have accorded approval for listing of such securities.
+
+Further, in order to facilitate re-issuances of new debt securities in an existing ISIN, depositories have been asked to allot such new debt securities under a new temporary ISIN which will be kept frozen.
+
+ISIN code, which has 12 characters, is used for uniquely identifying securities like stocks, bonds warrants and commercial papers.
+
+After receiving listing approval from stock exchange for such new debt securities, SEBI said, "the debt securities credited in the new temporary ISIN shall be debited and the same shall be credited in the pre-existing ISIN of the existing debt securities, before they become available for trading”.
+
+Stock exchanges have been asked to inform the listing approval details to the depositories whenever listing permission is given to debt securities issued on private placement basis.
+
+The direction will come into force with effect from December 1, 2020, the Securities and Exchange Board of India (SEBI) said.
