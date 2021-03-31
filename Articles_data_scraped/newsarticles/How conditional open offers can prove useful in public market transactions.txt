@@ -1,0 +1,41 @@
+How conditional open offers can prove useful in public market transactions
+
+Public market transactions typically demand a high degree of certainty while navigating time-sensitive legal and regulatory hurdles. This demands robust structuring of the transaction preferably with in-built fail-safe mechanisms if overall commercial objectives are not met. One such commercial objective is consolidation, and its potential fail-safe – a conditional tender offer.
+
+Public market transactions can broadly be classified into two categories – minority (non-control) investments and control deals. A control deal generally involves acquiring a majority stake (minimum 50.1% equity and voting rights) and negotiated contractual rights in the public listed company. A majority stake, along with inherent legal rights (such as ability to pass ordinary resolutions) allows the acquirer to consolidate the listed company in its accounts – often, an ironclad commercial objective.
+
+Such transactions—which result in a change in shareholding (25% equity and voting rights, or more)—trigger a mandatory open offer. This makes it compulsory for the acquirer to make an offer to purchase up to 26% shares of the listed company from its public shareholders. This gets complicated further, as the acquirer is not allowed to hold more than 75% shares in a listed company.
+
+For better understanding, let’s assume a hypothetical scenario in which an acquirer wishes to acquire a minimum of 50.1% shares and voting rights in a listed company with a 60% promoter stake and a 40% public stake.
+
+Broadly, it has three options: (i) acquire the entire 50.1% stake, and also purchase the additional shares tendered in the mandatory tender offer; (ii) acquire a lesser stake (30%) and purchase additional shares tendered in the open offer, in the hope that the aggregate crosses 50.1%; or (iii) acquire shares in the open offer first, and then purchase the differential shares from the promoter in order to achieve the 50.1% threshold.
+
+In the first option, the acquirer risks ending up with a stake of 76.1% (50.1% + 26%) – a substantial increase from the original target – and an obligation to sell equity to ensure minimum public float. In the second option, the acquirer risks missing the desired shareholding target – a possible deal breaker. In the third option, the promoter would have limited clarity on its stake sale – potentially rendering the deal commercially unviable.
+
+Business case for conditional open offers
+
+A potential structuring solution may be a conditional open offer. However, under the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations 2011 (Takeover Regulations), an acquirer is permitted to make an open offer conditional on a minimum acceptance provided that if the desired acceptance in the open offer is not received, the acquirer shall not be permitted to acquire any shares under the open offer.
+
+The acquirer also won’t be allowed to get any shares under the agreement which triggered the obligation to make the open offer. In other words, it provides the acquirer flexibility in structuring the overall transaction together with an automatic fail-safe if the desired commercials don’t match up.
+
+To understand this better, let’s extend the above hypothetical scenario: keeping in mind the target of acquiring a minimum of 50.1% stake, the acquirer enters into an agreement to purchase 30% stake in a listed company from its promoters (assuming the promoters are not willing to sell above 30% and there are no other substantial sellers in the picture).
+
+The agreement with the promoters would trigger an open offer. Instead of a regular open offer, the acquirer launches an open offer that says the acquirer can receive a minimum of 20.1% acceptance. Thus, the promoter’s stake and open offer acceptance would equal 50.1% — the desired target.
+
+However, without the conditional open offer, the acquirer would be bound to complete the acquisition of shares tendered in the open offer, irrespective of the number of shares tendered. In case of a conditional open offer, if the minimum acceptance (20.1%) is not met, the acquirer has the option of walking away from the open offer (but would also be required to walk away from the underlying purchase of shares from the promoter).
+
+Challenges of conditional open offers and how to tackle them
+
+Conditional open offers are commonly considered at deal structuring stages, but have been sparingly implemented in public market deals. This is largely on account of factors such as uncertainty in tendering, market fluctuations and sunk costs in case of a failed transaction.
+
+Concerns such as uncertainty in tendering by public shareholders may, subject to commercial considerations, be addressed (to some extent) by offering a lower price (in compliance with minimum pricing requirements) at which the shares would be acquired even if the open offer threshold is not met.
+
+Moreover, the growing involvement of proxy advisory firms in better informing public and institutional shareholders is likely to increase public participation.
+
+As for market price fluctuations – this is typically a temporary distortion, which is bound to normalize over time especially when the success or failure of the transaction would not only be linked purely to the deal fundamentals, but also to shareholder interest.
+
+Potential sunk costs are regularly factored into most modern-day deals. This is hardly a reason not to explore transactions coded with protection in the form of conditional open offers.
+
+In addition to general concerns, each transaction involving a conditional open offer would pose a set of challenges. With careful structuring, the conditional open offers remain a fundamentally useful tool in achieving the desired commercial objective.
+
+Arindam Ghosh is partner and Abhishek Dadoo is principal associate at law firm Khaitan & Co.
