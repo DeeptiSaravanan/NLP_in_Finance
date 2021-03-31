@@ -1,0 +1,27 @@
+Is short selling allowed in India?
+
+Yes, but it was banned for much of the first decade of the 21st century.
+
+Short selling in the Indian stock market was suspended by the Securities and Exchange Board of India (SEBI) in March 2001.﻿﻿ The ban was instituted partly because of a crash in stock prices amid allegations that Anand Rathi, the then-president of the Bombay Stock Exchange (BSE), used confidential information acquired by BSE's surveillance department to make gains and contribute to volatility.﻿﻿ Rathi was later absolved of any wrongdoing by SEBI.﻿﻿
+
+key takeaways The Securities and Exchange Board of India banned short selling in 2001, following insider trading allegations that saw a crash in stock prices under the weight of heavy short-selling. ﻿ ﻿
+
+﻿ Short selling was once again allowed in India for all investors in 2008. ﻿ ﻿
+
+Why Is Short Selling Notorious?
+
+Short selling is the sale of a security that is borrowed (not owned) by the seller with the promise to buy back the shares at a later date. Short selling is motivated by the belief that a security's price will decline, enabling it to be purchased in the future at a lower price to make a profit. The opposite of traditional capital gains investing, this strategy only pays off when, and if, the security drops in value from the date of sale to the date of repayment.
+
+Opponents of short selling argue it can help cause market declines and recessions. They believe widespread short selling can trigger a sale spiral, crashing the market and damaging the economy. Opponents also claim short selling leads to manipulation and efforts to artificially dampen prices of certain equities. Still others use a ban on short sales as a pseudo-floor on stock prices. These are all reasons why a country might ban short selling.
+
+Is Short Selling in India Still Banned?
+
+The all-out ban on short selling was short lived. Soon after the 2001 ban, retail investors were allowed to sell short once again. In 2005, SEBI recommended that institutional investors such as mutual funds be allowed to short-sell shares in the market, as well. SEBI issued short-selling guidelines for institutional investors in July 2007. Finally, seven years after short selling was banned, both retail and institutional investors had the option to go short in 2008.﻿﻿
+
+200 The approximate number of securities traded in the futures and option (F&O) segment of the Indian stock market eligible for short selling.﻿﻿
+
+However, one thing that remained banned in India was naked short selling (where the seller does not deliver shares within the settlement period). All investors were required to honor their obligation of delivering the shorted securities at the time of settlement. In a circular, SEBI wrote: "The stock exchanges shall frame necessary uniform deterrent provisions and take appropriate action against the brokers for failure to deliver securities at the time of settlement, which shall act as sufficient deterrent against failure to deliver."﻿﻿
+
+As part of the new framework, institutional investors were required to disclose upfront at the time the order was placed whether the transaction was a short sale. Retail investors had to make a similar disclosure by the end of trading hours on the day of the transaction. In addition, under the new short-selling guidelines, no institutional investor was to be allowed day trading (squaring off transactions on an intra-day basis).﻿﻿
+
+Finally, SEBI also introduced the Securities Lending & Borrowing system, an automated, screen-based, order-matching platform through which traders would borrow stocks and honor their sales. All classes of investors were allowed (and, in fact, encouraged) to participate in the program and execute their short sales through it.﻿﻿

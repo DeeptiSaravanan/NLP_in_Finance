@@ -1,0 +1,35 @@
+SEBI changes norms for issuance of AT-1 bonds, minimum allotment size at Rs 1 crore
+
+Markets regulator Sebi on Tuesday mandated usage of electronic book mechanism for issuance of Additional Tier 1 (AT1) instruments.
+
+The mechanism has been made mandatory for such instruments irrespective of the issue size.
+
+Perpetual non-cumulative preference shares, innovative perpetual debt instruments and perpetual debt instruments, commonly referred to as AT1 instruments, are essentially non-equity regulatory instruments, forming part of a bank''s capital.
+
+Such instruments are governed by the Reserve Bank of India (RBI) guidelines and issued under Sebi''s issuance and listing framework.
+
+In addition, issuers and stock exchanges will have to ensure that only Qualified Institutional Buyers (QIBs) are allowed to participate in the issuance of AT1 instruments, the regulator said in a circular.
+
+The decision has been taken based on the recommendations of the Corporate Bonds and Securitization Advisory Committee (CoBoSAC).
+
+The instruments have certain unique features which grant the issuer (banks in consultation with RBI) a discretion in terms of writing down the principal or interest, to skip interest payments, to make an early recall, among others, without commensurate right for investors to legal recourse.
+
+Given the nature and contingency impact of AT1 instruments and the fact that full import of the discretion is available to an issuer, it may not be understood in the truest form by retail individual investors, Sebi noted.
+
+Accordingly, the regulator has come out with the additional framework related to issuance, listing and trading of such instruments which are proposed to be listed.
+
+"The issuance of AT1 instruments shall be done mandatorily on the Electronic Book Provider (EBP) platform irrespective of the issue size," Sebi said.
+
+EBP, launched in 2016, is a bidding platform for firms planning to garner funds through bonds on a private placement basis. At present, bond deals with a threshold of Rs 500 crore and above have to be mandatorily done through this platform.
+
+"The minimum trading lot size for AT1 instruments shall be Rs 1 crore," the Securities and Exchange Board of India (Sebi) said.
+
+Issuers will have to make disclosures about details of all the conditions upon which the call option will be exercised by them for AT1 instruments in the draft documents.
+
+Risk factors need to mention all the inherent features of the AT1 instruments.
+
+Also, they have to disclose about point of non-viability clause, which gives absolute right to RBI to direct a bank to write down the entire value of its outstanding AT1 instruments or bonds, if it thinks the bank has passed the point of non-viability or requires a public sector capital infusion to remain as a "going concern".
+
+Among others, issuers will have to make disclosures about gross debt-equity ratio of the company, before and after the issuance of the AT1 instrument, latest audited or limited review half yearly consolidated (wherever available) and standalone financial information and auditor qualifications.
+
+The direction will come into force with effect from October 12, Sebi said.
