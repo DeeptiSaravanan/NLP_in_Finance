@@ -1,0 +1,53 @@
+SEBI paves way for universal exchanges; amends norms for ARC, minimum public float
+
+The Securities and Exchange Board of India has paved the way for a two-phase integration of stocks and commodity trading platforms, a move that would benefit BSE Ltd and National Stock Exchange by allowing the bourses to launch commodity platforms.
+
+The capital markets regulator announced measures to have a universal exchange and nine other key changes to regulations after its board meeting on Thursday.
+
+The regulator also amended norms pertaining to credit rating agencies, minimum public shareholding, certain shareholding and governance aspects applicable to mutual funds, real estate and infrastructure investment trusts, and the listing of securities by Asset Reconstruction Companies (ARCs).
+
+The idea of a universal exchange was proposed in the 2017 Budget to integrate market participants and brokers, and resolve operational frameworks.
+
+BSE managing director and CEO Ashish Chauhan said SEBI’s decision to have a universal exchange will help participants in various markets with a highly regulated, safer and more transparent trading, clearing and settlement framework when implemented fully. “BSE has geared up for long to provide these facilities,” he said.
+
+For smooth implementation, SEBI will take steps to enable integration of commodity derivatives market with rest of the securities markets at the intermediary’s level in the first phase.
+
+In the second phase, SEBI will remove the restrictions by amending the securities regulations which would come into effect on 1 October 2018. These changes would then enable a single exchange to operate various segments such as equity, equity derivatives, commodity derivatives, currency derivatives, interest rate futures and debt.
+
+At present, commodity derivatives are traded on separate exchanges, which include MCX and NCDEX. SEBI has already been regulating the commodities derivatives market after the payment crisis at National Spot Exchange Ltd, which resulted in the merger of erstwhile Forward Markets Commission with it.
+
+“The existing exchanges will not have to set up a different entity to offer a platform for commodities trading or equities trading, as is the case at present,” said Yogesh Chande, partner at law firm Shardul Amarchand Mangaldas & Co. “As a first step towards achieving that goal, SEBI, in September, permitted brokers to integrate their equity and commodities derivative broking business.”
+
+Minimum public shareholding
+
+SEBI allowed the use of qualified institutions placement (QIP) and condition-based sale of shares held by promoters and promoter group in open market to help listed firms achieve a minimum public float of 25%. Promoter share sale cannot exceed 2% stake.
+
+“QIP offers a quick solution to listed entities enabling them to meet MPS requirements apart from meeting their funding needs. Also, sale of a certain small percentage of shares through the open market will facilitate quicker and cheaper compliance for listed entities where promoters hold shares marginally above the threshold limit,” SEBI said in a statement.
+
+SEBI introduced norms for a minimum public float to improve efficiency and bring depth in the market with wider participation. Till now, SEBI had allowed the use of rights issue to public shareholders, institutional placement programme (IPP) and offer for sale for promoters to reduce their stake to 75% or below.
+
+Listed public sector companies were granted additional one-year extension to comply with such requirements. The deadline is now set for August 2018.
+
+REITs and InvITs
+
+In order to facilitate the growth of REITs and InvITs, the market regulator will allow such trusts to invest at least 50% stake in holding companies subject to certain safeguards. The existing requirement of REITs to have ultimate holding interest of at least 26% in the underlying SPV would remain unchanged.
+
+SEBI had notified REITs regulations in 2014, allowing setting up and listing of such trusts which are very popular in some advanced markets. However, not a single REIT has been listed in the country. Despite various earlier relaxations, listings have not taken place as they have failed to attract investors.
+
+Among other criteria, REIT manager in consultation with the trustee, would need to appoint at least such number of directors on the board of holding company or SPVs, in proportion to the shareholding or interest such entity.
+
+Further, in case of any inconsistencies between any shareholder or partnership agreement and the obligations cast upon REIT in the norms, the provisions of the REIT regulations would prevail.
+
+Besides, SEBI has decided to rationalise the definition of sponsor group in case of REITs. It has proposed to enable investments by REITs in unlisted shares under the 20% investment category. The board of SEBI approved minor amendments to the REIT and InvIT Regulations for harmonisation of the terms and definitions in the norms.
+
+Public issue and listing of ARCs
+
+SEBI also approved the framework for listing of security receipts (SRs) issued by Asset Reconstruction Companies (ARCs) under SEBI (Public Offer and Listing of Securitised Debt Instruments) Regulations, 2008 (SDI Regulations).
+
+The move follows a proposal put forth in the 2017 Budget to permit SEBI-registered stock exchanges to facilitate listing and trade of SRs to boost capital flows into the securitisation industry and will particularly be helpful to deal with bank NPAs.
+
+Digitisation
+
+SEBI has told companies to consider the electronic mode of communication for informing investors about refund orders, share allotments and other such messages against the current practice of dispatching such information via registered post or certificate of posting.
+
+"As a green initiative, the board approved the proposal of inclusion of electronic mode as a valid method of communicating the allotment advice/credit of shares/unblocking of funds in addition to the present methods," SEBI said, adding the move would be in tune with the digital initiatives of the government and would reduce printing costs for the issuer.

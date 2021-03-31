@@ -1,0 +1,47 @@
+SEBI proposes share lock-in for VC investors of startups listing on new platform via IPO
+
+The Securities and Exchange Board of India (SEBI) has proposed a raft of changes in its institutional trading platform, better known as the startup listing platform, to make it attractive enough for firms to consider going public in India.
+
+In particular, the securities market regulator has proposed to reclassify what it means by 'institutional investors' who can access the new trading platform. In the current norms, SEBI has allowed qualified institutional buyers (QIBs).
+
+It has now sought to include family offices, RBI-registered non-banking finance companies (NBFCs), SEBI-registered intermediaries with net worth of over Rs 500 crore, hedge funds under its Alternative Investment Fund (AIF) norms and pooled investment funds with assets under management of more than $150 million (Rs 1,000 crore).
+
+This relaxation also applies to another existing eligibility norm for startups that seek to list on the platform. Existing norms prescribe that at least 25% of the company needs to be owned by an institutional investor before listing if it’s a technology firm. For non-tech startups, this threshold ownership by institutional investors has been pegged at 50%.
+
+The regulator has proposed to discontinue this distinction between tech and non-tech firms and make 25% minimum institutional holding uniform with the expanded list of such investors.
+
+SEBI has also proposed to scrap the rule that no single shareholder shall own more than 25% after listing and gave more room to high net-worth investors (HNIs) and corporate investors to participate in public issues of startups in the new platform.
+
+HNIs and corporate houses are covered under non-institutional investors. Earlier, only a quarter of the IPO of a startup was reserved for them.
+
+In addition, it also plans to allow single investors to pick a larger quantum of shares in the IPO of a startup in the new exchange. A single institutional investor can pick as much as a fourth of the entire issue. Earlier, they were restricted to pick just about a tenth of the issue.
+
+"SEBI's intent is clear: it wants to make listing easier. At the same time, it is painfully aware that laxity in regulations could encourage market manipulations. These two opposing forces explain SEBI's actions,” said angel investor Ajeet Khurana. “I regard the new norms as a positive step.”
+
+In another significant move, SEBI has restricted an immediate share sale by venture capital investors as well as employees who converted their stock options into shares after listing. Under the current norms, if the startup is listing via an initial public offering, ESOP-converted shares and equity shares held by VCs are not subject to the uniform six-month lock-in period.
+
+This means that all existing investors of a startup listing on the platform would need to hold on to their shares for at least six months after it goes public.
+
+These apart, SEBI has gone back to its original plan when it had planned to have a minimum trading lot of shares of Rs 5 lakh. Last year, when it came out with the final guidelines, it had doubled this. It has now proposed to bring it back to Rs 5 lakh.
+
+Meanwhile, the market regulator has proposed to make market making compulsory for a minimum period of three years for an issue size of less than Rs 100 crore. The existing platform has no provision for market making.
+
+Despite a lot of talk of making life easier for startups to list in India, the exodus of Indian tech startups continue. Most recently, one of India's top online travel agencies Yatra.com decided to go for a reverse merger to list on NASDAQ.
+
+Well begun but half done
+
+Entrepreneurs, investors and industry executives largely welcomed the move but some of them doubted whether these measures will be enough to encourage startups to list on Indian bourses.
+
+“It is largely in line with what we have been proposing,” said Sanjay Khan Nagra, senior associate at law firm Khaitan & Co. Khan is a member of the ‘List in India’ policy expert team of software product industry group iSPIRT, which has been working with SEBI on the institutional trading platform.
+
+He said startups showed no interest in listing on the new platform for various concerns. “Some of their concerns were common and SEBI has tried to address them through the changes suggested in the discussion paper,” he said.
+
+Vinay Mathews, founder and COO at peer-to-peer lending platform Faircent, said the fresh proposal is attractive for startups and offers easier exit options for investors. “Will there be any takers? Only time will tell, but I think we’ll see a few companies getting listed in next six to nine months,” he said.
+
+Amaresh Ojha, founder of fitness startup Gympik, said that these changes will be favourable for bootstrapped companies going for an IPO. “Flexibility in subscription of shares by individuals, VCs and institutional investors can attract more investors to mature and late-stage startups,” said Ojha.
+
+Apoorv Ranjan Sharma, co-founder of Venture Catalysts, said the move to lower the trading ticket size is positive as more small-time investors will be able to participate, which will eventually drive volumes higher.
+
+Manish Lunia, co-founder of online lending platform FlexiLoans Technologies, welcomed the steps but said these were not enough. Changes in listing norms such as past profit records and alternative mechanisms for expanding the market for startup investments are more important, he said. “These incremental steps that might not be able to stop the exodus of mature startups to list outside India, just like MakeMyTrip did in the past,” Lunia said.
+
+Like this report? Sign up for our daily newsletter to get our top reports.
