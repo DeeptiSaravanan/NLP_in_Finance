@@ -1,0 +1,22 @@
+Markets regulator clamps down on inter-scheme transfers for mutual funds
+
+The Securities and Exchange Board of India (Sebi) on Thursday tightened norms on inter-scheme transfers (ISTs) for mutual funds (MFs), imposing conditions on when the facility can be used and placing greater accountability on fund managers deciding on such transfers.
+
+ISTs involve a scheme buying or selling a debt instrument from another scheme of the same fund house. The practice can create conflicts related to valuation, a matter that has flagged earlier.
+
+ISTs for close-ended schemes will only be allowed within three business days of the new fund offer. Earlier, such transfers could be done any time as long as the average maturity profile of the scheme was maintained.
+
+
+
+
+
+ALSO READ: Jio designed to help India lead fourth industrial revolution: Mukesh Ambani
+
+Open-ended schemes will be allowed to do ISTs only if all other avenues — use of scheme cash and cash equivalent, market borrowing, and selling securities in the market — are exhausted.
+
+ISTs will be allowed to rebalance only on breach of regulatory limits or where duration, issuer, sector and group rebalancing are required in both the transferor and transferee schemes.
+
+Trustees are now required to put in place a mechanism to negatively impact the performance incentives of fund managers involved in the process of ISTs in credit risk schemes, in case the security falls in default grade after ISTs within a year. Such a negative impact on performance shall mirror the existing mechanism for performance incentives of the asset management company.
+
+ISTs of a security will not be allowed if there is negative or alert in the mainstream media about the security. Fund managers have to provide detailed justification to trustees for buying securities that get downgraded withing four months of the IST. “The regulator’s intent is to protect investors and to ensure that funds do not resort to such transfers to hide bad papers. But in doing so, it has completely taken away the flexibility for effecting such transfers, which will now be restricted to high-grade and liquid papers alone,” said a senior fund official.
+

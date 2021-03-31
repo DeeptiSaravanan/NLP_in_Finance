@@ -1,0 +1,35 @@
+How to sniff and dodge financial scams and keep your wealth intact
+
+Two cases are currently in the news in which it seems like a large number of investors may lose their hard-earned money. One is the case of Mumbai-based Anugrah Stock & Broker, which seems to have promised its clients an assured return. It used their money to trade in the futures and options (F&O) segment and sustained losses there. The other case is of a Kerala-based entity that collected money from depositors promising them very high rates of return. That scheme has collapsed. Both these schemes are currently under investigation.
+
+Safeguard yourself against brokers’ shenanigans
+
+The Securities and Exchange Board of India (Sebi) has taken many steps over the past year that will make misuse of shares (lying in demat accounts) of clients or their money difficult. The new norms on margin pledging, for instance, are expected to reduce misuse of clients’ shares lying in “Earlier, the broker could transfer those shares to his own demat account for margin funding. He would then misuse them. Now the shares will remain in the client’s account and a lien will be marked on them there itself,” says Shrey Jain, founder, SAS Online, a Delhi-based discount broking firm.
+
+The regulator has also changed the way it audits brokers. Now the entire focus of auditing is on the possible misuse of clients’ funds and securities. These steps are requested to reduce the probability of scams in future.
+
+Nonetheless, clients need to stay on guard. “Check the monthly statement that comes from the depository— or Also, keep your mobile number and email ID updated with the broker. If any unauthorised transaction happens in your account, you will become aware of it,” says Jain.
+
+You also need to be on guard against the misuse of your money. If you are not engaging in any trading activity, then withdraw all excess funds lying the broker. If there are any delays in payouts, that is an early sign that the broker is in financial trouble. In that case, change your broker immediately. Generally, it is safer to stick to brokers who just offer broking service and do not engage in proprietary trading. It is when brokers sustain losses in proprietary trading that they resort to misuse of clients’ shares and cash.
+
+Under no circumstance should you give your broker the right to trade on your behalf. “Do not give the broker power of attorney (PoA) to trade. Even if you give PoA, it should be a limited-purpose PoA, which he may use to make pay-in (transfer shares from your demat account to the exchange when you sell shares). Give PoA only for your depository account, not for your trading account,” says Jain.
+
+Make use of the e-DIS (electronic depository instruction slip) facility. If you do so, you will not have to give your broker PoA even for pay-in. You will receive a one-time password (OTP). Only when you enter it will shares get transferred from your demat account. Using this facility, you can in future keep things under your control.
+
+Do not fall for the promise of a regular monthly return. “Futures and options are complex instruments that most retail investors do not understand, so they should stay away from them. Moreover, equity as an asset class is not geared to deliver regular income. When a seller promises a regular, fixed income, enquire how that regular income will be the generated. If the underlying asset class does not have the capability to generate a regular income, then any promise based on it is ultimately bound to fail,” says Vishal Dhawan, chief financial planner, Plan Ahead Wealth Advisors.
+
+Steer clear of Ponzi schemes
+
+Kerala-based Popular Finance was collecting deposits promising high rates of return. Whenever the rate of return being promised is much higher than a fixed deposit, investors need to understand that the risk will also be commensurately higher. “Investors need to check where the risk lies and if they are comfortable taking that risk. Unfortunately, investors are only interested in the returns and don’t bother to investigate how the returns will be generated,” says Dhawan.
+
+Avoid buying financial products based only on the recommendations of friends and people you know. A Ponzi scheme feeds on this very concept. Just because someone the investor trusts has put his money in the scheme, he also does the same. Everyone entering the scheme assumes that the person who has recommended them the scheme has done the due diligence. As a result, no do due diligence gets done on the product offering.
+
+If at all you invest in a high-risk offering, it should constitute a small portion of your total investment corpus. It should essentially be money that you are prepared to lose.
+
+Investors also need to read documents before signing on the dotted line. By reading the document, they may be able to spot the divergence between what they have been told (regarding how the returns will be generated) and what will actually be done with their money.
+
+Experts suggest that you should be extremely conservative about whom you invest with. “In these times, you should only bank with the most blue-chip of public- or private-sector banks,” says Avinash Luthria, a Sebi-registered investment advisor and founder, Fiduciaries. With returns on safe investments falling to low levels (post-tax and post-inflation), investors are constantly on the lookout for avenues that will give them slightly higher returns. But in this quest, they should not get tempted into investing in what could turn out to be fraudulent products. “Stay away from grey areas. Once you venture into that area, you will have to wrestle with the question of what is riskier and what is less so. And in today’s world even financial professionals struggle to answer that question,” says Luthria. He cites the example of Yes Bank’s AT-1 bonds. Many knowledgeable people invested in them thinking that the risks were manageable and ended up losing their entire corpus. Luthria also suggests to people who are falling short of their investment goals that instead of trying to earn a higher return by investing in riskier products, they should focus on enhancing their rate of saving.
+
+
+
+Finally, do the due diligence before entering any product. If you can’t do so yourself, pay a fee to a financial professional to vet the product on your behalf. In the long run, paying the professional’s fee will prove to be much cheaper.
