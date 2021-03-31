@@ -1,0 +1,31 @@
+Bay Capital leads $7.5 mn round for online stock broker Samco
+
+Mumbai-based online broker Samco Securities has raised $7.5 million (Rs 49 crore) in a Series B round led by Bay Capital Investments, the firm said. The round also saw participation from promoters, undisclosed existing backers, and high-net-worth individuals whom the startup did not identify.
+
+The firm, which runs mobile trading app StockNote, aims to use the funds to start new verticals for mutual-fund distribution, lending, and research and advisory.
+
+"The core broking operations of the company are adequately capitalised and are generating enough free cash flow. The funds raised will allow Samco to allocate some money for growth, apart from investing in artificial intelligence and analytical technology," said Jimeet Modi, founder and chief executive of startup.
+
+Run by Samco Ventures Private Limited, the startup was founded in 2015. It claims to have over 75,000 customers across India and it sees the new verticals fuelling its next phase of growth.
+
+Samco Securities, which had previously raised Rs 20 crore ($3 million) in a Series A round in 2016, said it was looking to grow revenue by 100% for the current financial year ending March 2019.
+
+“Samco has had an impressive growth trajectory. We are impressed with the innovation that they have brought in an otherwise cluttered market. They understand the complex requirements of the market and have been successful in delivering unique solutions to the investor community in India,” said Siddharth Mehta, founder of Bay Capital.
+
+One such solution launched by the startup last month is StockNote, a content streaming and trading platform that aggregates and delivers news and information about stocks and sectors across India. The application uses the company’s proprietary Giga Trading Engine, which is an artificial intelligence and analytics platform.
+
+While the application has notched up over 50,000 downloads in a month, the company is expecting over 500,000 downloads over the next few months.
+
+Deals in online-broking space
+
+One year ago, Indore-based online stock-broking startup TradingBells, raised $294,000 (Rs 2 crore) from Mumbai-based stock broking firm Swastika Investmart Ltd.
+
+Two years ago, Mumbai-based online discount stock brokerage RKSV (now Upstox) raised $4 million (Rs 27.3 crore) in a Series A round led by Kalaari Capital. The round also saw participation from health-care tech firm GVK Davix Technologies Pvt Ltd and other undisclosed investors.
+
+The broker’s site says it is backed by Ratan Tata, chairman of Tata Trusts.
+
+Interestingly, Zerodha, the biggest online brokerage in India by transactions, has never raised external funds and employs over 1,000 people. Its incubator, fin-tech firm Rainmatter, has invested in over eight startups including trading platforms and fund-recommendation engines.
+
+Zerodha, which was founded in 2010 by Nithin Kamath, has opened up its application protocol interface (API) for other fin-tech trading startups. Currently, about 500 individual developers and non-funded startups are using its APIs.
+
+Despite all the activity in the online broking space, and the fact that the market regulator had approved online broking and trading in 2000, the fact remains that less than 1% of India’s population invests, either directly or through mutual funds, in the stock market, going by industry estimates. By comparison, almost half of the American population invests in stocks. While the country has 27 million demat accounts, only 100,000 are active, going by estimates.
