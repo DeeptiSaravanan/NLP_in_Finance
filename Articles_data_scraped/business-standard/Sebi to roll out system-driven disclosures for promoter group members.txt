@@ -1,0 +1,39 @@
+Sebi to roll out system-driven disclosures for promoter group members
+
+regulator on Wednesday decided to implement system-driven disclosures for members of promoter group, directors and designated persons of a listed company.
+
+To begin with, the system-driven disclosures will pertain to trading in equity shares and equity derivative instruments -- futures and options -- of the listed company by such entities, said in a circular.
+
+The system-driven disclosures in the securities market were first introduced in December 2015 and are being implemented in a phased manner.
+
+"It has now been decided to implement the system-driven disclosures for member(s) of promoter group and designated person(s) in addition to the promoter(s) and director(s) of company...under the PIT Regulations," said.
+
+The depositories and stock exchanges will have to make necessary arrangements such that the disclosures pertaining to PIT (Prohibition of Insider Trading) norms are disseminated on the websites of respective bourses from October 1.
+
+It further said the new system would continue to run parallel with the existing system, wherein entities will continue to independently comply with the disclosure obligations under PIT norms as applicable to them, till March 31, 2021.
+
+As currently done, the disclosures generated through the system will be displayed separately from the regular disclosures filed with the exchanges.
+
+The regulator has specified process that needs to be followed for the implementation of the system.
+
+Under the process, a listed company will provide the information such as PAN of promoter, including members of the promoter group, designated persons and director in the format and manner prescribed by the depositories.
+
+Further, for PAN-exempt entities, the investor's demat account number will be specified by the listed company. Such information will be provided within 10 days.
+
+The designated depository will share the information received from the listed company with other depository. The designated depository will also share with the stock exchanges, company-wise details of entities.
+
+The depositories will provide the data pertaining to the tagged demat account(s) separately to the stock exchanges on a daily basis.
+
+The data should be related to details about transactions on pledge, revocation, invocation of shares and other encumbrances of the entities, off-market transactions, corporate actions such as ESOPs, bonus, and rights of the entities.
+
+Based on the PAN information provided by the depositories, on a daily basis, exchanges will identify the transactions carried out on their trading system by the entities in the equities and equity derivative instruments of the listed company.
+
+Each exchange will consolidate the information of the transactions identified by them as well as received from other boursesand depositories.
+
+On consolidation of the transactions, if the disclosure is triggered under the insider trading norms, the exchanges will disseminate the same on their websites.
+
+The transaction carried out on T-day will be disseminated on T+2 day basis. T-day stands for trading day.
+
+In July, Sebi amendedinsider trading norms, wherein listed entities will have to maintain a structured digital database containing unpublished price-sensitive information, the names of persons who have shared the information, automation of the process of filing disclosures to stock exchanges, and restriction on trading window.
+
+(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)
