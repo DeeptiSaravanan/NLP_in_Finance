@@ -5,12 +5,6 @@ and weights. Parameter updating is mirrored across both subnetworks.
 
 It is a keras based implementation of deep siamese Bidirectional LSTM network to capture phrase/sentence similarity using word embeddings.
 
-Below is the architecture description for the same.
-
-![rch_imag](images/arch_image.png)
-
-
-
 #### Install dependencies
 
 `pip install -r requirements.txt`
@@ -86,8 +80,3 @@ results = [(x, y, z) for (x, y), z in zip(test_sentence_pairs, preds)]
 results.sort(key=itemgetter(2), reverse=True)
 print results
 ```
-
-### References:
-
-1. [Siamese Recurrent Architectures for Learning Sentence Similarity (2016)](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12195)
-2. Inspired from Tensorflow Implementation of  https://github.com/dhwajraj/deep-siamese-text-similarity
