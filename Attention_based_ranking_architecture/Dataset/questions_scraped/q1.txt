@@ -1,0 +1,68 @@
+1.	Whether the requirement of compliance with the Code of Conduct would be applicable on trading done by a Portfolio Manager on behalf of a Designated Person?
+2.	Whether trading in ADRs and GDRs by Employees of Indian Companies who are Foreign Nationals is covered under the provisions of SEBI (PIT) Regulations?
+3.	Suppose a trainee at a firm of Practicing Company Secretary comes in possession of UPSI while handling an assignment of a Company, will he be required to adhere to the Code of Conduct of the Company whose UPSI is being handled?
+4.	When SEBI (PIT) Regulations would be deemed to be applicable on a Company whose securities are not listed but are aiming to get listed in future?
+5.	If a Company has filed delisting application, till what time the SEBI (PIT) Regulations would be deemed to be applicable on such a Company.
+6.	Whether an Employee being a Designated Person retired from the Company is required to abide by the Code of Conduct of the Company?
+7. Whether every  Person classified as a Promoter in Shareholding pattern of a Company pursuant  to the provisions of SEBI (LODR) Regulations will be considered as a Designated  Person and is required to adhere to the requirements of the Code of Conduct?
+8. Whether the  provisions of SEBI (PIT) Regulations shall be applicable on trading in  Derivatives?
+9. Can a Trading  Plan be revoked due to practical situations such as Medical emergency etc.?
+10. When should the Trading  Window be closed by the Company so as to fully control any fishy activities and  protect the UPSI?
+11. In  a Listed Company, a Non – Individual Promoter wants to sell Shares to its Wholly  Owned Subsidiary during trading window closure. Whether trading window  restrictions will apply.
+12. If  Pre clearance approval was taken before the Trading Window closure, whether  Promoters can purchase the shares when Trading Window was closed?
+13. If  relatives of Designated Persons purchase shares when Trading window is closed,  even though the relatives are not in talking terms? How to monitor or manage  such situation?
+14. Do  we need to close the trading window for every UPSI?
+15. Do  we need to close the trading window if we are proposing any preferential  allotment?
+16. Can  ESOP be exercised during trading window closure?
+17. Can  transmission of shares be done during trading window closure?
+18. Can  grant of ESOP be made in trading window closure period?
+19. Can  two insiders trade through block deal during trading window closure?
+20. What  trades can be executed while the Trading Window is closed? 
+21. What does the  “process for how and when people are brought ‘inside’ on sensitive  transactions” mean?
+22. How Audit  Committee can review that the Internal Control of the Company is adequate and is  operating effectively?
+23. How Company  can increase its effectiveness of Internal Control System so as to ensure that no  non – compliance occurs?
+24. Whether the  Internal Control Policy is applicable on Designated Persons only or on  all the Employees.
+25. In case of  using digital database software, if the information gets leaked, who shall be  held liable, the Company selling the software or the Company using it?
+26. Does the  requirement of maintenance of structured digital database apply on Listed  Companies only?
+27. Can the  Company hire an agency under outsourcing model for maintenance of its structured  digital database so that information can be supplied to the vendor and feeding  of data is done at the vendors end?
+28. For how long  the Company needs to maintain the data in its structured digital database?
+29. What all  information are required to be maintained under a structured digital database?
+30. The PIT  regulations state that, Companies shall take PAN, from the persons with whom  UPSI is shared. Suppose a Company gives unpublished results to its auditors, should  the Company obtain PAN of: Audit firm,  or  Person to  whom the information is shared by mail, or  its entire  team handling the issue, or all a, b and  c.
+31. How my  Employees will know that a particular information which he may transmit is a  UPSI or not because practically the person giving the information is different  from the person posting the information on website / stock exchanges.
+32. Generally,  UPSI is being shared within the Company on an informal basis. How to control  such practice?
+33. Management is  always engaged in talks of some transaction or the other. However at the time  of recording the data in digital database, their contention is that the  transaction is not final and may also not happen. 
+Whether  recording of nature / purpose of sharing UPSI shall only be done once  transaction is final or it should be done irrespective whether the transaction  takes place in future or not.
+34. Whether Executive Directors who happen to be Promoters,  can be considered as not in possession of UPSI?
+35. At what stage an information is considered as UPSI?
+ Miscellaneous 
+36. All the  disclosures received by the Company are to be maintained for 5 years, suppose  there is a fire and disclosures get burnt out, would it be non-compliance then?
+37. In case a Designated  Person resigns, what information should be collected by the Company?
+38. PIT  Regulations require that PAN or other identifier shall be disclosed by the  Designated Person for self and immediate relatives. 
+However, many  Designated Persons residing outside India are not sharing any identifier  because of the prohibition of sharing data as per the relevant laws of the  Country in which they are residing. 
+How to deal  with this situation?
+39. Whether Compliance  Officer is required to monitor the trades of Ex – Employees, who were Designated  Persons. If yes, till what period after the Employee has exited the Company.
+40. In a Listed Company,  how practicable is it to compare BENPOS to check for trading?
+41. What  constitutes Insider Trading and is it always illegal?
+42. Please  provide certain Do’s and Don’ts for the Designated Persons?
+Do’s for  Designated Persons:
+Don’ts for  Designated Persons:
+43. Regulation  7(2)(a) requires disclosure if number of securities acquired/disposed where  traded value exceeds Rs. 10 lakhs. Will the case of allotment of shares on  account of bonus/rights/merger, also be covered here?
+44. When the  reporting shall be done if there is a violation of SEBI (PIT) Regulations or a  Code of Conduct as maintained under Schedule B or Schedule C of SEBI (PIT)  Regulations. 
+45. Is there any  threshold for reporting to Stock Exchanges about the violation of Code of  conduct by Insiders? 
+46. If there is a  violation of Code of Conduct and some amount is collected by the Company as a  penalty, where shall such amount be deposited? 
+47. What do you  mean by ‘generally available information’?
+48. How SEBI can  initiate action without much available proof that trading is based upon UPSI?  And whether there is a difference in the standard of proof under the PIT  Regulations, 1992 & the PIT Regulations, 2015?
+49. Whether mere  possession of UPSI is an offence under the PIT Regulations?
+50. Whether ‘mens  rea’ is a criterion for determining that trading has been undertaken based on  UPSI?
+51. Whether the  source of the UPSI is necessary to establish the charges of insider trading?
+52. Whether  criminal prosecution can be executed on the charges of insider trading?
+53. Whether  published information in form of speculation & news report, qualify as a  suitable Defence for the information not being UPSI?
+54. Whether  trading pattern of the noticee plays a role in establishing the charge of  insider trading?
+55. What can be considered  as legally valid defence for denying charges of insider trading?
+56. Whether  communication of information without knowing that it was UPSI is a punishable  offence?
+57. Whether  trading in equity shares only while in possession of UPSI is in violation of  PIT Regulation?
+58. Whether  trading on the basis of UPSI punishable for persons not falling under the  definition of ‘Designated Persons’ under the PIT Regulations?
+59. Since the  Courts have allowed WhatsApp as a source of sending notices, should it be  included under allowed means of information sharing?
+60. What is the  legal source of range of penalties under insider trading laws?
+61. Can only  Indian residents be penalized and prosecuted under Insider trading law? 
+62. The price of  shares of a company rises from Rs 5 to Rs. 1500 in 5 months. Can the regulators  suo-motu probe an insider trading case or they should wait for a formal  complaint to be lodged?

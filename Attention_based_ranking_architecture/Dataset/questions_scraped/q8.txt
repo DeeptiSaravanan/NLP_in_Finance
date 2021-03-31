@@ -1,0 +1,56 @@
+1.	What are the most important things which must be kept in mind while planning for a Rights Issue?
+2.	What is the journey of a Rights Issue? 
+3.	What are the different types of Rights Issues?
+4.	What is difference between Fast Track Rights Issue and Normal Rights Issue?
+5.	In a Fast Track Issue, if 1 or 2 conditions, of Regulation 99, are not being met with, does this mean the Company has to come out with a Normal Rights Issue?
+6.	As per Regulation 99 (f), a company needs to be compliant with the listing regulations for 18 months. Do listing regulations, mean only the equity chapter thereof or the debt chapter as well (if the Company’s both equity and NCDs are listed)?
+7.	What is the difference between Regulation 99 and Schedule VI of LODR?
+8.	What is the difference between Part A/ Part B/ Part B 1 of Schedule VI?
+9.	Does that mean that all Fast Track Issues have to prepare LOF in Part B of Schedule VI (i.e. the compressed format)?
+10.	How much time does it generally take to complete a Rights Issue?
+11.	How is the Issue Price determined in a rights issue?
+12.	Which agencies/intermediaries are needed to be appointed/ required for a rights issue?
+13.	If a company has foreign shareholders, what additional compliances/ modalities are to be complied with?
+14.	Under the COVID pandemic, SEBI has notified various relaxations. What are they?
+15.	Can a rights issue be made of partly paid up shares? 
+16.	What are the options available to Eligible Equity Shareholders in Rights Issue?
+17.	Can the shareholders holding physical shares apply in a Rights Issue? 
+18.	Is it mandatory to have a rights issue underwritten?
+19.	Can payment of existing debts of the Company be an object of the Rights Issue? 
+20.	Is there any applicable Minimum Subscription in a Rights Issue?  
+21.	Is there any requirement of disclosure of the intention of promoter for applying in the proposed Rights Issue? 
+22.	What exemptions are available to Promoters under SAST Regulations?
+issue price shall be less than the ex- rights price.
+23.	What is ex-rights price? How is it calculated? What is its significance?
+24.	If the Pre- Issue Promoter holding is 24.8 % and due to Rights Issue and non-subscription /less participation from public shareholders, Promoter holding crosses 25% threshold, will this trigger open offer?  
+25.	If the Pre- Rights Issue Promoter holding is 74.8 % and due to non-subscription/ less participation from public shareholders, Promoter holding crosses the 75% threshold, will this tantamount to breaching of MPS norms, if yes then how the issuer company and promoter will comply the same?  
+26.	Can the promoters sell/renounce their rights entitlements in the Market?
+27.	What are the applicable SAST/ PIT requirements, on the Promoters/ Directors, in case of a Rights Issue? 
+28.	What are Rights Entitlements (REs)? 
+29.	How Rights Entitlement are issued? 
+30.	Can Rights Entitlements be traded offline as well?
+31.	How does the Rights Entitlements trading take place? Is it under the same Scrip code of the Company or a separate Scrip Code is needed to be obtained?
+32.	What happens to the Rights Entitlements of the shareholders holding shares in physical form?
+33.	How is the trading in rights entitlements done?
+34.	Who decides the price of rights entitlements for trading and how? 
+35.	Can a person, who is not a shareholder as on the record date, purchase/ sell the Rights Entitlement? 
+36.	Can the promoters purchase the rights entitlements from the market and apply for the rights equity shares? 
+37.	Can Rights Entitlements be bought/ sold by the Promoters/ Promoter Group during the Trading Window closure period?  
+38.	What if, someone purchases the rights entitlements from the market, but is not able to subscribe during the Issue Period. Will he still get any allotment?  
+39.	In case the issue period is extended, will the trading of RE’s also get extended? 
+40.	What is the hierarchy for basis of allotment?
+41.	Is there any preferential treatment to promoters or the shareholders who had applied for additional shares?
+42.	Can a shareholder, who has sold all his Rights Entitlements during the issue period and holds nil REs in his demat account on the issue closing date, and who applies for the shares in the issue, will get the shares?
+43.	Can a shareholder, who has sold part of his Rights Entitlements, apply for additional shares? 
+44.	What is unsubscribed portion? 
+45.	Will allocation of unsubscribed portion of the rights issue be treated as a preferential allotment under Section 62 (1) (c) of the Companies Act?
+46.	What is the treatment of Fractional shares?  
+47.	What is R-WAP? 
+48.	Is it a permanent platform or it is to be used only during the covid? 
+49.	Who can apply through R-WAP?
+50.	Is R-WAP facility available only to shareholders holding shares in physical mode? 
+51.	What documents are to be uploaded on the website of the company for Inspection? 
+52.	Can ESOP Trust apply for the Rights Issue? If yes, how will the ESOP Trust apply for the Rights Issue? 
+53.	What will happen to the rights entitlement of unclaimed shares? Will they be credited to IEPF? 
+54.	Can a company have 2 rights issues running concurrently?
+55.	When can a company go for rights issue, if the Buyback of shares has been completed in say in February 2020?
