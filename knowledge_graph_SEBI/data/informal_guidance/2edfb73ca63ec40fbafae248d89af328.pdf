@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+	<title>SEBI | 404 Error Page</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="shortcut icon" href="images/icons/sebi-icon.png" type="text/css" media="all" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="stylesheet" href="https://www.sebi.gov.in/fonts/fonts.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.sebi.gov.in/css/reset.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://www.sebi.gov.in/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://www.sebi.gov.in/css/modal.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.sebi.gov.in/css/webslidemenu.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://www.sebi.gov.in/css/responsive.css" type="text/css" media="all" />
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/jquery.min.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/b_min.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/webslidemenu1.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/custom.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/commonsite.js"></script>
+
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/jquery.flexslider.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/cufon-yui.js"></script>	
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/jquery.carouFredSel-5.6.1.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/kendo.web.min.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/jflickrfeed.min.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/jquery.prettyPhoto.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/sticky.js"></script>
+	<!--[if IE 7]><link rel="stylesheet" href="https://www.sebi.gov.in/css/ie7.css" type="text/css" media="all" /><![endif]-->
+	<!-- Javascript	================================================== -->
+	<!--[if lt IE 9]>
+	<script src="https://www.sebi.gov.in/js/html5.js"></script>
+	<script src="https://www.sebi.gov.in/js/css3-mediaqueries.js"></script>
+	<link rel="stylesheet" href="https://www.sebi.gov.in/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+</head>
+<body id="mainContainer">
+<form name="homeForm" method="post" onsubmit="return false;">
+    <header id="header">
+        <script type="text/javascript" src="https://www.sebi.gov.in/js/header.js"></script>
+	</header>
+    <div class="full_width_menu">
+		<div id="header-bottom" class="wrapper clearfix" >
+			<div class="wsmenucontainer clearfix">
+				<div class="overlapblackbg"></div>
+				<div class="wsmobileheader clearfix">
+					<a id="wsnavtoggle" class="animated-arrow"><span></span></a>
+				</div>
+				<div class="header">
+					<nav class="wsmenu clearfix">
+						<script type="text/javascript" src="https://www.sebi.gov.in/js/menu.js"></script>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="header-marquee">
+		<div id="marquee-horizontal"></div>
+	</div>
+    <div class="wrapper clearfix" id="main-content">
+        
+        <div id="member-wrapper" class="clearfix" style="background-color:#fff;">
+            <section class="inner-box clearfix">
+				<h1>404 Error<div class="social-share-btn" id="nonprintableArea">
+					<script type="text/javascript" src="https://www.sebi.gov.in/js/sharenew.js"></script>					
+					</div>
+				</h1>
+				<div class="error-page-wrapper">
+					<div class="error-page-heading"> 404 (Page Not Found) Error!</div>
+					If you're a <strong>visitor</strong> and not sure what happened :
+					<span>1] You entered or copied the URL incorrectly or 2] The page you are looking for does not exist. </span><br/>  
+					<span><a class="btn blue btn-outline" href="https://www.sebi.gov.in/index.html"> Return home </a></span>
+				</div>
+	      </section>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+    <div id="footer-aside">
+        <script type="text/javascript" src="https://www.sebi.gov.in/js/footer.js"></script>
+    </div>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/emailtofriend.js"></script>
+	<script type="text/javascript" src="https://www.sebi.gov.in/js/logindiv.js"></script>
+    <script type="text/javascript" src="https://www.sebi.gov.in/js/go-to-top.js"></script>
+    <script type="text/javascript">
+        function addLoadEvent(func) {
+            var oldonload = window.onload;
+            if (typeof window.onload != 'function') {
+                window.onload = func;
+            } else {
+                window.onload = function() {
+            if (oldonload) {
+                oldonload();
+            }
+            }
+            }
+        }
+        addLoadEvent(chcklogin());
+        addLoadEvent(getmarquee());
+        addLoadEvent(function() {
+        })
+    </script>
+</form>
+</body>
+</html>
