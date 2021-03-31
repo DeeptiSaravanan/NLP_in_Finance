@@ -1,0 +1,49 @@
+Startup founders to have 5-yr sunset clause in proposed superior voting rights regime
+
+Indian entrepreneurs who were pushing for differential voting rights (DVR) or a dual-class share regime to protect their decision-making abilities while raising capital from the public -- along the lines of their Silicon Valley counterparts -- may soon see their wishes come true, but with several riders.
+
+The high-level committee that was constituted by the capital markets regulator Securities & Exchange Board of India (SEBI) has proposed a sunset clause after such startups go public with dual-class shares. The report, which was made public for general comments and suggestions on Wednesday, has also incorporated ‘coat-tail provisions’ to neutralise the super voting rights in certain cases.
+
+A dual-class share structure allows a handful of shareholders, usually promoters and founders, to have greater voting rights in comparison to their equity share capital. This structure is followed in companies like Facebook, Google and other global majors where promoters exercise greater control over the company despite a capitalisation table comprising multiple investors.
+
+The committee has mooted that superior rights (SR) shares can be issued only to the ‘promoter’ of a private company and such firms will be allowed to go public with a ordinary share issue provided the SR Shares are held by the promoters for at least a year prior to filing of the draft offer document with SEBI.
+
+No change in the terms of the SR shares, which are favourable to the SR shareholders, shall be permitted post-IPO, other than the sunset clause.
+
+All SR shares shall remain under a perpetual lock-in after the IPO and pledging of SR shares shall not be permissible. In other words, no third-party interest may be created over the SR shares. The SR shares will also not be permitted to trade till they are converted into ordinary shares, even among promoters themselves.
+
+These SR shares shall get converted into ordinary equity shares on the fifth anniversary of the listing of the ordinary shares of the company. But the validity of the SR shares can be extended by another five years with the approval of shareholders by way of a special resolution.
+
+The promoters, however, may undertake an accelerated conversion of their SR shares into ordinary equity shares. The SR shares shall get compulsorily converted into ordinary equity shares in the event of a merger or acquisition of the company or whenever these are sold by the identified promoters who hold such shares or in the case of demise of the promoter(s).
+
+“A company shall not be permitted to issue SR shares to any person, including to the promoters, in any manner whatsoever, including by way of rights issue or bonus issue, once its ordinary equity shares have been listed,” according to the committee’s report.
+
+However, a company whose SR shares and ordinary equity shares are already listed shall be permitted to issue fractional rights (FR) shares or shares that would have lower voting rights.
+
+The SR shares shall be treated at par with the ordinary equity shares in every respect except in the case of voting on resolutions.
+
+These shares shall be of a maximum ratio of 10:1, i.e. ten votes for every SR share held and a company can issue only one class of SR shares.
+
+Any rights or bonus issue by the company post-listing shall be offered only as ordinary equity shares to the holders of the SR shares.
+
+The committee also added few coat-tail provisions where the SR shares would be treated as having only one vote. These include provisions relating to appointment or removal of independent directors and/or auditor; change in control of the company; any contract or agreement of the company with any person holding the SR shares; voluntary winding up of the company; any material changes in the company’s Article of Association or Memorandum; initiation of a voluntary resolution plan under the Insolvency and Bankruptcy Code, 2016; extension of the validity of the SR shares post completion of five years from date of IPO.
+
+After listing, the voting rights with the promoters through the SR Shares and ordinary equity shares shall not exceed 75% of the total voting rights in line with existing minimum public holding norms for listed companies.
+
+Dual-class shares by an already listed company
+
+Although some large Indian listed companies already have DVRs including firms like Tata Motors and Future Retail, the committee also suggested norms for public firms. Companies whose equity shares are already listed and traded on a recognised stock exchange for at least one year, shall be permitted to issue FR shares by way of rights issue; bonus issue pro rata to all equity shareholders; or a Follow-on Public Offer (FPO) of FR shares.
+
+Similar to SR shares for startups, the FR shares shall not exceed a ratio of 1:10, i.e. one vote as applicable to one ordinary equity share, would be voting entitlement on 10 FR shares. The company may, at its discretion, decide to pay additional dividend per FR share compared to dividend paid on ordinary equity share but no dividend may be payable on FR shares for such years where no dividend has been declared by the company for the ordinary equity shares.
+
+The FR Shares can be converted into ordinary equity shares only in cases of schemes of arrangement. Such shares can be extinguished only through buyback by the company or reduction of capital.
+
+Growing trend but not necessarily best for everyone
+
+The committee noted how in developed markets dual voting class is gaining strength. It said that last year a fifth of companies that went public on US exchanges had at least two classes of stock with DVRs, up from just 1% in 2005.
+
+Supporters of the system argue this enables entrepreneurs to focus on the long term and resist pressure from investors to keep earnings growing every quarter. “But this “founder knows best” approach challenges the bedrock corporate governance principle of “one share, one vote”,” SEBI noted.
+
+It added that providers of capital should have a right to vote in proportion to the size of their ownership and a single class of common stock with equal voting rights makes the board of directors accountable to all of the shareholders—and more likely to respond when management stumbles.
+
+It cited an academic study, “The Life Cycle of Dual Class Firms,” and highlighted that while multi-class companies have a value premium over single-class counterparts at the time of their IPO, that benefit fades to a discount six to nine years after IPO. Other studies show that multi-class companies have a substantially lower total shareholder return compared to single-class companies over 10 years.

@@ -1,0 +1,97 @@
+SEBI’s draft proposals for crowdfunding may restrict it to accredited investors, allow crowd fund AIFs
+
+Securities market regulator Securities & Exchange Board of India (SEBI) has come up with draft proposals which may provide a legal platform for crowdfunding in India, an alternate funding route for startups in the country.
+
+SEBI’s norms will restrict itself to security-based crowdfunding and steer clear of donation and rewards based funding as also peer to peer lending which falls under the purview of RBI. The regulator has categorised three types of crowdfunding equity-based (EbC), debt-based (DbC) and fund-based (FbC).
+
+Some of the key proposals include restricting the crowdfunding to accredited investors; capping crowdfunding up to Rs 10 crore within a 12-month period including oversubscription (which shall be restricted to 25 per cent of the intended fundraise); attract money from maximum of 200 individual investors (besides institutional investors); founders or promoters need to maintain a minimum of 5 per cent stake in the company for at least three years from the date of the issue besides allowing a new class of crowd fund AIF (alternate investment fund which currently covers angel, VC, PE and hedge funds in the country) who can pool in money from other investors to invest in a company, among others.
+
+Who can invest through crowdfunding
+
+Some of the key proposals include restricting the crowdfunding to accredited investors which would be an umbrella comprising qualified institutional buyers, firms with minimum net worth of Rs 20 crore, high net worth investors (HNIs) with net worth of at least Rs 2 crore besides what it calls ‘eligible retail investors’ (ERI).
+
+These other eligible investors need to be soliciting investment advice from an investment adviser or a portfolio manager, or who have passed an appropriateness test which may be conducted by an institution accredited by NISM or the crowdfunding platforms.
+
+Such retail investors or ERIs, however, would also need to have at least Rs 10 lakh gross annual income, filed IT returns for the last three years and certify that they will not invest more than Rs 60,000 in an issue through crowdfunding platform and that they will not invest more than 10 per cent of their net worth (excluding the value of primary residence) through crowdfunding.
+
+Investment limits
+
+EbC and DbC shall allow private placement offers through internet-based crowdfunding platforms to any number of QIBs and a maximum of 200 HNIs and ERIs combined.
+
+A QIB is required to purchase at least five times of the minimum offer value per person and collectively all the QIBs shall hold a minimum of 5 per cent of the securities issued.
+
+SEBI has said a company is required to purchase at least four times of the minimum offer value per person and a HNI is required to purchase at least three times the minimum offer value per person.
+
+The maximum investment by an ERI in an issue shall not exceed Rs 60,000 and the total of all investments in crowdfunding for an eligible retail investor in a year should not exceed 10 per cent of his/her net worth.
+
+Investment conditions
+
+SEBI has said individual investors (HNIs as well as ERIs) must sign a 'Risk Acknowledgement' that they understand the risk of illiquid nature of investment and potential loss of entire investment, and that they can bear the loss.
+
+The issue has to be in demat form thus all the accredited investors need to hold a demat account. The payment has to be made through a cheque or a demand draft or another banking channel. Payment by cash and credit cards shall not be accepted.
+
+The ERIs must be an Indian citizen/NRI.
+
+Who can raise money through crowdfunding
+
+The crowdfunding would be restricted to a maximum of Rs 10 crore in a period of 12 months for a single entity. Companies which intend to make bigger issue can list on one of the SME platforms or main board of a domestic stock exchange.
+
+The norms also says a company raising crowdfunding should not be promoted, sponsored or related to an industrial group which has a turnover in excess of Rs 25 crore or has an established business, a should not be listed on any exchange, should be under four-years old. Such firms should not be raising money to provide loans or invest it further. Also firms engaged in real estate and other banned activities will not be allowed to go ahead with crowdfunding.
+
+Further, to ensure only genuine entities raise funds through this mode, it has added other conditions such as the promoters should not be defaulters in the past.
+
+It has proposed that in a 12-month period issuers shall not use multiple crowdfunding platforms to raise funds, shall not directly or indirectly advertise their offering to public in general or solicit investments from the public and route all crowdfunding issues through a SEBI-recognised crowdfunding platform.
+
+Issuers shall also provide provisions for oversubscription. This may include maximum oversubscription amount to be retained, which should not exceed 25 per cent of the actual issue size; intended usage of the oversubscribed amount. The total amount retained including the actual issue size and oversubscription, shall not exceed the limit of Rs 10 crore.
+
+Who can start a crowdfunding platform
+
+The market regulator has stated three sets of entities can set up a crowdfunding platform starting with recognised stock exchanges or SEBI registered depositories. In addition, it has said technology business incubators can also set up such a platform but with certain riders. These include having minimum net worth of Rs 10 crore and at least five years of experience (or being present for at least five years, which would rule out most private incubators in the country). Alternatively a joint venture between stock exchanges and such technology incubators can also start such a crowdfunding platform.
+
+In addition to these platforms, a dedicated class of platform owners is proposed to enable FbC or fund based crowdfunding. To enable such FbC, it is also proposed that a new class of Crowd Fund AIFs be allowed to be displayed on the platforms launched by stock exchanges or depositories.
+
+The third set of entities who can set up a crowdfunding platform include associations and networks of PE or angel investors with a track record of a minimum of three years and having at least 100 active members and registered under the companies act and having a paid up share capital of at least Rs 2 crore.
+
+The fund based crowdfunding would be restricted to platforms run by those other than business incubators.
+
+The screening committee of a crowdfunding platform may have a strength of a minimum of 10 persons of which at least 40 per cent to be professionals with expertise in mentoring of startups and early stage ventures, at least 30 per cent comprising professionals with experience in banking or capital markets and the rest being persons of high caliber and qualifications which are nominated by the owner of the crowdfunding portal, but not on its payrolls.
+
+Types of crowdfunding
+
+Equity based crowdfunding or EbC funds can be raised against issue of equity shares subject to conditions like no single investor shall hold more than 25 per cent stake in a company and the promoter(s) or founder(s) holding at least 5 per cent equity stake in the company for a minimum of three years.
+
+Debt based crowdfunding or DbC funding would be against issue of debentures or debt securities subject to the condition that the issuer shall appoint a debenture trustee to hold the assets on behalf of the investors and the issuer shall need to create a Debenture Redemption Reserve (DRR) of 25 per cent of the value of the debentures.
+
+Under fund based crowdfunding (FbC) the funds of the accredited investors registered with a recognised platform will be collected online through the platform and pooled under the AIF to invest in shares or debt securities in crowdfunded ventures.
+
+Crowd Fund
+
+For FbCs, it is proposed to provide a separate class of funds under category I AIFs (which currently comprise social and general venture capital funds besides angel funds and infrastructure funds) to offer FbC as category I AIF- Crowd Funds. The minimum and maximum corpus of such funds would be Rs 10 crore and Rs 25 crore, respectively.
+
+Such funds will be able to solicit funds online from a maximum of 1,000 accredited investors. The requirement of the minimum investment of Rs 1 crore by every investor for an AIF is also proposed to be relaxed for this new class and brought to Rs 25 lakh.
+
+All the accredited investors—QIBs, companies, HNIs and ERIs—will be able to invest in these funds. These pooled money will be then invested by Crowd Fund AIFs into start-ups and SMEs displayed on a recognised crowdfunding platform under the terms or objectives of the scheme. The sponsor or manager need to maintain a continuing interest of at least 2.5 per cent of the corpus in the form of investment in the fund and such interest shall not be through the waiver of management fee.
+
+This new class of funds can also solicit funds online through crowdfunding platforms from the registered accredited investors, for deploying them further into donation based crowdfunding. Thus Crowd Funds may also invest in those companies displayed on the crowdfunding platforms which are incorporated as not-for-profit entities or social enterprises, for charitable or community benefit or other public interest projects, with investors focusing more on altruistic reasons or general benefits, rather than any expectation of financial return to them.
+
+For accepting donation from the registered accredited investors, the minimum per capita investment can be set at Rs 50,000. The grantor of donation shall not be entitled to any dividend or profit or gain.
+
+These category I AIF crowd funds shall register with SEBI under the SEBI (AIF) Regulations. They will be subject to same disclosures and valuation requirements as to other venture capital funds.
+
+In contrast with EbC where the accredited investors shall directly hold equity, in FbC the investments of registered accredited investors would be pooled and routed online through a crowd fund. The fund will hold the equity in its name on behalf of the investors who will be issued units of the fund rather than equity of the issuer, and thus have only beneficial ownership in the equity of the company.
+
+The requirement that ERIs consult SEBI registered investment adviser or portfolio manager won’t be applicable for investment through FbC.
+
+Process and clauses
+
+The crowdfunding issue shall remain open for a maximum period of 15 days and it will be considered successful only if it is able to achieve a minimum pre-specified threshold, in terms of percentage of original issue size. This threshold shall be 50 per cent or more and the subscription amount shall be transferred to the issuer by the platform owner or the designated third party, only if the threshold is achieved.
+
+The issuer shall allot the securities to the accredited investors who have subscribed to the issue within 15 days from the date of receipt of the subscription money and if it fails to do so, it shall refund the entire sum. In case the issuer fails to refund the money, it shall be liable to refund that money with interest at the rate of 12 per cent per annum from the expiry of fifteenth day of securities allotment.
+
+The investor may get exit only when there is sale of the company, a management buyout or a floatation of IPO through listing of the company on a recognised stock exchange in SME segment or main board.
+
+Taxation of funds raised through crowdfunding shall be in accordance with the current tax provisions applicable to the unlisted companies raising funds through equity or debt or an AIF.
+
+SEBI has called for public opinion on the draft proposals by July 16. For the full draft click here.
+
+(Edited by Joby Puthuparampil Johnson)
