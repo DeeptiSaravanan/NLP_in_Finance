@@ -1,0 +1,73 @@
+An Introduction to the Indian Stock Market
+
+Mark Twain once divided the world into two kinds of people: those who have seen the famous Indian monument, the Taj Mahal, and those who haven't. The same could be said about investors.
+
+There are two kinds of investors: those who know about the investment opportunities in India and those who don't. India may look like a small dot to someone in the U.S., but upon closer inspection, you will find the same things you would expect from any promising market.
+
+Here we'll provide an overview of the Indian stock market and how interested investors can gain exposure.
+
+The BSE and NSE
+
+Most of the trading in the Indian stock market takes place on its two stock exchanges: the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE). The BSE has been in existence since 1875. The NSE, on the other hand, was founded in 1992 and started trading in 1994. However, both exchanges follow the same trading mechanism, trading hours, and settlement process.
+
+As of February 2020, the BSE had 5,518 listed firms,﻿﻿ whereas the rival NSE had about 1,799 as of Dec. 31, 2019.﻿﻿ Out of all the listed firms on the BSE, only about 500 firms constitute more than 90% of its market capitalization; the rest of the crowd consists of highly illiquid shares.
+
+Almost all the significant firms of India are listed on both the exchanges. The BSE is the older stock market but the NSE is the largest stock market, in terms of volume. As such, the NSE is a more liquid market. In terms of market cap, they're both comparable at about $2.3 trillion. Both exchanges compete for the order flow that leads to reduced costs, market efficiency, and innovation. The presence of arbitrageurs keeps the prices on the two stock exchanges within a very tight range.
+
+1:49 An Introduction To The Indian Stock Market
+
+Trading Mechanism
+
+Trading at both the exchanges takes place through an open electronic limit order book in which order matching is done by the trading computer.﻿﻿ There are no market makers and the entire process is order-driven, which means that market orders placed by investors are automatically matched with the best limit orders. As a result, buyers and sellers remain anonymous.
+
+The advantage of an order-driven market is that it brings more transparency by displaying all buy and sell orders in the trading system. However, in the absence of market makers, there is no guarantee that orders will be executed.
+
+All orders in the trading system need to be placed through brokers, many of which provide an online trading facility to retail customers. Institutional investors can also take advantage of the direct market access (DMA) option in which they use trading terminals provided by brokers for placing orders directly into the stock market trading system.
+
+Settlement and Trading Hours
+
+Equity spot markets follow a T+2 rolling settlement.﻿﻿ ﻿﻿ This means that any trade taking place on Monday gets settled by Wednesday. All trading on stock exchanges takes place between 9:55 a.m. and 3:30 p.m., Indian Standard Time (+ 5.5 hours GMT), Monday through Friday. Delivery of shares must be made in dematerialized form, and each exchange has its own clearing house, which assumes all settlement risk by serving as a central counterparty.
+
+Market Indexes
+
+The two prominent Indian market indexes are Sensex and Nifty. Sensex is the oldest market index for equities; it includes shares of 30 firms listed on the BSE, which represent about 47% of the index's free-float market capitalization.﻿﻿ It was created in 1986 and provides time series data from April 1979, onward.
+
+Another index is the Standard and Poor's CNX Nifty; it includes 50 shares listed on the NSE, which represent about 46.9% of its free-float market capitalization.﻿﻿ It was created in 1996 and provides time series data from July 1990, onward.
+
+Market Regulation
+
+The overall responsibility of development, regulation, and supervision of the stock market rests with the Securities and Exchange Board of India (SEBI), which was formed in 1992 as an independent authority. Since then, SEBI has consistently tried to lay down market rules in line with the best market practices. It enjoys vast powers of imposing penalties on market participants, in case of a breach.
+
+Who Can Invest in India?
+
+India started permitting outside investments only in the 1990s. Foreign investments are classified into two categories: foreign direct investment (FDI) and foreign portfolio investment (FPI). All investments in which an investor takes part in the day-to-day management and operations of the company are treated as FDI, whereas investments in shares without any control over management and operations are treated as FPI.
+
+For making portfolio investments in India, one should be registered either as a foreign institutional investor (FII) or as one of the sub-accounts of one of the registered FIIs. Both registrations are granted by the market regulator, SEBI.
+
+Foreign institutional investors mainly consist of mutual funds, pension funds, endowments, sovereign wealth funds, insurance companies, banks, and asset management companies. At present, India does not allow foreign individuals to invest directly in its stock market. However, high-net-worth individuals (those with a net worth of at least $50 million) can be registered as sub-accounts of an FII.
+
+Foreign institutional investors and their sub-accounts can invest directly into any of the stocks listed on any of the stock exchanges. Most portfolio investments consist of investment in securities in the primary and secondary markets, including shares, debentures, and warrants of companies listed or to be listed on a recognized stock exchange in India. FIIs can also invest in unlisted securities outside stock exchanges, subject to the approval of the price by the Reserve Bank of India. Finally, they can invest in units of mutual funds and derivatives traded on any stock exchange.
+
+An FII registered as a debt-only FII can invest 100% of its investment into debt instruments. Other FIIs must invest a minimum of 70% of their investments in equity. The balance of 30% can be invested in debt. FIIs must use special non-resident rupee bank accounts in order to move money in and out of India. The balances held in such an account can be fully repatriated.
+
+Restrictions and Investment Ceilings
+
+The government of India prescribes the FDI limit, and different ceilings have been prescribed for different sectors. Over a period of time, the government has been progressively increasing the ceilings. FDI ceilings mostly fall in the range of 26% to 100%.
+
+By default, the maximum limit for portfolio investment in a particular listed firm is decided by the FDI limit prescribed for the sector to which the firm belongs. However, there are two additional restrictions on portfolio investment. First, the aggregate limit of investment by all FIIs, inclusive of their sub-accounts in any particular firm, has been fixed at 24% of the paid-up capital.﻿﻿ However, the same can be raised up to the sector cap, with the approval of the company's boards and shareholders.
+
+Secondly, investment by any single FII in any particular firm should not exceed 10% of the paid-up capital of the company. Regulations permit a separate 10% ceiling on investment for each of the sub-accounts of an FII, in any particular firm. However, in the case of foreign corporations or individuals investing as a sub-account, the same ceiling is only 5%. Regulations also impose limits for investment in equity-based derivatives trading on stock exchanges.
+
+Investments for Foreign Entities
+
+Foreign entities and individuals can gain exposure to Indian stocks through institutional investors. Many India-focused mutual funds are becoming popular among retail investors. Investments could also be made through some of the offshore instruments, like participatory notes (PNs), depositary receipts, such as American depositary receipts (ADRs) and global depositary receipts (GDRs), exchange-traded funds (ETFs), and exchange-traded notes (ETNs).
+
+As per Indian regulations, participatory notes representing underlying Indian stocks can be issued offshore by FIIs, only to regulated entities. However, even small investors can invest in American depositary receipts representing the underlying stocks of some of the well-known Indian firms, listed on the New York Stock Exchange and Nasdaq. ADRs are denominated in dollars and subject to the regulations of the U.S. Securities and Exchange Commission (SEC). Likewise, global depositary receipts are listed on European stock exchanges. However, many promising Indian firms are not yet using ADRs or GDRs to access offshore investors.
+
+Retail investors also have the option of investing in ETFs and ETNs, based on Indian stocks. India focused ETFs mostly make investments in indexes made up of Indian stocks. Most of the stocks included in the index are the ones already listed on the NYSE and Nasdaq.
+
+As of 2020, two of the most prominent ETFs based on Indian stocks are iShares MSCI India ETF (INDA) and the Wisdom-Tree India Earnings Fund (EPI). The most prominent ETN is the iPath MSCI India Index Exchange Traded Note (INPTF). Both ETFs and ETNs provide a good investment opportunity for outside investors.
+
+The Bottom Line
+
+Emerging markets like India are fast becoming engines for future growth. Currently, only a very low percentage of the household savings of Indians are invested in the domestic stock market, but with gross domestic product (GDP) growing at 7% to 8% annually for the last few years, though in the 6% range for 2018 and 2019, and a stable financial market, we might see more money joining the race. Maybe it's the right time for outside investors to seriously think about joining the India bandwagon.
