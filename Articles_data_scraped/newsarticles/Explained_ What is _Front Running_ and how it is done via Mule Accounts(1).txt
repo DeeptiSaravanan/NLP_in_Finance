@@ -1,0 +1,55 @@
+Explained: What is 'Front Running' and how it is done via Mule Accounts
+
+Keeping in view the order and seriousness of finding, IIFL AMC has suspended the services of the above employee with immediate effect, vide its letter dated October 4, 2020.
+
+IIFL AMC quickly took note of the SEBI findings and its action against its employee Santosh B. Singh, a dealer.
+
+The market regulator SEBI has barred Santosh B Singh, a dealer at broking firm IIFL, and five of his associates from any stock market transactions till further notice, for front running trades.
+
+Making money in the stock market is hard but if someone wants to take the easy route well someday reality will catch up. A similar thing happened with a dealer at broking firm IIFL over the weekend.
+
+But, what if someone has access to information and use it to his/her own advantage.
+
+To understand Front Running let’s go to the basics of investing. We were told to buy at a lower price and sell at a higher price, but seldom we are able to make this happen because of perfect markets – a term used to define a theoretical market in which buyers and sellers are well informed that market prices cannot be manipulated.
+
+Front Running is a term used when a broker, who has access to inside knowledge of a future transaction that could affect the price substantially, trades that stock.
+
+“Front Running is basically when a broker gets knowledge that a particular stock is to be bought or sold in large quantities for a particular client which will affect the price of the stock in the short term,” Anil Rego, Founder & CEO of Right Horizons told Moneycontrol.
+
+“In this case, the broker will buy or sell the stocks for one's own personal portfolio and book profits accordingly before executing the trade for the client. Executing trades based on insider knowledge is unethical and a high breach on security. There are different types of front running but front running done based on insider knowledge is illegal,” he said.
+
+What is a mule account?
+
+Not that we have understood Front Running, let’s understand what are Mule accounts. Mule Account Holders (MAH) are the entities directly/indirectly recruited/ employed by the masterminds of the front running operation.
+
+The masterminds of front running control the Demat account as well as the trading account of the mules.
+
+“A "mule" is basically a person who transfers money acquired illegally in person through courier service, or electronically on behalf of others. They are used by the person doing the front running and are paid for their services accordingly,” says Rego of Right Horizons
+
+"Mule account holders" are employed directly or indirectly by the people behind the front running operation in order to cover up their trails.
+
+“The masterminds of a front running operation employ mules or mule account holders to execute the operation. The masterminds control the demat accounts, trading accounts, and banking accounts of the mules,” Harsh Jain, Co-founder and COO, Groww told Moneycontrol.
+
+“As soon as they learn about the impending orders, they place buy or sell orders from the trading accounts of the mules to front-run the orders of the large clients. The mule accounts help the masterminds put layers between them and the front-run trades and cover-up the audit trails,” he said.
+
+Different Types of mule accounts:
+
+Harsh Jain, Co-founder and COO of Groww, an online investment platform describes 4 types of mule accounts:
+
+Family & Friends:
+
+Trading accounts that belong to the family members and friends of the masterminds.
+
+Commission Basis:
+
+Accounts that are rented from random people in exchange for a commission.
+
+Forged Identities:
+
+Fraudulent accounts created by using stolen or forged identities.
+
+Dormant Accounts:
+
+Dormant accounts misused by the mastermind to execute the front-run trade.
+
+Disclaimer: The views and investment tips expressed by experts on Moneycontrol.com are their own and not those of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.
