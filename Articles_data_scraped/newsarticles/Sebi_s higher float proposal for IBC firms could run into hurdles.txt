@@ -1,0 +1,29 @@
+Sebi's higher float proposal for IBC firms could run into hurdles
+
+The Securities and Exchange Board of India’s (Sebi’s) proposal to entail higher free-float for companies relisting after insolvency proceedings may run into implementation hurdles. Several legal experts plan to highlight the challenges in implementing all the three options recommended by in a discussion paper floated by it last week.
+
+In the discussion paper —Recalibration of threshold for Minimum Public Shareholding (MPS) norms, enhanced disclosures in Corporate Insolvency Resolution Process (CIRP) cases — the market regulator has proposed that companies should achieve at least 10 per cent public shareholding within six months of re-listing. Currently, those relisting after CIRP are given up to 18 months to achieve a minimum 10 per cent MPS.
+
+The second option is that companies need to have at least 5 per cent MPS after relisting which needs to be hiked to 10 per cent within a year, and 25 per cent in the following two years.
+
+The third option entails companies having at least 10 per cent public float at the time of relisting of their shares, and 25 per cent thereafter in three years.
+
+Experts believe the three options pose challenges for those companies which have just got of CIRP. “Achieving any level of MPS is always a challenge. We have seen normal companies struggle to achieve MPS over the years, with extending the deadline over time. In the case of a CIRP company, the challenges would be even more, since the shareholders would need to have the risk appetite to invest in such a company,” said Rajesh Thakkar, partner & leader-transaction tax, BDO India.
+
+ALSO READ: Apple poised to open its first online store in India next month
+
+Under normal circumstances, a company opting for an initial public offering (IPO) with the post-issue market capitalisation of less than Rs 4,000 crore needs to have at least 25 per cent MPS on listing. Those with over Rs 4,000 crore market cap need to have at least 10 per cent float on listing and are given three years to take MPS to 25 per cent.
+
+“Having a 10 per cent public float pre-listing has multiple challenges around effective market for dilution, issues surrounding future liquidity, and lastly effectively monitoring the actual status of these shareholders as public. The regulator would certainly need to relook at the timelines proposed. Dilution and public participation are dependent on market conditions and volume of the relevant scrip,” said Moin Ladha, partner, Khaitan & Co.
+
+The move to seek higher float was triggered by the eye-popping rise in shares of Ruchi Soya Industries. The company's shares had surged more than 450x after it got relisted following the acquisition by Pantanjali Ayurved under CIRP. Upon relisting, the company had less than 1 per cent shareholding with the public. Several experts criticised the move by exchanges and to allow the stock to trade with such ultra-low free float.
+
+Higher free float or broad ownership in a listed company is desirable as it ensures fair price discovery and also helps prevent manipulation. Experts said Sebi’s proposals are a step in the right direction but one will have to think of more ways of achieving the goal.
+
+Jitesh Shahani, partner, L&L Partners, said: “The challenge in either of these scenarios would be finding market interest to achieve such dilution, and firms with strong brands or which benefit from a favourable industry or fundamental economic cycle could be expected to do better.”
+
+ALSO READ: Flipkart resolves to transition to EVs by 2030, make them locally
+
+The current regulations mandate a one-year lock-in on incoming promoter shares. Sebi, however, has proposed to relax this rule. Raj Bhalla, partner, MV Kini & Co, said there is scope for misuse if new proposals are implemented. “To do away with the lock-in requirement of one year may not be a good option, considering there will be chances of an increase in resolution bids by participants, who want to purchase stressed firms at cheap prices to only sell them immediately after relisting without any restriction. This may effectively fail the process of resolution under the IBC.”
+
+So what are the other options? “Sebi can restrict trading in the stock or impose a lower threshold of circuit breakers until MPS reaches, say, 5 per cent or 10 per cent,” said Shahani.

@@ -1,0 +1,23 @@
+Sebi slaps Rs 6-crore penalty on NSE for investing in 'unrelated' biz
+
+The Securities and Exchange Board of India (Sebi) on Thursday levied a penalty of Rs 6 crore on the National (NSE) for allegedly investing in six companies unrelated or non-incidental to the business.
+
+These firms are Power Exchange India (PXIL), Computer Age Management Systems (CAMS), NSEIT, NSDL E-Governance Infrastructure (NEIL), Market Simplified India (MSIL), and Receivables Exchange of India (RXIL). The held 25 to 100 per cent stakes in these entities through its subsidiary Investments as of September.
+
+“It is concluded that the noticee (NSE) had engaged, directly or through its wholly-owned subsidiary, in activities that are unrelated or non-incidental to its activities as a by way of acquisition of stakes in PXIL, CAMS, NSEIT Ltd, NEIL, MSIL, and RXIL without seeking approval of Thus, it has violated the provisions of regulation 38(2) of (Stock Exchange and Clearing Corporation) 2018 read with regulation 41(3) of 2012,” said in its order.
+
+
+
+In its submission to Sebi, the had argued that most of these investments were related to the stock exchange business. However, the regulator rejected the argument.
+
+For instance, in the case of investments, the regulator said, “The contention of the NSE that activities of are related to the activities of a stock exchange was not found acceptable by as the activities of are that of a market intermediary and it provides back-end services to market participants. Activities of market intermediaries are always incidental to the wherein buying and selling of securities takes place. However, it is not related to function of the stock exchange, which is for the purpose of assisting, regulating or controlling the business of buying, selling or dealing in securities …which is different from the activities specified for other intermediaries to the ”
+
+
+
+The NSE argued that the investments were done by a wholly-owned subsidiary, which had no control over investee companies. To which Sebi observed that the exchange had nominated directors on the boards of most of these entities. The NSE also said some of the regulations were being applied with retrospective effect as investments or incorporation of the entities were done before the SECC regulations 2018 came into existence. The regulator rejected this line of argument, stating that the SECC had commenced from June 2012.
+
+“The four of the investment activities by the notice, in NSEIT, PXIL, MSIL, and NSDL EGov, for which SCN is issued, are continuing activities and they are being carried on by the noticee. The other two activities in CAMS and RXIL have commenced post the commencement of SECC 2012 and hence there is no issue on these activities as far as retrospective application is concerned,” the regulator said.
+
+The NSE divested its entire 37.5 per cent stake in the initial public offering (IPO) of CAMS that concluded last month. CAMS had to change its IPO structure to facilitate the NSE’s exit. In February, Sebi had sent a notice to the NSE to divest its entire holding in CAMS within a year. Under the initial filings made by CAMS in January, the NSE was to divest only 12.5 per cent. However, the exchange’s remaining stake could have got locked in for a year. It couldn’t be confirmed whether Sebi has already asked the NSE to divest its other non-core holdings.
+
+In a separate order, Sebi disposed of the show-cause notices to the NSE without imposing penalty for setting up a company called NSE Strategic Investment Corporation and transferring the 100 per cent stake of DotEx to it. The regulator, however, said that the business activity of DotEx was incidental to the stock exchange business “may be an issue of examination”.

@@ -1,0 +1,33 @@
+SEBI tightens norms on inter-scheme transfers in mutual funds
+
+The Securities and Exchange Board of India (SEBI) has issued a circular on Thursday, which seek to tighten the norms relating to inter-scheme transfers.
+
+The market regulator has said inter-scheme transfers can only be done after other avenues of raising liquidity are attempted and exhausted by a fund house.
+
+These include use of cash and cash equivalent assets available in the schemes and selling of scheme assets in the markets.
+
+All options to be explored
+
+It is at the discretion of the fund manager to use market borrowing before considering inter-scheme transfers or vice-versa. The fund manager would have to take a call keeping in mind the interests of unitholders.
+
+Similarly, “the option of market borrowing or selling of security … may be used in any combination and not necessarily in the above (given) order. In case the option of market borrowing and/or selling of security is not used, the reason for the same shall be recorded with evidence,” the SEBI circular read.
+
+The regulator also wants fund houses to put in place a liquidity risk management model for every scheme to ensure that reasonable liquidity requirements are adequately provided for.
+
+Industry sources suggest this move is aimed at preventing fund houses from frequently using inter-scheme transfers for generating liquidity.
+
+“Fund houses would need to ensure that there is enough liquidity in their schemes, so that inter-scheme transfers can be avoided,” says a fund manager, requesting anonymity.
+
+Misuse to be avoided
+
+SEBI has also laid down guidelines to avoid misuse of inter-scheme transfers.
+
+“No inter-scheme transfer of a security shall be allowed, if there is negative news or rumors in the mainstream media or an alert is generated about the security, based on internal credit risk assessment,” the circular read.
+
+If the security gets downgraded within a period of four months following such a transfer, the fund manager of the buying scheme will have to provide detailed justification to the trustees for buying such a security.
+
+To guard against possible mis-use of inter-scheme transfers in credit risk schemes, trustees shall ensure that there are negative consequences on performance incentives of fund managers and chief investment officers, in case the security becomes default grade within a year of such a transfer.
+
+Inter-scheme transfers can be done to correct breaches of regulatory limits pertaining to group exposure, sector, issuer exposure or overall duration of the portfolio. However, different reasons cannot be cited for transferor and transferee schemes except in case of transferee scheme being a credit risk scheme,” SEBI said.
+
+The circular will come into effect from January 1, 2021.

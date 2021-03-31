@@ -1,0 +1,25 @@
+Sebi to meet stock brokers' body to discuss new rules on margin collection
+
+Markets regulator will meet stock brokers' association and depositories on Tuesday to analyse readiness to implement the new rules on margin collection from September 1, sources said on Monday.
+
+They also said brokers are not technically prepared to roll-out the proposed framework.
+
+Before implementing the framework, wants to discuss the preparedness with the depositories (CDSL and NSDL), stock brokers association and clearing corporations.
+
+Securities and Exchange Board of India (Sebi), in July, extended the implementation of the norms by a month to September 1 after receiving representations from stock brokers regarding changes to the systems and software development.
+
+Besides, had said that trading members (TMs) or clearing members (CMs) will also be allowed to accept client securities as collateral by way of title transfer into the client collateral account as per the present system by August-end.
+
+The regulator had allowed co-existence of the current title transfer collateral mechanism and the new pledge and re-pledge process till August 31 and hadsaid no further extension willbe granted.
+
+The regulator had come out with the norms way back in February, which was scheduled to come into effect from June 1. It was extended to August 1 and thereafter to September 1.
+
+Under the framework, trading members or clearing members will require to align their systems and accept client collateral and margin-funded stocks by way of creation of pledge and re-pledge in the depository system.
+
+Depositories should provide "margin pledge" for pledging clients' securities as margin to the TM or CM. The latter should open a separate demat account for accepting such margin pledge, which should be tagged as "client securities margin pledge account".
+
+To provide collateral in the form of securities as margin, a client will be rquired pledge securities with TM, and TM will re-pledge the same with CM, and CM in turn will re-pledge the same to clearing corporation.
+
+The complete trail of such re-pledge will be reflected in the demat account of the pledgor.
+
+(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)

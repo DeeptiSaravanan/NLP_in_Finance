@@ -1,0 +1,31 @@
+Sebi releases framework to monitor foreign holding in depository receipts
+
+regulator on Thursday came out with a framework to monitor foreign holding in (DRs).
+
+The broad operational guidelines have been put in place based on discussions with market participants, the Securities and Exchange Board of India (Sebi) said in a circular.
+
+It further said Indian depositories, in consultation with each other and market participants, may prescribe the formats and other details, as may be necessary to operationalise the guidelines.
+
+Under the framework, a listed company will appoint one of the Indian depositories as the designated depository for the purpose of monitoring of limits in respect of
+
+The designated depository in co-ordination with domestic custodian, other depositories and foreign depository (if required) will compute, monitor and disseminate the DRs' information as prescribed in the framework.
+
+Further, the information will be disseminated on the websites of both the Indian depositories.
+
+For this purpose, the designated depository will act as the lead depository and the other depository shall act as a feed depository.
+
+With regard to monitoring of investor group limit, said a foreign portfolio investor (FPI) will report the details of all such FPIs forming part of the same investor group as well as offshore derivative instruments (ODIs) subscribers and DR holders having common ownership, directly or indirectly, of more than 50per cent on the basis of common control, to its Designated Depository Participant (DDP).
+
+The investor group may appoint one such FPI to act as a nodal entity for reporting such grouping information to its DDP in the prescribed format.
+
+Further, such nodal FPI would report the investment holding in the underlying Indian security as held by ODI subscriber and / or as DR holder, including securities held in the depository receipt account upon conversion ('DR conversion' account), to its domestic custodian on a monthly basis (by the 10th of every month), said.
+
+Similarly, the FPIs who do not belong to the same investor group would report such investment holding details to their custodian on a monthly basis.
+
+"The depository which monitors the FPI group limits shall club the investment pertaining to DR holding, ODI holding and FPI holding of same investor group and monitor the investment limits as applicable to FPI group in a listed Indian company on a monthly basis," Sebi noted.
+
+However, in respect of FPIs which do not belong to the same investor group, responsibility of monitoring the investment limits of FPI will be with the respective DDP or custodian.
+
+In case where the investment holding breaches the prescribed limits, Sebi said the Indian depository or custodian will advise the concerned investor to divest the excess holding within five trading days.
+
+(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)

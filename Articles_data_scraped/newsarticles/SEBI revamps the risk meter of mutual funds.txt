@@ -1,0 +1,13 @@
+SEBI revamps the risk meter of mutual funds
+
+Your mutual fund's risk disclosure just got more transparent. Based on the recommendations of the Mutual Fund Advisory Committee (MFAC), the Securities Exchange Board of India (SEBI) has issued detailed guidelines for revamping the 'risk-o-meter' for mutual fund schemes. The new risk-o-meter will have six levels of risk to which investors are exposed, up from the five mandated earlier.
+
+New level introduced
+
+Unlike the old framework, within which debt funds were generally considered to be low and moderately low risk schemes or equity funds were considered to be high risk based on how vulnerable the principal amount would be, the new framework takes a deeper look at schemes’ portfolios. For instance, as far as debt funds are concerned, the new guidelines account for credit, liquidity and interest rate risks and risk weights assigned. This formula-driven approach should bring in transparency in the disclosure of risks associated with mutual fund portfolios.
+
+It is binding on the mutual funds to place the risk-o-meter in application forms, advertisements and scheme information documents and key information memorandum in such a manner that it is prominently visible. SEBI has directed fund houses to evaluate the risk-o-meter on a monthly basis and the same should be disclosed with portfolios of schemes on their respective websites and AMFI's website within 10 days from the close of each month. Any change in the risk-o-meter's reading shall be communicated by way of notice cum addendum and by an email or SMS to unitholders, the circular added.
+
+A change in the risk-o-meter, however, won’t be considered as a change in the fundamental attribute of a scheme. These revised guidelines must be implemented by January 1, 2021.
+
+SEBI has also asked the fund houses to use the nomenclature 'income distribution cum capital withdrawal' instead of the word dividend while specifying the plans of the schemes. Hence mutual funds’ dividend payout schemes will be renamed 'Payout of Income Distribution cum capital withdrawal option.' Similarly, dividend reinvestment and dividend transfer plans will be renamed. These changes must be implemented by April 1, 2021.
