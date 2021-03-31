@@ -1,0 +1,29 @@
+Margin calls, leverage lower than 2008 amid steep stock market crash
+
+The steep market crash over the past few sessions has triggered margin calls, albeit on a far lower scale than seen during the financial crisis of 2008.
+
+Market participants attribute this to regulatory tightening and standardisation of margin requirements, stringent reporting for brokers, and segregation of client funds. Wealthy investors hold far fewer concentrated and leveraged portfolios like they used to. The lacklustre performance of midcap stocks over the past two years has also reduced leverage in the system.
+
+The recent fall led several brokers to reduce or block leverage products for intraday trading over the past week even though it was not mandated by the regulator. The funding for SBI Cards & Payment Services has also locked up sizeable liquidity, as the amount bid in IPOs stays blocked for seven to nine days.
+
+“ now levies a short margin penalty where brokers can’t allow customers to hold positions overnight without the minimum stipulated margin. Back in 2008, there was no such restriction. The margin requirement as a percentage of the F&O contracts has gone up as well, bringing down overall risk in the system,” said Nithin Kamath, founder, Zerodha.
+
+Leverage is typically employed by high networth investors. Brokers allow clients to leverage 15-20x based on their collateral and relationship with them.
+
+In 2018, had asked exchanges to collect initial margin, exposure margin or extreme loss margin, mark-to-market settlements, and calendar spread margin from trading members in the F&O segment. Additional surveillance margin was later introduced in addition to SPAN (standard portfolio analysis of risk) and exposure margins.
+
+Derivatives trades require a mandatory cover for volatility over two days. So, one lot of Nifty futures, which needed about Rs 50,000 of SPAN to hold the position overnight, now requires Rs 1 lakh in the form of SPAN and exposure margins.
+
+Earlier this year, stock exchanges asked stockbrokers to collect margins from their clients upfront even for intraday trades. The regulator, however, has put the proposal on hold.
+
+He said brokers had adopted a conservative approach during the current crash and refrained from lending against stocks outside the A category because of the steep VAR margins defined by the exchanges.
+
+For a stock like Reliance Industries (RIL), for instance, a broker would offer 10 times leverage until a few years back. So, for buying Rs 1 crore worth of shares, an investor had to pay Rs 10 lakh. That has risen to about Rs 23 lakh today. Brokers further increased the margin requirement last week to as high as 50 per cent, implying the same investor would have to shell out Rs 50 lakh to purchase Rs 1 crore worth of RIL shares.
+
+The froth in the market is lower than in 2008. “During the five-year bull run between 2003 and 2008, the Nifty 500 index delivered 48 per cent compound annual growth rate (CAGR) returns. During 2015-2020, the same index delivered 8 per cent CAGR.
+
+Similarly, midcaps delivered lower than the broader index returns from 2015-2020, highlighting lack of euphoria,” said Vinay Paharia, CIO, Union MF.
+
+He said the Nifty 500 total market cap to nominal GDP ratio had increased to 83 per cent as on March 31, 2008. It is currently around 60 per cent.
+
+To be sure, brokers that lent through their NBFC arms would still have suffered some losses in the recent carnage, said experts. Some want the regulator to impose a ban on short-selling to reduce speculative activity, akin to China.

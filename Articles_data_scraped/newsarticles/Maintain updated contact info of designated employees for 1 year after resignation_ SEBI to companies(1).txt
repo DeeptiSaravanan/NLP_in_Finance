@@ -1,0 +1,21 @@
+Maintain updated contact info of designated employees for 1 year after resignation: SEBI to companies
+
+Markets regulator SEBI on Thursday said listed companies should make efforts to maintain updated addresses and contact details of "designated employees" for one year after their resignation, under the digital database.
+
+Such data need to be preserved by the company or intermediary fiduciary for a period of five years, SEBI said in a set of Frequently Asked Questions (FAQs) on insider trading regulations.
+
+A listed company needs to maintain structured digital database internally that includes details of Unpublished Price Sensitive Information (UPSI) as well as of persons with whom such UPSI is shared, and details of persons who have shared the information.
+
+Similarly, another structured digital database should be maintained internally by fiduciary or intermediary, capturing such information.
+
+According to the regulator, all information which is required to be collected from designated persons should be collected till date of service of such employees with the company.
+
+Upon resignation from service of the designated person, a company or intermediary or fiduciary should maintain the updated address and contact details of that designated person, SEBI said.
+
+"The company/ intermediary/ fiduciary should make efforts to maintain updated address and contact details of such persons for one year after resignation from service. Such data should be preserved by the company/ intermediary/ fiduciary for a period of 5 years,” it added.
+
+SEBI noted that no pre-clearance is required for exercise of stock options.
+
+Further, the regulator said trading in American Depository Receipts (ADRs) and Global Depository Receipts (GDRs) by employees of Indian companies who are foreign nationals need to follow the code of conduct prescribed under insider trading norms.
+
+"Employees of such companies, including foreign nationals, who are designated persons, shall be required to follow the code of conduct for trading in ADRs and GDRs. For such disclosures by such designated persons, a unique identifier analogous to PAN may be used,” SEBI said in the FAQs.

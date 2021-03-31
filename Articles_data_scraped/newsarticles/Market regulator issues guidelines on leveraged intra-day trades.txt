@@ -1,0 +1,19 @@
+Market regulator issues guidelines on leveraged intra-day trades
+
+The Securities and Exchange Board of India (Sebi) on Monday issued guidelines curbing the practice of margin trading, which the broking community rued will put an end to leveraged intraday trading and make a huge dent in turnover.
+
+It has asked brokers to collect upfront so-called value at risk (VAR) margin and extreme loss margin (ELM) even for trading in the equity cash segment. This will be implemented in three phases starting December 2020, where brokers will be penalised if margin to clients is more than 25 per cent of the sum of VAR and ELM. From March 2021 and June 2021 they will be penalised if the margin exceeds 50 per cent and 70 per cent of VAR+ELM, respectively. From August 2021 onwards, brokers will be penalised if margin exceeds VAR+ELM.
+
+ALSO READ: Gold import likely to fall to two-decade low on demand destruction
+
+The broking community said this will put an end to leverage-based intra-day trading, which is rampant currently. At present, some brokers offer as much as 100 per cent leverage. For instance, stock A has a VAR+ELM of 50, then a broker has to collect Rs 50 for every Rs 100 worth of trade in the stock from August 2021 onwards. Currently, some brokers collect only Rs 1 margin for Rs 100 worth of trade. VAR and ELM are different for different stocks based on factors such as volatility and liquidity.
+
+had proposed to tighten the margin requirements in a circular issued in December 2019. However, the industry had raised operational concerns over collection of upfront margins from clients. Following detailed discussion with industry players, has decided to tweak the framework and implement it in a phased manner. Under the new framework, clearing corporations have been directed to send four snapshots during the day to brokers for identifying the margin requirements.
+
+ALSO READ: SAT stays order against Edelweiss broking, temporary relief for DHFL
+
+“Going ahead, brokers won’t be able to offer intra-day margins beyond VAR+ELM. This could result in huge reduction in intra-day turnover, which is almost 90 per cent of all turnover. Excess intra-day margin provided could result in margin penalty,” said Jimeet Modi, founder and chief executive officer of Samco Group.
+
+Modi said currently about a third of the turnover is due to additional leverage provided by brokers. He said the trading turnover could reduce by up to 20 per cent due to Sebi’s tightening.
+
+Also, during the phased implementation phase, has asked brokers to fund clients using their own funds and not client funds.
