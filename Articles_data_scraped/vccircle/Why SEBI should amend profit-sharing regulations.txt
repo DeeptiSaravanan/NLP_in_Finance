@@ -1,0 +1,39 @@
+Why SEBI should amend profit-sharing regulations
+
+Upside, or profit-sharing, arrangements entered into by management, employees or promoters of a listed entity came under the scanner after senior employees of PVR Ltd, a listed entity, entered into an incentive fee agreement with Multiples Private Equity Fund, PVR’s investor, to share profits at the time of Multiples’ exit in the future.
+
+Subsequently, the Securities and Exchange Board of India (SEBI) issued a show-cause notice to PVR pointing out violation of corporate governance and disclosure-related norms.
+
+The Multiples case and certain other similar situations led to a debate whether such arrangements require disclosure to the public, or necessitate approval from certain stakeholders. SEBI, in January 2017, brought about an amendment to the Securities and Exchange Board of India (Listing Obligation and Disclosure Requirements) (Upside Sharing Regulations) to regulate upside sharing arrangements entered into by employees (including key managerial personnel, promoters and directors) of a listed entity with a shareholder or any third party. Aakash Choubey, Rohan Shrivastava and Radhika Agarwal Under the Upside Sharing Regulations, in addition to disclosure to stock exchanges, existing and new upside sharing or compensation arrangements of a listed entity require approval by the board and public shareholders (excluding interested persons) of the listed entity. The expansive language of the Upside Sharing Regulations raised concern and was first tested by Accelya Kale Solutions Ltd in August 2017 (Accelya Kale Guidance). However, a recent guidance issued by SEBI in the case of Mphasis Ltd raises questions that will impact deal-making in India involving listed companies with unlisted subsidiaries.
+
+The Mphasis situation
+
+Hewlett Packard Enterprise Company (HPE), through its wholly owned subsidiaries (EDS entities), owned about 60.5% of the voting capital of Mphasis, an Indian listed entity. In 2016, the EDS entities sold their entire shareholding in Mphasis to the Blackstone Group.
+
+Prior to HPE’s exit, HPE had issued incentive letters to certain employees of Mphasis and its wholly owned unlisted subsidiaries (eligible employees). Under these letters HPE agreed to make certain payments to the eligible employees in certain situations, including: (a) upon completion of HPE’s exit, (b) retention payment for remaining in employment for one or two years following HPE’s exit, and (c) severance payments in case of termination of their employment without cause prior to completion of two years from HPE’s exit.
+
+Interestingly, while necessary board and shareholder approval for payments to be made by HPE to eligible employees of Mphasis, the listed entity, were being obtained, HPE sought a clarification from SEBI on the applicability of the Upside Sharing Regulations to payments to be made by HPE to the eligible employees of the unlisted subsidiaries of Mphasis.
+
+In a surprising (and unreasoned) guidance, SEBI opined that payments to the eligible employees of the unlisted subsidiaries of Mphasis would fall under the scope of the Upside Sharing Regulations (Mphasis Informal Guidance). This guidance seems contradictory to letter of the Upside Sharing Regulations that clearly apply only to listed entities.
+
+Implication of the Mphasis Informal Guidance
+
+The Mphasis Informal Guidance was issued by SEBI in quick succession to Accelya Kale Guidance, wherein SEBI opined that since the ‘compensation’ or ‘profit sharing’ was linked to the securities of unlisted group entities and not that of the listed entities, the Upside Sharing Regulations are inapplicable.
+
+However, as opposed to the Accelya Kale Guidance, the arrangement in Mphasis relates to employees of both listed and unlisted entities in connection with sale of securities of a listed company.
+
+Mphasis Informal Guidance raises concern at several levels. Does it mean that the customary retention payments to employees, especially critical in buy-out or control deals, will be subject to the rigid test of the Upside Sharing Regulations? Does it mean that SEBI’s view in the case of Accelya Kale that employees receiving compensation should be of the listed company does not hold good anymore? Would SEBI not make a distinction between any subsidiary versus material subsidiary? Should SEBI not prescribe some objective criteria for determining constituents of “compensation” instead of a subjective interpretation?
+
+To address the concerns, SEBI should consider excluding retention payments from the scope of “compensation” and provide some criteria for determination of “compensation” such that it extends to disproportionate payment only.
+
+Similarly, to obviate the necessity of obtaining corporate approvals for unlisted subsidiary companies, the ambit of subsidiary companies should be restricted to material subsidiaries only.
+
+Further, SEBI should also re-consider the test of shareholders’ approval for upside sharing arrangements which permits only ‘public shareholders’ to vote on such resolutions.
+
+While from a corporate governance perspective, it is critical that interested persons are excluded from voting on resolutions for upside sharing arrangements, the Upside Sharing Regulations in their current form, presume that ‘promoters’ will be interested persons at all times. Such a presumption, however, may not be true at all times, particularly for structures involving employee incentivisation and retention (akin to the Mphasis situation) where promoters may not necessarily be interested.
+
+A regulation that emanated to improve disclosure and governance of profit-sharing arrangements between certain set of shareholders, seems to be heading in a direction that may lead to absurd consequences. SEBI should consider amending the Upside Sharing Regulations, sooner than later, to give employees, the investment community and other stakeholders certainty.
+
+The authors are lawyers with Khaitan & Co.
+
+Like this column? Sign up for our daily newsletter to get our top reports.

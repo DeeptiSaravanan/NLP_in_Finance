@@ -1,0 +1,31 @@
+SEBI raises disclosure norms; tightens rules for mutual funds
+
+India’s market regulator reinforced disclosure rules for when the shares in a company are pledged as collateral and tightened rules for mutual funds to try to protect minority shareholders and retail investors.
+
+Promoters of a company — often its main investors — will have to disclose reasons for having pledged shares when combined pledges exceed 20% of the total share capital in a company or 50% of their total shareholding in the firm, the Securities and Exchange Board of India (SEBI) said in a statement on Thursday.
+
+Such pledging refers to the use of shares as collateral when investors are seeking to borrow money. When the total pledged rises, it increases the risk for other shareholders as the stock could fall heavily if lenders are forced to sell the shares in the event of a default.
+
+“The board has taken the above measures in the context of recent concerns with regards to promoter/companies raising funds from mutual funds, NBFCs through structured obligations, pledge of shares, non-disposal undertakings, corporate/promoter guarantees and various other complex structures,” the SEBI said.
+
+SEBI also put a cap on the royalty paid by companies to their parents or promoters and ordered companies to get shareholder approval for royalty payments above the cap.
+
+“The board has now decided that payments made to related parties towards brand usage or royalty may be considered material if the transactions exceed 5 percent of the annual consolidated turnover of the listed entity,” SEBI said.
+
+Mutual fund rules
+
+SEBI also tightened the risk management framework and prudential norms governing investments in debt and money market instruments for liquid mutual funds in an attempt to protect retail investors.
+
+The regulator has made it mandatory for all liquid schemes to have at least 20% in liquid assets such as cash, government bonds, treasury bills or repo in government securities.
+
+It also reduced the sectoral caps on funds to 20% from the existing 25% and asked funds to bring down their additional exposure to housing finance companies to 10% from 15%.
+
+Authorities have been concerned about the liquidity issues being faced by some non-banking finance companies (NBFCs) and have taken efforts to mitigate any contagion risks.
+
+The collapse of Infrastructure Leasing and Financial Services (IL&FS) last year triggered a series a defaults across the shadow banking sector, as borrowing costs for the sector surged forcing them to turn to mutual funds.
+
+The regulator has thus also mandated funds to invest only in listed non-convertible debentures and limited fresh investments in commercial papers to only listed papers.
+
+“All fresh investments in equity shares by mutual fund schemes shall only be made in listed or to be listed equity shares,” SEBI said.
+
+There should be adequate security cover of at least four times for investment by schemes in debt securities having credit enhancements backed by equities directly or indirectly.
