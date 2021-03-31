@@ -1,0 +1,27 @@
+Decoded: Why Sebi's new margin pledge norms have rattled brokerages
+
+Most are rattled by market regulator Securities and Exchange Board of India’s (Sebi’s) new margin pledging norms. Business Standard tries to explain why introduced this new system and why it is worrying the broking community:
+
+What has triggered the move by
+
+Under the earlier system, as part of the account opening form, several obtained a power of attorney (POA) from their clients to access their account. This was required to provide higher margins for trading. A POA allowed a broker to move client securities from their dematerialised (demat) account to a collateral account which could be accessed by both the broker as well as a client. Several were seen misusing the POAs, prompting to rework their entire system of pledging.
+
+How did misuse the POA?
+
+Several brokers used shares of dormant or inactive clients to provide margins for other more active clients. Some brokers even raised money by pledging shares in the collateral account to fund other businesses. Also, they siphoned off dividends of inactive clients. Sebi has taken action against several brokers for misusing their client securities.
+
+How will the new pledging system work?
+
+Now Sebi has done away with the system of creating POAs. As a result, brokers will not have any direct access to client securities. Instead, clients will be able to pledge and re-pledge their holdings with brokers for generating margins. Depository firms CDSL and NSDL have developed a software for pledging and repledging demat holdings directly by clients. Whenever a client has to generate margins, they will now be directed to the webpage of the depository. After OTP authentication, clients will be able to see their holdings, which can be pledged or unpledged with the broker to generate margins for trading.
+
+When does the pledging system come into effect?
+
+The new system has become effective from September 1, 2020. It was to come into effect from August 1. However, due to under-preparedness of brokers and depository firms, Sebi delayed the implementation by a month. The market regulator allowed the earlier and the new system to work in parallel in the interim. As a result, many brokers, especially the tech savvy ones, have already moved to the new system. Some traditional brokers are still not prepared. They had approached the market regulator seeking more time. However, Sebi has turned down the request following assurances by depositories that the new system was ready.
+
+Will the new system impact the stock
+
+Many are expecting the trading volumes to come down in the cash segment. This has less to do with the new pledging system and more to do with the new margin norms. Under the new margin norms, Sebi has virtually put an end to excessive leverage trades. The regulator has directed brokers to collect higher margins from their client. The margins differ for individual stocks based on their VAR and ELM readings (value at risk and extreme loss margin). Failing to do so, Sebi will impose heavy penalties. Also, clients will have to wait for the settlement cycle (T+2) to complete to use the proceeds of their sales or to pledge newly bought shares. Earlier, brokers allowed clients to use profits from their trades or allowed newly bought shares to be pledged even before the settlement cycle completed. Some expect cash market volumes to drop by 25 per cent. Also, some attributed Monday’s selloff due to unwinding of positions required to move to the new system.
+
+What changes for stock market investors?
+
+Clients who are not into intra-day and ultra-short term trading may not be impacted much. However, those who are active traders will have to provide higher margins which will technically increase their trading costs. Also, it could take time for traders to get a handle on the new system. Further, there could be delays in getting shares pledged and unpledged in case depository systems are not able to take the load and generate OTPs on time.
