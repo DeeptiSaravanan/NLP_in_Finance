@@ -1,0 +1,27 @@
+PoA optional for opening of client account by stockbrokers or DP: Sebi
+
+In view of instances of misuse of (PoA), on Thursday reiterated that PoA is optional for opening of client account by stockbrokers or depository participants.
+
+In a circular, noted that PoA is invariably obtained from the investors as part of the (KYC) and account opening process. It also noted that PoA executed by clients are found to have been misused by the stockbrokers by taking authorisation even for activities prohibited by the regulator in its guidelines for execution of PoA, issued in April 2010, it added.
+
+Therefore, said that "PoA is optional and should not be insisted upon by the stockbroker/ depository participant (DP) for opening of the client account".
+
+Besides, PoA may also be used for pledging or re-pledging of securities in favour of trading member (TM) or clearing member (CM) for the purpose of meeting margin requirements of the clients in connection with the trades executed by the clients on the stock exchange.
+
+In addition, PoA can be used for the limited purposes as specified in the guidelines for execution of PoA issued in April 2010, Sebi said.
+
+ALSO READ: Unlock BFSI 2.0: Time for banks to look 'deeply within', says RBI Guv Das
+
+Sebi asked the stock exchanges and depositories to ensure that PoA is not used by TM/CM/DPs for any purpose other than the ones specified by the regulator through its circulars.
+
+The watchdog also specified the activities the stock brokers will not be allowed to carry out using PoA.
+
+Sebi also said all off-market transfer of securities shall be permitted by the depositories either by execution of physical delivery instruction slip (DIS) duly signed by the client himself or by way of electronic DIS.
+
+"The depositories shall also put in place a system of obtaining client's consent through one-time password (OTP) for such off-market transfer of securities from client's demat account," Sebi said.
+
+The circular shall be applicable with effect from November 1, 2020, and the guidelines issued in April 2010 along with the clarifications issued in August 2010 will continue to remain applicable.
+
+Sebi in April 2010 had said that PoA must not be made a mandatory condition for availing broking or DP services. PoA is merely an option available to the client for instructinghis broker or depository participant to facilitate the delivery of shares and pay-in/pay-out of funds etc.
+
+"No stock broker or depository participant shall deny services to the client if the client refuses to execute a PoA in their favour, it had added.

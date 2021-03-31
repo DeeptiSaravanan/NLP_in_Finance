@@ -1,0 +1,15 @@
+Sebi clarifies on penalty for non-collection of margins in cash segment
+
+regulator on Tuesday provided clarity on levy of penalty for non-collection of margins from clients in the cash segment by trading and clearing members.
+
+The clarification, which comes afer the watchdog received various representations, is with regard to levy of penalty for non-collection of 'other margins' on or before T+2 days from clients. The 'other margins' exclude VaR (value at risk) margin and ELM (extreme loss margin).
+
+"If pay-in (both funds and securities) is made by T+2 working days, the other margins would deemed to have been collected and penalty for short / non-collection of other margins shall not arise," said in a circular addressed to stock exchanges and clearing corporations.
+
+Further, it said if early pay-in of securities has been made to the clearing corporation, then all margins would be deemed to have been collected and penalty for short/ non-collection of margin, including other margins, would not arise.
+
+In case a client fails to make pay-in by T+2 working days and the trading member or clearing member concerned does not collect other margins from the client within the given time period, the same would result in levy of penalty.
+
+"It is reiterated that clearing corporation shall continue to collect upfront VaR plus ELM and other margins from TM/ CM as applicable from time to time," the circular said.
+
+(Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)

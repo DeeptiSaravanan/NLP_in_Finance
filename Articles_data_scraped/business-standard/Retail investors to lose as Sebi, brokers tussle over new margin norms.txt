@@ -1,0 +1,23 @@
+Retail investors to lose as Sebi, brokers tussle over new margin norms
+
+The new margin norms, which kick in from August 1, 2020, are causing some apprehensions in the trading community. There could be initial technical issues because the brokers claim that they need software upgrades to implement. However, initial glitches apart, there could be a volume crunch that leads to long-term trends of lower valuations.
+
+The essential difference is that traders will have to maintain, or pay their full margin upfront, for trades in the cash market. They will have to put the margin down even before they sell a stock. The earlier system, which is being phased out by July 31, allowed such trades to be carried out without the full upfront margin.
+
+In the event of a client default, the broker always has to make up the shortfall from its own funds in the current practice. However, the industry association ANMI (Association of National Exchanges Members, India) points out, quite correctly that there has never been any serious default in the 25-odd years of the electronic trading system.
+
+In the new system, according to brokers, margin-traders will have to put down roughly 20 per cent of the trade value before they execute a trade and the broker could be punished if there is a shortfall or false reporting in terms of margins. Even if the broker is prepared to bear the margin risk, the regulator will not allow it. If traders cannot find the cash (or pledge securities) upfront, this could lead to significant reduction of volumes in the cash market where over Rs 30,000 crore of trades occur on an average day across national exchanges. After December 2020, the margin requirements will be even stiffer as the Securities and Exchange Board of India (Sebi) wants a move to a six-sigma margin Value-at-risk (VAR) system from the current 3.5 sigma. Margins will, therefore, increase again after December.
+
+Brokers are lobbying the regulator for approval for treating Power of Attorneys as valid margin collection documents, and no levy or penalty for non-collection or short collection of upfront margin in the cash segment, and the allowing of stocks as margin funding by way of pledges. However, the has spent a long time debating this issue of margins and it may not be inclined to allow the brokers’ requests.
+
+Assuming the new margin regime comes into force and further tightening in December happens, the higher margins will impact trading volumes to some extent. A fall in liquidity is generally associated with fall in stock price. In this case, they may also be associated with a higher delivery ratio, since it will be the day-traders who are most affected by higher margins.
+
+From the regulator’s perspective, the rationale for higher margins would be at least two-fold. The first is that may be concerned about speculation in the right now, which is creating a frothy market and very low delivery ratios. Higher margins will help to correct that. The second concern is high volatility. Although circuits can restrict maximum daily swings in the cash segment, the daily price ranges (low to high) are quite high. This could mean a sequence of big moves resulting in margin calls. Higher upfront margin reduces systemic risks of defaults.
+
+From the brokers’ perspective, concern is also understandable. Lower trade volumes equates to lower income for the industry. The brokers may also have a point in that they could claim to know their clients, and they may have adequate funding to foot margin risks.
+
+From the investor and trader perspective, higher margin with the promise of yet another margin hike by year-end could mean lower trading volumes and lower prices in the cash segment. This will mainly affect the retail player. Certain stocks could also see a sharp loss of liquidity. should be cautious until the new system stabilises and the trends become clear.
+
+=================================
+
+Devangshu Datta is an independent market analyst. Views are his own.

@@ -1,0 +1,35 @@
+Sebi allows acceptance of client securities as collateral till August 31
+
+regulator on Wednesday allowed co-existence of the current title transfer collateral mechanism and the new pledge and re-pledge process till August 31.
+
+The decision has been taken in view of the prevailing situation due to the Covid-19 pandemic and partial lockdowns in various areas of the country.
+
+Besides, the regulator received representations from stock brokers regarding changes to the systems and software development.
+
+In a circular, the Securities and Exchange Board of India (Sebi) said the mechanism of pledge and re-pledge will be implemented with effect from August 1.
+
+Trading members (TMs) or clearing members (CMs) need to align their systems and accept client collateral and margin-funded stocks by way of creation of pledge and re-pledge in the depository system.
+
+It further said TM or CM will also be allowed to accept client securities as collateral by way of title transfer into the client collateral account as per the present system.
+
+"The system of parallel acceptance of the client securities by way of title transfer shall be available only up to August 31, 2020, and no further extension shall be granted," said.
+
+Funded stocks held by the TM or CM under the margin trading facility will preferably be held by them by way of pledge with effect from August 1.
+
+It further said trading or clearing member may continue to hold funded stocks in respect of margin funding in 'client margin trading securities account' till the end of August.
+
+The regulator reiterated that trading or clearing member will have to close all existing demat accounts tagged as client margin or collateral by August 31.
+
+Earlier in the day, the Association of National Exchanges Members of India (ANMI) has written to and the finance ministry seeking them "to consider granting extension of implementation of Sebi circular for the next two months and allow the existing system of crediting the funded stock to earmarked funded stock DP account".
+
+In February, Sebi had issued stringent norms to prevent misuse of clients' securities that are available with trading and clearing members, and depository participants.
+
+It had banned transfer of clients' securities to demat accounts of trading and clearing members.
+
+Under the framework, TM or CM will accept collateral from clients in the form of securities, only by way of "margin pledge", created in the depository system, with effect from June 1. This was extended to August 1.
+
+Sebi said depositories should provide "margin pledge" for pledging clients' securities as margin to the TM or CM. The latter should open a separate demat account for accepting such margin pledge, which should be tagged as 'client securities margin pledge account'.
+
+"For the purpose of providing collateral in the form of securities as margin, a client shall pledge securities with TM, and TM shall re-pledge the same with CM, and CM in turn shall re-pledge the same to clearing corporation (CC).
+
+"The complete trail of such re-pledge shall be reflected in the demat account of the pledgor," Sebi had said.
