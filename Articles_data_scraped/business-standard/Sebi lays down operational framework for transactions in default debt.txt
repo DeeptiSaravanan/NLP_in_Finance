@@ -1,0 +1,25 @@
+Sebi lays down operational framework for transactions in default debt
+
+The Securities and Exchange Board of India (Sebi) on Tuesday laid down the operational framework to allow transactions in that have defaulted on maturity-linked payments.
+
+Experts say the move can help (MFs) sell debt papers, which have defaulted to distressed funds. “Enabling this could help develop a distressed market in India in the future. A distressed fund can be sold the stressed asset at marked-down valuations,” said a debt fund manager.
+
+“Within two working days from the date of intimation from issuer or debenture trustee(s) that issuer has defaulted on its payment obligations, the depositories in co-ordination with stock exchanges shall update the ISIN master file and lift restrictions on transactions in such debt securities,” the circular read.
+
+ALSO READ: Petrol, diesel price gap narrows to just 36 paise; consumption picks up
+
+The circular, which comes into force on July 1, will ensure that default securities are flagged off as “ISIN-defaulted in redemption” and mandatorily disclose that there was default in payment of redemption amount.
+
+ISIN or International Securities Identification Number is used for uniquely identifying securities like stocks, bonds warrants and commercial papers.
+
+The circular lays down other provisions that are needed to followed, to ensure that information pertaining to the default securities is update in a timely manner.
+
+According to the existing practice, the stock exchanges suspend trading and reporting of trades on before the redemption date.
+
+ALSO READ: Chinese shipments await Customs clearance amid border standoff with India
+
+Also, depositories impose restriction on off-market transfers on redemption date. This restricts transfers on and after the redemption date of the debt paper.
+
+The measures are among the other steps that the market regulator has taken in the aftermath of the Covid-19 outbreak, to give some relief to market participants.
+
+In March, the regulator said that rating agencies should also use their discretion to check if a default was solely on account of the lockdown or because of procedural delays in availing of the moratorium allowed by the Reserve Bank of India. If so, the rating agencies may choose not to consider such a delay as default.

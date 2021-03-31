@@ -1,0 +1,31 @@
+Sebi issues SoP to deal with possible defaults by trading, clearing members
+
+on Wednesday came out with a set of standard operating procedures for stock exchanges, clearing corporations and depositories to deal with possible defaults by trading or clearing members.
+
+The framework, which will come into force from August 1, is aimed at protecting the interest of non-defaulting clients of trading members or clearing members in the likely event of default by trading member or clearing member.
+
+The Standard Operating Procedure (SoP) enumerates actions that need to taken when a stock exchange or clearing corporation is of the view that a trading or a clearing member is likely to default in repayment of funds or securities to its clients, according to a circular.
+
+The regulator also said the SoP has been prepared in order to harmonise and ensure uniformity in the action amongst all the stock exchanges, clearing corporations and depositories in a time-bound manner.
+
+In December 2018, had specified early warning mechanism to prevent diversion of clients' securities. It was mentioned that alerts triggered at one stock exchange, clearing corporation or depository through early warning mechanism should be immediately shared with others with respect to the stock broker or depository participant concerned.
+
+The SoP lays down the actions to be initiated by the stock exchanges/ clearning corporations/ depositories within a time frame after detection of the early warning signals and certain other triggers, as per the circular.
+
+The actions have to be initiated by the initiating stock exchange, stock exchanges, clearing corporations and depositories.
+
+Apart from the early warning mechanism, the regulator has also mentioned certain other triggers for initiating actions, including when there is a shortage of funds or securities payable to the clients by Rs 10 crore. Stock exchanges might have a different criteria in terms of the quantum.
+
+Another trigger would be that a trading or a clearing member has failed to meet the settlement obligations. Also, sudden increase in the number of investor complaints against a trading or clearing member for non-payment of funds and/ or transfer of securities, as per
+
+When a show cause notice is issued for declaring a trading or clearing member as a defaulter by any exchange, its subsidiary and associate companies which are also members on other segment, exchange or clearing corporation should also be put in suspension mode. Further, all their open positions shall be squared off and their assets shall be frozen, the circular said.
+
+Stock exchanges have been asked not to expel a trading member until the default proceedings are completed.
+
+Among others, stock exchanges, clearing corporations and depositories have to follow the timelines with respect to each action in the SoP. In case of any deviation, reasons for the same have to be recorded.
+
+With the introduction of uniform membership structure of trading member and clearing member across all segments, Sebi said a trading member should make good the default of its clients to the clearing member. Also, a clearing member should make good the default of its clients/ trading members to the clearing corporation.
+
+"The default of trading member may not necessarily lead to default of clearing member, if the clearing member continues to fulfill the settlement obligation with the clearing corporation.
+
+"To protect the interest of non-defaulting clients of a trading member and/or non-defaulting clients/ trading members of of the clearing member, in the likely event of default by trading member/ clearing member, there is a need for Standard Operating Procedure (SoP) enumerating the steps to be taken...," the circular said.
